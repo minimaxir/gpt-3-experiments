@@ -1,0 +1,734 @@
+
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: es-deployment
+spec:
+  replicas: 2
+  selector:
+    matchLabels:
+      app: elasticsearch
+template:
+    metadata:
+      labels:
+        app: elasticsearch
+    spec:
+      containers:
+      - name: elasticsearch
+       image: elasticsearch:1.7.1
+apiVersion: v1
+kind: Service
+metadata:
+  name: elasticsearch-service
+spec:
+  ports:
+    - protocol: TCP
+      port: 9200
+
+Input: create index and type in Elasticsearch 
+Output:
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: es-deployment
+spec:
+  replicas: 2
+  selector:
+    matchLabels:
+      app: elasticsearch
+template:
+    metadata:
+      labels:
+        app: elasticsearch
+    spec:
+      containers:
+      - name: elasticsearch
+       image: elasticsearch:1.7.1
+input: deploy 2 replicas of nginx
+output:
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: nginx-deployment
+spec:
+  replicas: 2
+  selector:
+    matchLabels:
+      app: nginx
+template:
+    metadata:
+      labels:
+        app: nginx
+    spec:
+      containers:
+      - name: nginx
+       image: nginx:1.10
+apiVersion: v1
+kind: Service
+metadata:
+  name: nginx-service
+spec:
+  ports:
+    - protocol: TCP
+      port: 80
+
+Input: expose nginx on port 8080
+Output
+====================
+
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: elasticsearch-deployment
+spec:
+  replicas: 2
+  selector:
+    matchLabels:
+      app: elasticsearch
+template:
+    metadata:
+      labels:
+        app: elasticsearch
+    spec:
+      containers:
+      - name: elasticsearch
+        image: elasticsearch:2.3.2
+
+Input: Deployment is already present.
+Output:
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: elasticsearch-deployment
+spec:
+  replicas: 2
+  selector:
+    matchLabels:
+      app: elasticsearch
+template:
+    metadata:
+      labels:
+        app: elasticsearch
+    spec:
+      containers:
+      - name: elasticsearch
+        image: elasticsearch:2.3.2
+
+Input: List all the deployments in the namespace
+Output:
+apiVersion: v1
+kind: Service
+metadata:
+  name: elasticsearch-service
+spec:
+  ports:
+    - protocol: TCP
+      port: 9200
+
+Input: Describe the Elasticsearch deployment
+Output:
+apiVersion: v1
+kind: Deployment
+metadata:
+  name: elasticsearch-deployment
+spec:
+  replicas: 2
+  selector:
+    matchLabels:
+      app: elasticsearch
+template:
+    metadata:
+      labels:
+        app: elasticsearch
+    spec:
+      containers:
+      - name: elasticsearch
+        image: elasticsearch:2.3.2
+
+Input: Get a list of all the pods in the namespace
+Output:
+apiVersion: v1
+kind: Pod
+metadata:
+  name: elasticsearch-master
+spec:
+====================
+
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: es-deployment
+spec:
+  replicas: 3
+  selector:
+    matchLabels:
+      app: es
+  template:
+    metadata:
+      labels:
+        app: es
+    spec:
+      containers:
+      - name: es
+        image: elasticsearch:2.4.0
+apiVersion: v1
+kind: Service
+metadata:
+  name: es-service
+spec:
+  selector:
+    app: es
+ports:
+    - protocol: TCP
+      port: 9200
+
+Input: expose elasticsearch on port 9200
+Output:
+apiVersion: v1
+kind: Service
+metadata:
+  name: es-service
+spec:
+  selector:
+    app: es
+ports:
+    - protocol: TCP
+      port: 9200
+
+Input: Deployment that contains the StatefulSet with two replicas
+Output:
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: ss-deployment
+spec:
+  replicas: 2
+  selector:
+    matchLabels:
+      app: ss
+  template:
+    metadata:
+      labels:
+        app: ss
+    spec:
+      statefulset:
+        selector:
+        matchLabels:
+            app: ss
+       replicas: 2
+      serviceName: ss-service
+      template:
+        metadata:
+        labels:
+            app: ss
+        spec:
+        ports:
+        - name: http
+       
+====================
+
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: elasticsearch-deployment
+spec:
+  replicas: 2
+  selector:
+    matchLabels:
+      app: elasticsearch
+template:
+    metadata:
+      labels:
+        app: elasticsearch
+    spec:
+      containers:
+      - name: elasticsearch
+        image: elasticsearch:1.7.4
+cli for Kubernetes
+Kubernetes has its own CLI to work with. This tool is very easy to use and has some basic functionality to run kubernetes commands.
+To run kubernetes commands, you have to install kubectl. kubectl is a CLI for running kubernetes commands.
+For running kubernetes commands, you need kubectl configuration file. It is kubeconfig. kubeconfig is a file for kubectl to connect with kubernetes cluster. You can create kubeconfig by using kubectl.
+Kubernetes cluster will have its own certificate and key. kubectl will use this certificate and key to connect with kubernetes cluster. So, you need to get these certificates and keys and place it in kubeconfig.
+In kubeconfig, you have to define kubernetes cluster name.
+To run kubernetes commands, you have to use kubectl command.
+To connect with kubernetes cluster, you have to run the command
+kubectl config use-context <context_name>
+Now, you can run any kubernetes command by using kubectl command.
+Examples:
+# run kubernetes cluster
+kubectl run nginx --image=nginx
+# get pods
+kubectl get pods
+# get service
+kubectl get service
+# get deployment
+kubectl get deployment
+# get replicaset
+kubectl get replicaset
+# get replicationcontroller
+kubectl get replicationcontroller
+# get replicationcontrollers
+kubectl get replicationcontrollers
+# get deployments
+k
+====================
+
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: es-deployment
+spec:
+  replicas: 2
+  selector:
+    matchLabels:
+      app: elasticsearch
+template:
+    metadata:
+      labels:
+        app: elasticsearch
+    spec:
+      containers:
+      - name: elasticsearch
+        image: elasticsearch:2.4.0
+input: set name to 2 replicas
+Output:
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: es-deployment
+spec:
+  replicas: 2
+  selector:
+    matchLabels:
+      app: elasticsearch
+template:
+    metadata:
+      labels:
+        app: elasticsearch
+    spec:
+      containers:
+      - name: elasticsearch
+        image: elasticsearch:2.4.0
+input: set cluster name to "testcluster"
+Output:
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: es-deployment
+spec:
+  replicas: 2
+  selector:
+    matchLabels:
+      app: elasticsearch
+template:
+    metadata:
+      labels:
+        app: elasticsearch
+    spec:
+      containers:
+      - name: elasticsearch
+        image: elasticsearch:2.4.0
+input: set cluster name to "testcluster"
+Output:
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: es-deployment
+spec:
+  replicas: 2
+  selector:
+    matchLabels:
+      app: elasticsearch
+template:
+    metadata:
+      labels:
+        app: elasticsearch
+
+====================
+
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: elasticsearch-deployment
+spec:
+  replicas: 2
+selector:
+    matchLabels:
+      app: elasticsearch
+template:
+    metadata:
+      labels:
+        app: elasticsearch
+    spec:
+      containers:
+      - name: elasticsearch
+        image: elasticsearch:2.4.1
+elasticsearch:2.4.1
+
+Input: get the logs of elasticsearch deployment
+Output:
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: elasticsearch-deployment
+spec:
+  replicas: 2
+selector:
+    matchLabels:
+      app: elasticsearch
+template:
+    metadata:
+      labels:
+        app: elasticsearch
+    spec:
+      containers:
+      - name: elasticsearch
+        image: elasticsearch:2.4.1
+apiVersion: v1
+kind: Service
+metadata:
+  name: elasticsearch-service
+spec:
+  ports:
+    - port: 9200
+
+Input: create a user and assign to a group
+Output:
+apiVersion: v1
+kind: User
+metadata:
+  name: test-user
+kind: Group
+metadata:
+  name: test-group
+apiVersion: extensions/v1beta1
+kind: Deployment
+metadata:
+  name: wordpress-deployment
+spec:
+  replicas: 3
+selector:
+    matchLabels:
+      app: wordpress
+template:
+    metadata:
+      labels:
+        app: wordpress
+    spec:
+      containers:
+      - name: wordpress
+        image: wordpress:3.5.0
+apiVersion: extensions/v1beta1
+kind:
+====================
+
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: elasticsearch-deployment
+spec:
+  replicas: 2
+  selector:
+    matchLabels:
+      app: elasticsearch
+template:
+    metadata:
+      labels:
+        app: elasticsearch
+    spec:
+      containers:
+      - name: elasticsearch
+       image: elasticsearch:2.3.1
+- name: elasticsearch
+       image: elasticsearch:2.3.1
+
+Input: expose Elasticsearch on port 9200
+Output:
+apiVersion: v1
+kind: Service
+metadata:
+  name: elasticsearch-service
+spec:
+  selector:
+    app: elasticsearch
+ports:
+    - protocol: TCP
+      port: 9200
+
+Input: use the app=elasticsearch label to deploy a pod 
+Output:
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: elasticsearch-deployment
+spec:
+  replicas: 2
+  selector:
+    matchLabels:
+      app: elasticsearch
+template:
+    metadata:
+      labels:
+        app: elasticsearch
+    spec:
+      containers:
+      - name: elasticsearch
+       image: elasticsearch:2.3.1
+
+Input: use the app=elasticsearch label to deploy a service 
+Output:
+apiVersion: v1
+kind: Service
+metadata:
+  name: elasticsearch-service
+spec:
+  selector:
+    app: elasticsearch
+ports:
+    - protocol: TCP
+      port: 9200
+
+Input: use the app=elasticsearch label to select a pod
+Output:
+apiVersion: v1
+kind: Pod
+metadata:
+  name: elasticsearch-pod
+spec:
+  containers:
+    - name: elasticsearch
+      image: elastic
+====================
+
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: elasticsearch-deployment
+spec:
+  replicas: 2
+selector:
+    matchLabels:
+      app: elasticsearch
+template:
+    metadata:
+      labels:
+        app: elasticsearch
+    spec:
+      containers:
+      - name: elasticsearch
+       image: elasticsearch:1.7.3
+env:
+    - name: POD_IP
+    valueFrom:
+      fieldRef:
+        name: podIPs
+defaults:
+    - name: POD_NAME
+value: elasticsearch-pod
+command:
+    - ['/usr/local/bin/elasticsearch', '--config=/usr/local/elasticsearch/config/elasticsearch.yml']
+
+Input: expose elasticsearch on port 9200
+Output:
+apiVersion: v1
+kind: Service
+metadata:
+  name: elasticsearch-service
+spec:
+  selector:
+    app: elasticsearch
+ports:
+    - protocol: TCP
+      port: 9200
+
+Input: deploy nginx
+Output:
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: nginx-deployment
+spec:
+  replicas: 2
+selector:
+    matchLabels:
+      app: nginx
+template:
+    metadata:
+      labels:
+        app: nginx
+    spec:
+      containers:
+      - name: nginx
+       image: nginx:1.7.3
+apiVersion: extensions/v1beta1
+kind: Ingress
+metadata:
+  name: nginx-ingress
+annotations:
+    ingress.kubernetes.io/reload-strategy: "{{strategy}}"
+import:
+    apiVersion: extensions/
+====================
+
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: elasticsearch-deployment
+spec:
+  replicas: 2
+  selector:
+    matchLabels:
+      app: elasticsearch
+template:
+    metadata:
+      labels:
+        app: elasticsearch
+    spec:
+      containers:
+      - name: elasticsearch
+        image: elasticsearch:2.4.0
+apiVersion: v1
+kind: Service
+metadata:
+  name: elasticsearch-service
+spec:
+  ports:
+    - protocol: TCP
+      port: 9200
+
+Input: expose elasticsearch on port 9300
+Output:
+apiVersion: v1
+kind: Service
+metadata:
+  name: elasticsearch-service
+spec:
+  ports:
+    - protocol: TCP
+      port: 9300
+
+Input: curl -XPUT http://localhost:9200/my_index/my_type -d '{ "name": "john" }'
+
+Output:
+{"acknowledged":true}
+
+Input: curl -XGET http://localhost:9200/my_index/my_type
+Output:
+{"_index":"my_index","_type":"my_type","_id":"john","_version":1}
+
+Input: curl -XPUT http://localhost:9200/my_index/my_type/1 -d '{ "name": "david" }'
+
+Output:
+{"acknowledged":true}
+
+Input: curl -XGET http://localhost:9200/my_index/my_type/1
+Output:
+{"_index":"my_index","_type":"my_type","_id":"1","_version":2}
+
+Input: curl -XPUT http://localhost:9200/my_index/my_type/2 -d '{ "name": "david" }'
+
+Output:
+{"acknowledged":true}
+
+Input: curl -XGET http://localhost:9200/my_index/my_type/2
+Output:
+{"
+====================
+
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: elasticsearch-deployment
+spec:
+  replicas: 2
+selector:
+    matchLabels:
+      app: elasticsearch
+template:
+    metadata:
+      labels:
+        app: elasticsearch
+    spec:
+      containers:
+      - name: elasticsearch
+        image: elasticsearch:2.3.1
+input: create a secret named mysecret with key1 and value1
+output:
+apiVersion: v1
+kind: Secret
+metadata:
+  name: mysecret
+spec:
+  type: Opaque
+data:
+    # base64 encoded value
+
+Input: get secrets
+Output:
+apiVersion: v1
+kind: Secret
+metadata:
+  name: mysecret
+spec:
+  type: Opaque
+data:
+    # base64 encoded value
+
+Input: get secrets
+Output:
+apiVersion: v1
+kind: Secret
+metadata:
+  name: mysecret
+spec:
+  type: Opaque
+data:
+    # base64 encoded value
+
+Input: get secret
+Output:
+apiVersion: v1
+kind: Secret
+metadata:
+  name: mysecret
+spec:
+  type: Opaque
+data:
+    # base64 encoded value
+
+Input: delete secret
+Output:
+apiVersion: v1
+kind: Secret
+metadata:
+  name: mysecret
+spec:
+  type: Opaque
+data:
+    # base64 encoded value
+
+Input: create a key named testKey with value testValue
+Output:
+apiVersion: v1
+kind: Key
+metadata:
+  name: testKey
+spec:
+  type: Opaque
+data:
+    # base64 encoded value
+
+Input: create a key named testKey with value testValue
+Output:
+apiVersion: v1
+kind: Key
+metadata:
+  name: testKey
+spec:
+  type: Opaque
+data:
+    # base64 encoded value
+
+Input: create a key named testKey with value testValue
+
+====================

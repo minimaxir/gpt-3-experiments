@@ -1,0 +1,368 @@
+
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: elasticsearch-deployment
+spec:
+  replicas: 3
+selector:
+    matchLabels:
+      app: elasticsearch
+template:
+    metadata:
+      labels:
+        app: elasticsearch
+    spec:
+      containers:
+     - name: elasticsearch
+       image: docker.elastic.co/elasticsearch/elasticsearch:5.5.0
+apiVersion: extensions/v1beta1
+kind: Ingress
+metadata:
+name: wordpress-ingress
+spec:
+rules:
+ - host: blog.martinrusson.com 
+http:
+paths:
+- path: /
+backend:
+serviceName: wordpress-service 
+servicePort: 80
+Output:
+> watch kubectl get ingress wordpress-ingress -o wide
+Name: wordpress-ingress
+Namespace: default
+Endpoints::::
+ pod IP Port Host port
+liveness-http 10.3.0.253 80 blog.martinrusson.com 80
+
+http-metrics 10.3.0.250 8080/TCP 101.193.49.214 8080/TCP 
+
+http-metrics 10.3.0.250 8443/TCP 101.193.49.214 8443/TCP 
+
+http-metrics 10.3.0.250 8080/TCP blog.martinrusson.com 8080/TCP
+
+http-metrics 10.3.0.250 8443/TCP blog.martinrusson.com 8443/TCP
+
+Endpoints YAML:
+
+apiVersion: v1
+
+kind: Endpoints
+
+metadata:
+
+name: liveness-http
+
+ports:
+
+- port: 80
+
+podIP: 10.3.0.253
+
+- port: 8080
+
+-> CI_IP: 101.193.49.214
+
+podIP: 10.3.0.250
+
+IP: 10.3.0.250
+
+kind: End
+====================
+
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: elasticsearch-deployment
+spec:
+  replicas: 1
+selector:	    matchLabels:
+     app: elasticsearch
+template:	    metadata:
+      labels:
+       app: elasticsearch
+ 		spec:
+type: Elasticsearch
+image: elasticsearch:5.6.4
+c Put an application in shutdown state
+c Write wordpress config map to a file using aws-env-vars
+c Group’s awsEc2AccessID, awsEc2SecretAccessKey, aws-region, aws-role env maps
+!AKIAJINH3RULESQ8YASABLZJIHIWCUOJHQQH0QBEKHM3BGVCQGSUGR3JHDB8 UNI\0\0\0$AwsApiAccessID\0\0\0$AwsApiSecretAccessKey\0\0\0$region\0\0\0$role\0\0\0{ "Status": "CreatingWordPressDeployment", "CreationTimestamp": "2017-05-05T14:20:21+0000", "Name": "wordpress-deployment", "DesiredCount": 1, "Tags": [ { "Name": "app", "Value": "wordpress" } ], "Children": [ { "Status": "Updating", "EndTime": "2017-05-05T14:20:21+0000", "EndTimeTimestamp": 1526434211101, "Name": "web", "Type": "webserver", "ReadyTime": "2017-05-05T14:20:22+0000", "Health": "Green", "PodIP": "172.31.1.4", "PodIPv6": "fd32:f0d0:605d:37a6:1b81:af4c:6d7b:947a", "Condition": { "StringEquals": { "ansible_facts.ec2_ipv4": "fd32:f0d0:605d:37a6:1b81:af4c:6d7
+====================
+ 
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: elasticsearch-deployment
+spec:
+  selector:
+    matchLabels:
+      app: master
+template:
+    metadata:
+      labels:
+        app: elasticsearch
+    spec:
+      replicas: 2
+    template:
+        metadata:
+        labels:
+          app: elasticsearch
+       spec:
+        containers:
+         - name: elasticsearch
+        image: elasticsearch:4.1.1
+length: 3
+
+
+====================
+
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: elasticsearch-deployment
+spec:
+  replicas: 3
+  selector:
+    matchLabels:
+      app: elasticsearch
+texture-default.yml
+This file provides additional configuration options, not specific to OpenShift, for the Kubernetes API server and related components.
+This file provides additional configuration options, not specific to OpenShift, for the Kubernetes API server and related components.
+
+
+====================
+
+API version: apps/v1
+Kind: Deployment
+Meta:
+
+Name: elasticsearch-dep
+App: elasticsearch
+Labels: app=elasticsearch
+Spec:
+Selector:
+
+Replicas: 2
+Template:
+
+Meta:
+
+Labels:
+App: elasticsearch
+Status:
+
+Complete
+
+Input: deploy Logstash
+Output:
+API version: apps/v1
+Kind: Deployment
+Meta:
+Name: logstash-dep
+App: logstash
+Labels: app=logstash
+Spec:
+Selector:
+
+Replicas: 2
+Template:
+Meta:
+Labels:
+App: logstash
+Status: Complete
+
+Only currently metering capacity for node trafic is available. Custom metrics can be added to the API using API extensions.
+
+Circonus
+Statsd
+
+ influxdb
+
+Prometheus a multi-dimensional data model makes it suitable for a variety of contexts. The Prometheus query language provides expressiveness for both simple ad-hoc exploration as well as for advanced analytics:
+
+JHipster with Spring Boot as Java server-side framework,
+Kubernetes as integrated Java platform,
+The Google Cloud Platform provider is configured by default in the sample app.
+
+To provide a component-based multi-dimensional data model, Prometheus support drill-down / pivot queries, histogram aggregation andributes. Here is an example histogram report dashboard:
+
+
+Prometheus query supports arithmetic operations, like the job count below that shows the total of queries showing status of different protocols, ports and web technologies in cluster
+
+Analytics can be visualized using Prometheus relay to SQL endpoint for BigQuery, ELK Stack, or any ODBC / JDBC compliant store
+
+
+
+
+====================
+
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: elasticsearch
+spec:
+  replicaCount: 2
+selector:
+    matchLabels:
+      app: elasticsearch
+template:
+    metadata:
+      labels:
+        app: elasticsearch
+    spec:
+      containers:
+      - name: elasticsearch
+     image: elasticsearch:2.2.1
+doccontainer: Install sphinx
+grafana: grafana image is: grafana/grafana-server-windows-amd64:v4.3.0
+production:
+apiVersion: v1
+kind: Service
+metadata:
+  name: grafana-service
+spec:
+  ports:
+    - protocol: TCP
+spec:
+ NAME: grafana-prod
+ DESIRED_STATE: persistent
+IM_CONFIG:
+ETCD_CHECK_LEVEL: "WARNING"
+WORKING_DIR: /grafana-dir
+DOCKERCLNT_TIMEOUT: 50
+KCUSTOMDOCKERCOMMAND:
+- '--name=grafana \`hostname\` \`docker ps -a | grep g Edmonton\` # Test if Docker container is up and running' \ '--add-host=192.168.99.100:2376 \`hostname\`:2375' \ '--dns=192.168.99.100' \ '--entrypoint=/grafana'
+JSON:
+SSH_OPTIONS:
+- '-o ServerAliveInterval=15' \ '-o ServerAliveCountMax=3' \ '-o StrictHostKeyChecking=no' \
+DATA:
+containers:
+STATUS: <Statuses type="list">
+STATUS: <Status time="2018-06-10T12:53:27.855" level="info">
+dockersetup: docker setup for Postgres is:
+POSTGRES_IMAGE: "postgres:10.4" 
+POSTGRES_CONTAINER_NAME: data-slate
+POSTGRES_DATABASE
+====================
+
+ - targetPort: 9200
+
+Input: containerPort: 8080
+Output: targetPort: 8080
+
+Input: containerPort: 8081
+Output: 
+apiVersion: v1
+kind: Service
+metadata:
+  annotations:
+   vsphere.elasticsearch.kubernetes.io/discovery: 'false'
+name: elasticsearch
+spec:
+  clusterIP: None
+selector:
+    matchLabels:
+      app: elasticsearch
+ports:
+    - containerPort: 9200
+
+Input: pid: 2551
+Output: image: wordpress:3.5.0
+printf: wordpress-log # PPM_ID: w50p64h # Name: wordpress
+# TID: 0x0002 # GID: 0x0002 # PPID: 0x9dc868476d82f01 # PGID: 0x9dc8684 #
+TCP_SRC_PORT: 80 # TCP_DST_PORT: 80 # IP: 172.20.1.1 # HOSTNAME: dc43a6
+# _START_: 31866420137559.3549 # _LAST_: 31866420139663.9839 # _T_: 9896066096 #
+RM_ID: 0x0002 # GENID: 0x0001 # DPORT: 2551 # IMNAME: wordpress
+
+Input: image: wordpress:3.5.0
+Output: PPM_ID: wordpress
+
+====================
+
+apiVersion: apps/v1beta2
+kind: Deployment
+metadata:
+  " annotations " :
+    app: elasticsearch
+    spec:
+  replicas: 3
+  selector:
+   comment: elasticsearch
+template:
+metadata:
+    labels:
+app: elasticsearch
+    spec:
+    containers:
+      "- name: elasticsearch
+      " image: elasticsearch:0.11.0
+
+Input: Query Elastic Search
+Output:
+echo 'test' | http POST http://localhost:9200/twitter/tweet
+The operation succeeded. Transactions: 1 (1486 byte)
+
+ http calls
+
+====================
+
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: es
+spec:
+  replicas: 1  selector:
+    matchLabels:
+     app: es  labelSelector:
+      matchLabels:
+        app: dev state:
+created
+status:
+ready
+ending: true     labels:
+  endpoints: 80
+spec:
+  containers:
+     - name: es
+image: elasticsearch
+ports: 80:9200
+
+Input: create todos and details pages
+Output:
+apiVersion: v1
+kind: Service
+metadata:
+  name: app
+spec:
+  ports:
+    - protocol: TCP
+targetPort: 80 targetPort: 8081
+
+
+
+====================
+
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: elasticsearch-deployment
+spec:
+  replicas: 2
+  selector:
+    matchLabels:
+      app: elasticsearch
+  template:
+    metadata:
+    pkg: elasticsearch
+    spec:
+      containers:
+      └─name: elasticsearch
+        image: elasticsearch:2.4.2
+metadata: 
+ spec:
+  replicas: 2 Scalableなアプリへの移行元： Search Console とそのimesterizationでは、当サイトを経由して人々にウェブサービスの改善について何かを学ぶことができます。 を経由して実行します。 最初には、私たちは詳細を組んでフックします。
+In the output, the parameters related to the resource are highlighted in bold. We will now review what each set of parameters is at this time. * name (metadata.name): See above. If this line is not present, it means that the resource does not have a name, and would therefore not be accessible through Kubernetes. * labels (metadata.labels): The value is a map of labels. The name of the label appears on the left, and its value on the right. When the value is multiline (as is the case with some characteristics, for example), it is presented as a sequence of strings separated by "ishable". Kubernetes application uses this for URLs, for instance, in the Ingress controller. If this line is not present, then no labelis on the resource. * app: This is the label that identifies the application. It ensures that the resource is interpreted as one of facilities that are contained in the same folder. And with this label, Kubernetes automatically deploys the role. In the example above, and thereby Kubernetes assumes that deploying it is deploying a web service, which can then be referenced as resource containers (for example, containers
+====================

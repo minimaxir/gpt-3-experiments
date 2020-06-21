@@ -1,0 +1,546 @@
+ 
+Input: expose elasticsearch on port 9200
+Output: 
+hyperkube service create elasticsearch --image elasticsearch --port 9200 
+
+Input: Deploy parity 
+Output: 
+Input: expose parity on port 8180
+Output: 
+apiVersion: v1
+kind: Service
+metadata:
+  name: parity
+spec:
+  selector:
+    app: parity
+  ports:
+   - protocol: TCP
+  port: 8180
+
+Input: Have one instance of parity online
+Output: 
+hyperkube service create parity --image parity/parity --replicas 1 --port 8180
+
+Input: Deploy redis 
+Output: 
+Input: expose redis on port 6379
+Output: 
+apiVersion: v1 kind: Service metadata: ("name": "redis-service") 
+metadata: 
+name: redis
+spec:
+  selector:
+    app: redis
+ports:
+   - protocol: TCP
+  port: 6379
+
+Input: Deploying kubernetes dashboard 
+Output: 
+Input: Deploying public ingress controller
+Output: 
+kubectl create -f ./nginx-ingress.yaml,public-ingress-controller.yaml
+
+Input: deploying the nginx ingress controller (nginx-ingress.yaml) to the kubernetes cluster (kubeadm)
+Input: Deploying prometheus-alertmanager.yaml
+Output: 
+kubectl create -f prometheus-alertmanager.yaml
+
+Input: deploying prometheus-alertmanager (prometheus-alert-manager.yaml) to the kubernetes cluster (kubeadm)
+Input: Deploying nodes 3 and 4
+Output: 
+Input: Deploying shim.yaml
+Output: 
+kubectl create -f shim.yaml
+
+Input: Deploying maxscale.yaml
+Output: 
+kubectl create -f maxscale.yaml
+
+Input: Deploying acme-server.yaml
+Output: 
+kubectl create -f acme-server.yaml
+SyntaxError: JSON object contains an 'undefined' value
+
+Input: Deploying acme-ca-sdk-
+====================
+
+apiVersion: apps/v1  irrelevancy 
+kind: Deployment  --- 
+metadata:    name: java-deployment
+spec:
+  replicas: 2
+  selector:   ------ matchImage:
+   ----- dockerImageName:
+   ----- elasticsearch:5.3.1
+
+Input: curl "localhost:20327/foo"
+Output: java.lang.OutOfMemoryError: PermGen space
+
+Input: curl "localhost:20328/foo"
+Output: foo foo
+
+Input: curl "localhost:20329/foo"
+Input: curl -v -X POST "localhost:20331/foo"
+Input: curl localhost:20332
+Output: Hello world
+
+The first structure in the file lists all of the endpoints provided by a deployment. The list is an array of endpoint structures.
+
+Structure:
+
+Fields: 
+
+The second structure in the file is an array containing the operations that are possible with the deployment listing.
+
+Structure: Hash JSON
+
+Fields:
+
+Each server was running a docker container exposing a port for use by the plugin. To provision a server, one of the servers serving as an API endpoint would need to be contacted along with the port to be exposed for the plugin to use.
+
+One major concern for servers exposing their Docker API port was confidentiality and integrity. In order to know that the requests they were receiving from plugins were legitimate and passed through the authentication process, port 8443 needs to be used, since it is not standard for this type of situation. In order to avoid this change however, a mutually trusted TLS connection can be used which can be accepted over port 80. In the format of the mapping file described above, this change would involve modifying the line:
+
+apiVersion: v1
+kind: Service
+metadata:
+name: foo-service
+spec:
+selector:
+---
+ports:
+---
+---
+
+to:
+
+apiVersion: v1
+kind: Service
+metadata:
+name: foo-service
+spec:
+selector:
+---
+ports:
+---
+apiVersion: v1
+kind: Service
+metadata:
+name: foo-service
+spec:
+selector:
+---
+ports:
+- protocol: TCP
+
+This change would allow a connection through port 80 over a standard HTTPS connection
+====================
+
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: es-deployment
+spec:
+  replicas: 4
+  selector:
+    matchLabels:
+      app: elasticsearch
+meta.clientIP: 10.0.0.10
+
+Input: expose elasticsearch on port 9200
+Output:
+apiVersion: v1
+kind: Service
+metadata:
+  name: elasticsearch-svc
+spec:
+  ports:
+    - protocol: TCP
+     port: 9200
+
+Input: start elasticsearch
+Output:
+apiVersion: v1
+kind: Service
+metadata:  kind: Service
+ meta.clientIP: 10.0.0.10
+
+Input: expose postgres on port 54304
+Output:
+apiVersion: v1
+kind: Service
+metadata:  kind: Service
+meta.clientIP: 10.0.0.11
+
+Input: expose services
+Output:
+apiVersion: v1
+kind: Service
+metadata:
+  name: web-svc-auth
+spec:
+  type: NodePort
+
+Input: expose wordpress on port 8080
+Output:
+apiVersion: v1
+kind: Service
+metadata:
+  name: wordpress-svc
+spec:
+  type: NodePort
+
+Input: expose kibana on port 5600
+Output:
+apiVersion: v1
+kind: Service
+metadata:
+  name: kibana-svc
+spec:
+  type: NodePort
+
+Input: deploy cluster and expose wordpress and elasticsearch 
+Output:
+apiVersion: apps/v1
+kind: Deployment
+metadata: 
+
+name: nginx-deployment
+spec: 
+replicas: 2 
+selector: 
+matchLabels: 
+app inclination:
+app platform:
+env env: 
+type: NodePort 
+env.:
+output: 
+ services: { "nginx-service": { 
+name: nginx
+ports: 
+- protocol: TCP
+port: 80
+targetPort: 80
+protocol: TCP
+port: 9200
+targetPort: 9200
+protocol: TCP
+port: 54304
+targetPort: 54304
+protocol: TCP
+port
+====================
+
+apiVersion: apps/v1 
+kind: Deployment
+metadata:
+name: elasticsearch-deployment 
+labels:
+app: elasticsearch
+spec:
+replicas: 3 
+selector:
+matchLabels:
+app: elasticsearch 
+template:
+metadata:
+labels:
+app: elasticsearch
+  spec:
+containers:
+- name: elasticsearch 
+image: elasticsearch:1.7.0 
+ports:
+- containerPort: 9200 
+
+Input: create an elasticsearch template called elasticsearch-template
+Output:     {   "apiVersion":   "v1",  "kind":     "Template",   "metadata":   {   "name":   "elasticsearch-template" },    "apiVersion":   "apps/v1",   "spec":     {    "containers":     {    "name":     "elasticsearch",     "image":  "elasticsearch:1.7.0",   "ports":  {  "containerPort":  {  "9200":   {  "name":  "http"  }  }  },     "volumes":     [     {  "host":  "elasticsearch"   }     ]     },    "labels":     {    "app":   "elasticsearch"  }  }
+Input: create elasticsearch service with a single replica
+Output:     {   "apiVersion":   "v1",  "kind":    "Service",    "metadata":     {   "name":    "elasticsearch-service" },    "spec":     {    "selector":     {    "app":    "elasticsearch"  },    "ports":    {    "protocol":     "TCP",    "port":  {  "9200":     {  "name":   "tcp"  }   } 
+====================
+
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: elasticsearch-deployment
+spec:
+  replicas: 1
+selector:
+    matchLabels:
+ kv.app: elasticsearch
+template:
+  metadata:
+    labels:
+ kv.app: elasticsearch
+spec:
+    template:
+  metadata:
+ kv.app: elasticsearch
+spec:
+  ports:
+    selector:
+    matchLabels:
+ kv.app: elasticsearch
+- containerPort: 9300
+
+Input: create new Secret named "mysecret" with value "This is awesome!"
+Output:
+apiVersion: v1
+kind: Secret
+metadata:
+  name: mysecret
+type: Opaque
+data:
+  name: mysecret
+
+Input: get mysecret value by name
+Output:
+apiVersion: v1
+kind: Secret
+metadata:
+  name: mysecret
+type: Opaque
+data:
+  name: mysecret
+    value: This is awesome!
+
+Captain is open-source software developed by P. Oscar Boykin, Tim Hockin, Barb White, and contributors.
+
+It is hosted by the Cloud Native Computing Foundation (CNCF) and is available for download from Github and PyPi.
+
+
+====================
+
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: example-e-deployment
+spec:
+  selector: required:
+    matchLabels:
+     matrix:
+   - app: elasticsearch
+      version: 2
+
+Input: Get pods
+Output:
+apiVersion: v1
+kind: Pod
+metadata:
+  name: example-e-deployment-6c2b993c49-4pl92 
+spec:
+  status:
+    containers:
+      - name: elasticsearch
+      image: elasticsearch:2
+     ports:
+      - containerPort: 9200
+
+Input: Get containers of Pod
+Output:
+
+apiVersion: v1
+kind: Pod
+metadata:
+  name: example-e-deployment-6c2b993c49-4pl92
+
+spec:
+
+status:
+
+containers:
+
+- name: elasticsearch
+image: elasticsearch:2
+
+portcontainers:
+
+- containerPort: 9200
+
+we can find out the exposed port from DeploymentController for containers
+
+Input:
+
+Output:
+
+Input:
+
+Output:
+
+Input:
+
+Output:
+
+Input:
+
+Output:
+
+As we can see in the output, the exposed port of our first container is 10001 and the second one is 10002.
+
+Input: get exposed port and IP Address for 3 it based service
+
+Output:
+
+As we can see in the output, the exposed port of first container is 5050, the second one is 5051, the third one is 5052. And IP Address of all 3 services are 192.168.233.1
+
+Check NodePort service, for example,
+
+Input: get exposed port and IP Address for 1 it based service
+
+Output:
+
+Here, the exposed ports are 3000, 3001, and 3004. The IP address of our service is 192.168.233.2
+
+Input: get exposed port and IP Address for 2 it based service
+
+Output:
+
+Here, the exposed ports are 3002 and 3003. We can see the IP Address here is 192.168.233.|
+
+According
+====================
+ 
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: es-deployment
+values:
+  cluster: "es-cluster"  container: elast-sear.pl-8.5.9  replicas: 4  selector:
+    matchLabels:
+      app: es
+template:
+    spec:
+    containers:
+      - name: elast-traes-sepKalemzDMEte
+
+DDD<br>
+
+====================
+
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: elasticsearch-deployment
+spec:
+  replicas: 3
+  selector:
+    matchLabels:
+      app: elasticsearch  template:
+    metadata:
+      labels:
+        app: elasticsearch    spec:
+      containers:
+      - name: elasticsearch
+        image: elasticsearch:2.1.0
+sql:
+
+Input: create table person (id bigint generated by default as identity, name varchar(max), age int, gender varchar(32))
+Output: 
+CREATE TABLE person (
+id bigint GENERATED BY DEFAULT AS IDENTITY,
+left bigint,
+right bigint,
+PRIMARY KEY ((id), left, right),
+KEY (age),
+KEY (gender))
+
+Input: insert into person (gender, name) values ('Male', 'John')
+Output:
+INSERT INTO person (gender, name) VALUES ('Male', 'John')
+
+Input: insert into person (gender, name) values ('Female', 'Alice')
+Output:
+INSERT INTO person (gender, name) VALUES ('Female', 'Alice')
+
+Input: insert into person (name) values ('Zed')
+Output:
+INSERT INTO person (name) VALUES ('Zed')
+
+Input: select * from person
+Output:
+age | gender | name
+0 | Male | John
+1 | Female | Alice
+
+Input: alter table person drop column gender
+Output: 
+ALTER TABLE person DROP COLUMN gender
+
+See also the testing notebook. And also the tutorial.
+====================
+
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: dservice
+spec:
+  replicas: 1
+template:
+metadata:
+labels:
+app: dservice
+spec:
+containers:
+- name: dservice
+image: k8s.gcr.io/dsearch
+
+Input: get status of deployment
+Output:
+spec:
+selector:
+matchLabels:
+order:
+status:
+metadata:
+template:
+spec:
+containers:
+env:
+- name: PHX_SERVER_NAMES
+mapkey: kubernetes
+value: 
+- node-01
+- node-02
+- image: google/cloud-sdk:1.16.2
+recursive: yes
+
+Input: Listing deployment of wordpress app
+Output:
+
+
+====================
+
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: elasticsearch-deployment
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: elasticsearch
+template:
+    metadata:
+      labels:
+        app: elasticsearch
+    spec:
+      containers:
+      - name: elasticsearch
+       ports:
+       - containerPort: 9200
+
+Input: deploy redis with 3 replicas
+Input: expose redis on 80 port
+Output:
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+Long story short, apps defines new API group which allows developers to manage deployed applications (Pods). Metadata in Pod manifests specify what Apps a Pod needs, as well as basic information like Pod name, labels, replica count, details and some others. Developers don’t have to use anything new to enable that functionality, they can start using it today. Adding that should allow you to model complex application stacks and create more complex DεIS
+Application definition and application initialization mutually exclusive
+Question: so app definition exists in every deployment, whether the application is being initialized or not?
+
+
+
+====================

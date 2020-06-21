@@ -1,0 +1,84 @@
+
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: elasticsearch-deployment
+spec:
+  replicas: 2
+  selector:
+    matchLabels:
+      app: elasticsearch
+template:
+    metadata:
+      labels:
+        app: elasticsearch
+    spec:
+      containers:
+      - name: elasticsearch
+        image: elasticsearch:2.3.2
+apiVersion: v1
+kind: Service
+metadata:
+  name: elasticsearch-service
+spec:
+  selector:
+    app: elasticsearch
+ports:
+    - protocol: TCP
+      port: 9200
+
+Input: expose elasticsearch on port 9200
+Output:
+apiVersion: v1
+kind: Service
+metadata:
+  name: elasticsearch-service
+spec:
+  selector:
+    app: elasticsearch
+ports:
+    - protocol: TCP
+      port: 9200
+
+Input: deploy elasticsearch with 2 replicas
+Output:
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: elasticsearch-deployment
+spec:
+  replicas: 2
+  selector:
+    matchLabels:
+      app: elasticsearch
+template:
+    metadata:
+      labels:
+        app: elasticsearch
+    spec:
+      containers:
+      - name: elasticsearch
+        image: elasticsearch:2.3.2
+apiVersion: v1
+kind: Service
+metadata:
+  name: elasticsearch-service
+spec:
+  selector:
+    app: elasticsearch
+ports:
+    - protocol: TCP
+      port: 9200
+
+Input: expose elasticsearch on port 9200
+Output:
+apiVersion: v1
+kind: Service
+metadata:
+  name: elasticsearch-service
+spec:
+  selector:
+    app: elasticsearch
+ports:
+ 
+====================

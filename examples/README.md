@@ -20,3 +20,4 @@ Examples which entice the output to follow a specific schema.
 These examples show the output in as a `.txt` file, without the prompt.
 
 - `mtg`: Magic the Gathering cards, in Gatherer format.
+- `kubernetes`: Kubernetes YAML manifests.
