@@ -1,3 +1,5 @@
+**CONTENT WARNING: Mental Health/Suicide**
+
 # Reddit (/r/Askreddit)
 
 30 high-performing /r/AskReddit submission titles from Jan 2019 to August 2019. Each submission title has its eventual score in brackets, to see if GPT-3 can predict submission quality.
