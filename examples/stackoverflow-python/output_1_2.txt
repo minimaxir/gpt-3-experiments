@@ -1,0 +1,105 @@
+
+[Banter coaster]Error: Execute python script 'coaster.py' failed {10283}
+TypeError: (unset)() and dict() mix positional and keyword arguments {25191}
+Feature request: set graph parameters directly ahead of training {24144}
+ERROR: x-libtorrent: cannot open file 'x-libtorrent:/usr/lib/python3.7/site-packages/torrent/__init__.py': [Errno 2] No such file or directory {12324}
+XLSX / XSD issues {24451}
+PyCharm 2018.2 and Python 3.6 {12237}
+STDIN closed pipe was detected by cleaner daemon {23421}
+Setting up Anaconda Python 3.7 on Linux Mint {20861}
+Failed to find `Tkinter' c object for default instance in site-packages for Macintosh; not installing 'tk' extension {21259}
+Segmentation fault in Python 2.7.14 and OpenCV 3.0 on Mac {11685}
+rake import: cannot load the file, maybe invalid syntax {9303}
+Slash not handled correctly in datetime regex (use pathlib instead) {22656}
+olesolve.py cannot find info.plist when other import methods work {22174}
+"LayerwiseDense" inputs (such as affine transformations) are not supported in the shortcut form using clipping {29859}
+Why will plot show no single label for the interactive plot? {34472}
+NumPy/SciPy Toolkit: Can't create WebGL app with EPD acquired images {19504}
+Python 3.7: a simple file test failed {29728}
+datetime.time and datetime.timezone yield different results after an epoch on Python3 {2673}
+Some package are not visible if proxy settings is used in add-apt-repository {12282}
+Xslt error :System properties not set {20202}
+Python Build error - Unable to execute 'cv2_imread_unstructured_gray_image' {12627}
+ImportError at Python/Python-3.6/Standard.py?.co_varnames = [] {29616}
+Error: No module named 'Cell' {25058}
+Unable to install scikit-cuda {
+====================
+
+pyenv: current directory is not a python interpreter .? ?? {10363}
+data corruption of non-Numpy arrays when using pandas.value.numpy() [issue #1032] {129703}
+Freeciv 2 - Package couldn't be installed due to file permission denied by OS [SimplePlanet] {12242}
+dlib 18:18:18 Nov 18 [build THREADS_JOIN] /Projects/DeepLearning/build_poco 1. svn 252: **** v101.0.05.3864 x64 ******** conan config ******** Darwin 16.3.0 Refer: https://github.com/bgrnbrg/micogpu ====================================================== Arch: x86_64, Platform: Darwin, Python: 3.7.2, Compiler: Clang 18.0.0, CMake: 3.12.0, GCC: BUILD_PATH: ~/workspace/build/micogpu_toolchain_libcuda_8.0.61 ============================================================================== Starting compile All Done. Getting feedstock list done to /Projects/ROS-Industrial-Solutions/.conan/cache/seb/toolchains/compilers/llvm_compilers/5-518d1f7ab045d/bsd0df458e80fa20/bsd0df458e80fa20.bsd.json Conan server is prompting and recovering from the compiler download... Getting feedstock dependencies done... Setting remote_link to https://dl.bintray.com/robotics-industrial/feedstock/cuda/ubuntu1604/devtools/. 1:00:21 TaskMetadata.cs(10330): Not ignoring failure for e1fa8fc Supply Failure 1:00:21 TaskMetadata.cs(10537): Not ignoring failure for e217d46 Waiting 1:00:21 TaskMetadata.cs(10665): Not ignoring failure for e217da6 Waiting 1:00:21 TaskMetadata.cs(10633): Not ignoring failure for e217dea Skipped 1:00:21 TaskMetadata.cs(10637): Not ignoring failure for e217df4 Skipped 1:00:21 TaskMetadata.cs(10565): Not ignoring failure for e217df8 Waiting 1:00:21 TaskMetadata.cs(10576):
+====================
+
+Help after upgrading windows and Anaconda wants too update python libraries {11795}
+How to solve the interm output of the scikit-image toy example {18671}
+ValueError: Each array of this shape supports a different number of dimensions {30924}
+Need help getting neos 3.0.4 and trinity 0.5.3 Spyder to work natively on mac {16052}
+Requests Example to download Constant data using python 2.7 https://bytes.com/wp-content/uploads/2019/05/23973930/neural-network-constant-value.mp4 {117583}
+Learn Python Regular Expressions - Real Life Examples 9 {124942}
+A command that I put in a bash file does not run [Mac] {14452}
+HLT and GDB Are Most Useful When Their Output Is Used to Debug Low-Level Data {24072}
+Debian 8/Python 3.4 "pip" fails to install python-astor {14381}
+AttributeError: 'OrderingBarrierError' object has no attribute 'path' {22266}
+How to make a checkbox in python? {22626}
+====================
+
+numpy: version 1.13 did not include support for UTF-32 Unicode files larger than 4GB using fileno function {14643}
+pyelftools < 3.0.0 not found {29926}
+pip: command `list` returned non-zero return code 10 }}} mail = > mail_display ( stack ) ~~~~~~~~~~~~~~~~~~~~~~~~ { "date" : "3/27/18 10:14 PM" , "message" : "
+mail = > log = > message ( log ) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ { "errors" : [ < class 'nsc.logging.helpers.ConfigError' > , < class 'nsp.base.base.ServerNameGeneratorError' > ,
+Error when importing tensorflow-gpu: {14466}
+What does this error message about a msgpack string mean? {17252}
+Installing libpng16-16 with MacPorts fails {22304}
+Google font directory 'C:/Users/jjose-VirtualBox/105455/edX/E2x/#!/src/slides/' could not be created. Existing directory 'C:/Users/jjose-VitualBox/105455/edX/E2x > /src/slides' will be used for the directory. {25189}
+import os, subprocess, and shlex # pre-wget clone repo tutorial on edX; # https://edx.org/course?cg=X6_Programming_with_Python3.9_Kitura&sp=2f4j8LqQ8IQ-W2maNwYb2E # #Clone the repo $ git clone https://github.com/xLAva/Programming_with_Kitura composer install -o --ignore-platform-reqs working_directory: = course directory `install` step doesn't update just presents existing code? # XXX: confused / following-need to complete install instructions completely later # XXXcasacalvo NOTE: ONLY FOLLOW THE VALUES LISTED ABOVE (remove own commas!) # # INSTALL XGBoost # Make sure we're not compiling with python 2.7 if echo ; then exec 2 > /dev/null else un "Python 3.6.6" fi emerge - nm xgboost error: Your platform does not allow easy registration of binaries; please set register
+====================
+
+Error when importing `pyspark` in spyder {22451}
+numpy.random.RandomState cannot iterate arbitrary memoryext {42975}
+/SAMpl a"?/ on the Sampl webserver get parsing error {21986}
+dogpile and python crashes {"NameError": global name 'cap' is not defined {10269}
+ImportError: Bad python mimetype line 1 in .py script file {20973}
+[F2018] Upgrading Blender to 2.79a results in "variable is not available" {21826}
+Spyder2 crashes after installing Dash {10451}
+DISPLAY variable is empty {15482}
+ incomprehensible error message with trying to plot style {21257}
+Unhandled exception: Expected b in update(). Found _1twitter4j.StatusType{15861}
+TypeError Error when trying to load the Webstructure DataSource {70012}
+Warnings display in matplotlib and Spyder after upgrading from conda 4.3.15 to 4.5 {10354}
+Could not load "numpy" xll extension, see `xll-error-tips.html{31912}
+traceback (most recent call last) '/home/stivali/React/react_v16/virtualenv/local/lib/python3.6/site-packages/numpy/core/__init__.py' in get_datetime_with_adjustment() 2051 } # S 00428 for (details, value-detail) in it:  [26677] 02:14 ERROR cannot import name DatabaseMetaData {28635}
+"Segmentation fault" during model updating in Jupyter Notebook {73404}
+Can't find Qt5Skype module on Windows 10 {22223}
+Failed to load nbformat.datametadata_0.6 {11846}
+Traceback (most recent call last): {11220}
+Could possibly be fixable by installing grequests? {69609}
+Selenium Error "TLS protocol error: [SSL: CERTIFICATE_VERIFY_FAILED]" {94489}
+====================
+
+gcc: error: unrecognized command line option '"-march" {12628}
+Simple Generative Markov Model in Tensorflow {32126}
+ubuntu# ssh timeout problem {10775}
+tensorflow_gpu: pip failed with error: Traceback (most recent call last): File "/usr/local/lib/python3.6/dist-packages/tensorflow_gpu/tools/pip_package_index.py", line 853, in _download_from_google_storage return rc [4 of 4
+Exception Condition -> BasicConfigError: {'failure_message': ('Kwargs must consist of valid UUID generated by generate_uuid function!',)} Traceback (most recent call last): File "working.py", line 11, in page.set_url(url) File "/usr/local/lib/python3.6/dist-packages/mezzanine_bridge/urls.py", line 30, in set_url plugins['page'].set_url(url) File "/usr/local/lib/python3.6/dist-packages/mezzanine_bridge/plugins/page.py", line 24, in set_url if not self.url File "/usr/local/lib/python3.6/dist-packages/mezzanine_bridge/plugins/page.py", line 120, in url_string_for_details "The site url '{0}' for '{1}' does not correspond to a valid site page.".format(*fields)) File "/usr/local/lib/python3.6/dist-packages/mezzanine_bridge/plugin_base.py", line 127, in check_url determined_type = check_determine_url(url) File "/usr/local/lib/python3.6/dist-packages/mezzanine_bridge/plugins/page_base.py", line 92, in check_determine_url error(msg_params, url=status.url(base_url)) File "/usr/local/lib/python3.6/dist-packages/mezzanine_bridge/api.py", line 684, in status_message_for_url "status_message_for_url: Invalid or missing base_url:" File "/usr/local/lib
+====================
+
+ScriptNotFoundError: 'openssl' {56133}
+DataFrame.plot: InterruptedPlot call (type: InterruptedException), output_type=None, marker='None' is None and is not equal to ... {35247}
+Having 04b23347db099f7d960732d8e560795c11ab13b2 ... {11519}
+ImportError: libjpeg.so.62: cannot open shared object file: No such file or directory {22776}
+scipy.io import error {16205}
+How do I do simple image manipulation on python 3.7 using matplotlib? {16016}
+winappdmg cannot parse hardlink {17599}
+ImportError: SQ HP the quantum chemistry dynamics package uses extension .pqr while the one globular data ... {10761}
+Windows 10, Anaconda, warnings.warnisfactor {15152}
+methode [code] not found. {15410}
+Using slave it just rises ArgumentError::'netxwithmlModel.py' is not available anymore. Please update 'cliactivate' {6590}
+Easing methods aren't supported, not resolving fieldicht_factory_3.3.PyQt4.QtGui.QPropertyAnimation {13003}
+area under the curve {14205}
+9.60/9.64 coryyy cory G3059 10.89 coryyy cory G2978 11.56 coryyy ... {18088}
+Not all cells are defined --- it's like half of the board is missing. {4287}
+Help: prompt_toolkit.py compilation error {19522}
+Removing duplicate elements using uniq in time series {20687}
+TensorFlow 1.2 for Linux with CUDA 9.2 is not installed on Windows Server 2016 {24467}
+====================

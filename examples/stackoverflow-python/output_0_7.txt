@@ -1,0 +1,159 @@
+
+AttributeError: 'xlrd.RowLocation' object has no attribute 'split' {8248}
+ImportError: cannot import name uuid {34809}
+AttributeError: 'module' object has no attribute 'attrs' {10952}
+Tensorflow.set_session failed: Invalid value {24757}
+Replace all instances of some text with another text {13739}
+Python installation - how to install it on windows {24361}
+Build the package from a local directory {11952}
+ValueError: __new__() got an unexpected keyword argument 'key' {10544}
+ValueError: TypeError: __init__() got an unexpected keyword argument 'categorical_features' {14713}
+Running Tensorflow in a Docker container {16189}
+Creating a windows environment variable with Python {137130}
+Create a directory with a specified path {19402}
+"TensorFlow requires a GPU to run." {16835}
+Pycharm doesn't recognize Python 3.7 {21684}
+"Failed to parse metadata from 'http://pypi.python.org/simple/py/' (unknown location type 'NoneType')" {16391}
+ImportError: No module named 'mxnet' {21458}
+python -m pip install --user package_name {19361}
+'Enum' object has no attribute 'get' {7355}
+What is the best Python web framework? {18358}
+File "", line 1, in {14881}
+ImportError: cannot import name 'infer' {27792}
+"python setup.py test" fails {17721}
+Windows: Could not find vcvarsall.bat {15265}
+'Requirement.parse' is deprecated. Use setuptools/distribute instead. {16738}
+How to create a Windows installer for a Python application {20386}
+How to find out the exact version of Python I am using? {26255}
+"python setup.py install --user" fails {18064}
+AttributeError: 'int' object has no attribute 'hex' {17573}
+OSError: [Errno 2] No such file or directory: '%s' {15286}
+"PySerial.CheckForInterrupt" failed in thread Thread-1: Process terminating
+====================
+
+import pyzmq.pool as zmq.pool; zmq.pool.socket_create(zmq.pool.socket_file(socket), "127.0.0.1", 8080, zmq.POOL_REPLICATION, 1) raises OSError: [Errno 10061] Network is unreachable {28359}
+"Could not open file './conda/lib/python3.6/site-packages/numpy/random/mtrand/mtrand.py': [Errno 2] No such file or directory" {27174}
+How to change graph_editor.hoc_colormap for each image in the list {10307}
+How to get x values from a python list {8574}
+The error 'KeyError: 'index' for <ListProperty at /build/buildd/anaconda-runtime-5.1.0-Linux-x86_64/src/anaconda/ui/cascade.py:136'> in the middle of a conda install {13167}
+ImportError: cannot import name 'graph_editor' {13166}
+python: ModuleNotFoundError: No module named 'cv2' {16014}
+Problem with importing scikit-learn in python {15505}
+TypeError: can't concatenate 'str' and 'long' objects {13184}
+'root' package not found when trying to install matplotlib {13038}
+Parsing 'x' with <function <lambda>> raises error {11910}
+Help! numpy.random.shuffle() and numpy.random.permutation() not working {12999}
+RFE: Add support for HTTP/2 in IPython {19473}
+ModuleNotFoundError: No module named 'dill' {11956}
+numpy.empty(shape=(), dtype=<type 'float'>) raises error {11028}
+PIL does not support version 6.1.1 {12561}
+ImportError: cannot import name '__version__' {8164}
+'array' object has no attribute '__getitem__' {8958}
+import os; os.environ['LD_LIBRARY_PATH'] = '/usr/local/lib' {13090}
+====================
+
+Selenium with Python3.6 {14171}
+ImportError: cannot import name _init_subprocess {17186}
+Cannot find libcudart.so.8 {12643}
+Unable to find CUDA on Mac OSX Sierra {18130}
+numpy.set_printoptions: print_option value must be an integer or None, got 'True' {11582}
+python 2.7: error while loading shared libraries: libpython2.7.so.1.0 {22287}
+Cannot find libboost_system.so.1.64.0 {22523}
+Mac OSX High Sierra - cannot import Tkinter {20663}
+how to create binary using clang on macos? {14162}
+Replace all numbers with -1 {9356}
+numpy.errstate: error while loading shared libraries: libpython3.6m.so.1.0 {11555}
+import sys,pyspark,pyspark.sql.types,pyspark.sql.functions {12740}
+ValueError: invalid literal for int() with base 10: 'abc' {27152}
+DataFrame.reset_index() is ignored if a column has an explicit name {26255}
+from multiprocessing.managers import BaseManager, LockManager {23100}
+What are the best tools for debugging Python code? {21303}
+Unable to load C extension module 'multiprocessing.connection' {21417}
+Cannot load data with .data access method {27761}
+(I am a newbie in python) How to create a temporary file {23403}
+Can't read file 'xxx' because it was not created with this app. {20341}
+numpy.lib.recfun: error while loading shared libraries: libpython3.6m.so.1.0 {11555}
+MacOS: error while loading shared libraries: libpython3.6m.so.1.0 {11555}
+pyzmq.sasl_version: Error: 'zmq.DEFAULT_VERSION' must be an integer {26259}
+ImportError: cannot import name get_config_vars {28166}
+Python 2.7: error while loading shared libraries: libpython2.7.
+====================
+
+ValueError: field 'a' not found in file 'file.csv' {17265}
+How to execute command line scripts in python {134323}
+Running an old script on Python 3.7 {132704}
+numpy.core.multiarray.fromstring does not work {24503}
+Replace old version of Python 3.6 with Python 3.7 in Windows {10961}
+Executing numpy script in jupyter notebook {131940}
+ValueError: list indices must be integers, not str {30991}
+Can't import numpy module in jupyter notebook {11834}
+How to run a script on startup in Python {133769}
+Setting up Anaconda on Ubuntu 18.04 {22207}
+Traceback when importing module {28893}
+ImportError: No module named 'six' {24783}
+Installing OpenCV 3 on Python 3.6 {12654}
+ValueError: sequence item 0: expected string, dict found {34228}
+Installing Jupyter on Windows 10 {21166}
+numpy.core.multiarray.tostring: string argument expected, got float {24407}
+Creating a new Jupyter notebook on Linux {15456}
+ERROR:root:Code for hash md5 was not found {34514}
+ValueError: need more than 1 value to unpack {25112}
+ValueError: numpy.core.multiarray.tostring: string argument expected, got float {24405}
+conda-forge conda-packaging no longer needed for conda {21219}
+conda install libhdfs3 -t /home/anaconda/anaconda3 -c https://conda.anaconda.org/menpo/ {135841}
+python -m nltk.downloader download pyyaml ... {21273}
+numpy.core.multiarray.fromstring: list argument expected, got 'int' {24489}
+Undefined symbol: _Py_NoneStruct {22836}
+"ERROR:root:code for hash md5 was not found" when using any hg mercurial commands {43025}
+WARNING:root:Failed to import Cython; see above for details {18679}
+
+====================
+
+Traceback (most recent call last): {5016}
+AssertionError: The body of a lambda can only be a single expression {14880}
+How to make tkinter widgets transparent in python {3073}
+How to read binary file in python {3338}
+trying to open a python file that is a .pyd file in a python 3.6 environment {10685}
+Unexpected exception occurred: <class 'socket.error'> Traceback (most recent call last): File "<stdin>", line 1, in <module> File "/usr/lib/python3.6/socket.py", line 711, in create_connection raise err File "/usr/lib/python3.6/socket.py", line 673, in create_connection raise err socket.error: [Errno 97] Address family not supported by protocol Error in Python module (no .pyc file) {10681}
+What is the problem with 'return None' in Python {3089}
+Python: setting value of variables {1282}
+"__main__" not in __name__ {3024}
+Why is there an error "ImportError: cannot import name "os" from "numpy"?" {2983}
+Python could not import module 'cryptography' {3154}
+Python 3.6: ClassNotFoundError: class android.support.v7.app.AlertDialog$Builder cannot be found {2969}
+Python 3.7 cannot import numpy.linalg {2908}
+How to run scripts in python {2846}
+Python 3.6 error while loading shared libraries: libpython3.6m.so.1.0 {2825}
+ValueError: list.remove(x): x not in list {2815}
+'numpy.random.seed' and 'numpy.random.setstate' do not work on Python 3.6 {2813}
+[Mac] Can't import python.app, Xcode 10.1.1 {2810}
+TypeError: 'str' does not support the buffer interface {2798}
+import pyinstaller in Python 3.7 {2787}
+tensorflow.python.framework.error_dispatch.VerboseError: Python 2.7.13+ requires GCC 4.9 or Clang 3.4,
+====================
+
+How to use the PyInstaller in Linux {11939}
+TypeError: __init__() got an unexpected keyword argument 'autotest' {10106}
+A problem occurred during your installation of numpy {5678}
+The import of Numeric failed {8858}
+Problem with tensorflow in windows {13158}
+How to install anaconda3-4.3.0 in Ubuntu 18.04 {12039}
+A problem occurred during your installation of matplotlib {9395}
+Could not import cv2; cv2 module not found {4254}
+"ERROR:root:code for hash md5 was not found" when using any hg mercurial commands {43025}
+Replace specific text with a redacted version using Python {131751}
+Warning: No Python version found at /usr/bin/python {12947}
+"ERROR:root:code for hash md5 was not found" when using any hg mercurial commands {43025}
+PyQt5 5.14.1 is not available for PySide2 5.12.2. Please, use PyQt5 5.13.1 for PySide2 5.12.2. {12054}
+"ERROR:root:code for hash md5 was not found" when using any hg mercurial commands {43025}
+A problem occurred during your installation of setuptools {10789}
+Could not load dynamic library 'libnvinfer.so.6' {12080}
+ImportError: cannot import name 'pyside' {10530}
+"ERROR:root:code for hash md5 was not found" when using any hg mercurial commands {43025}
+I'm getting "Could not load dynamic library 'libpython3.7m.so.1.0'" error while installing Anaconda on Linux {10780}
+How to create a .pip file to install Anaconda on Ubuntu? {10771}
+"ERROR:root:code for hash md5 was not found" when using any hg mercurial commands {43025}
+"ERROR:root:code for hash md5 was not found" when using any hg mercurial commands {43025}
+How to use a command prompt in Linux? {11821}
+"ERROR:root:code for hash
+====================
