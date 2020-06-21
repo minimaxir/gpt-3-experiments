@@ -1,0 +1,52 @@
+
+
+Befoul {3}{B}{B}
+Sorcery
+Destroy target land. Its controller discards a card.
+
+Bellowing Fiend {2}{R}
+Creature — Devil
+When Bellowing Fiend enters the battlefield, you may return target Spirit card from your graveyard to your hand.
+Bellowing Fiend gets +1/+1 for each Spirit card in your graveyard.
+2/2
+
+Bellowing Saddlebrute {2}{R}
+Creature — Ogre Warrior
+Menace (This creature can't be blocked except by two or more creatures.)
+Whenever Bellowing Saddlebrute attacks, each opponent loses 2 life.
+2/2
+
+Berserkers of Blood Ridge {3}{R}
+Creature — Human Berserker
+Whenever Berserkers of Blood Ridge attacks, it gets +2/+0 until end of turn for each opponent you attacked with a creature this combat.
+2/2
+
+Bitter Feud {2}{R}
+Enchantment
+Whenever a creature you control attacks, it gets +1/+0 until end of turn for each other attacking creature that shares a creature type with it.
+
+Bitterheart Witch {1}{B}{B}
+Creature — Human Wizard
+When Bitterheart Witch enters the battlefield, you may search your library for any number of cards named Bitterheart Witch, reveal them, and put them into your hand. If you do, shuffle your library.
+Bitterheart Witch has hexproof if you didn't search for any cards this way.
+2/2
+
+Blood Seeker {1}{R}
+Creature — Vampire
+Whenever a creature enters the battlefield under an opponent's control, you may have that player lose 1 life.
+
+Blood Tribute {3}{B}{B}
+Sorcery
+As an additional cost to cast Blood Tribute, sacrifice a creature.
+
+Draw two cards.
+
+Blood-Cursed Knight {2}{W}
+Creature — Vampire Knight
+As long as you control an enchantment, Blood-Cursed Knight gets +1/+1 and has lifelink. (Damage dealt by this creature also causes you to gain that much life.)
+2/2
+
+Blood-Cursed Knight {2}{W}
+Creature — Vampire Knight
+As long as you control an enchantment, Blood-Cursed Knight gets +1/+1 and has
+====================

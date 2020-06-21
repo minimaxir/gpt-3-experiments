@@ -1,0 +1,419 @@
+
+
+Jawbone Skulkin {B}
+Creature — Spirit
+Intimidate (This creature can't be blocked except by artifact creatures and/or creatures that share a color with it.)
+Skulk (This creature can't be blocked by creatures with greater power.)
+1/3
+
+Pinstripe Forger {2}{B}
+Creature — Human Artificer
+{1}, {T}: Destroy target artifact with converted mana cost 1.
+Creatures without flying can't block creatures with power 2 or greater.
+1/1
+
+Stabwhisker the Odious {2}{B}{B}
+Legendary Creature — Goblin Rogue
+At the beginning of your upkeep, reveal the top card of your library. If it's a land card, put it into your graveyard and Stabwhisker the Odious deals 2 damage to you.
+Ongoing prank
+Whenever a player draws a card, Stabwhisker the Odious deals 1 damage to that player.
+1/1
+
+Stinkdrinker Bandit {2}{G}
+Creature — Goblin Rogue
+Stinkdrinker Bandit can't be blocked as long as defending player controls a Swamp.
+Whenever Stinkdrinker Bandit deals combat damage to a player, you may put a 1/1 green Snake creature token into play.
+1/1
+
+Volcanic Submersion {5}{R}{R}
+Sorcery
+Kicker {2}{R} (You may pay an additional {2}{R} as you play this spell.)
+Volcanic Submersion deals 4 damage to target creature. If this spell was kicked, Volcanic Submersion deals 6 damage to that creature instead.
+Top creature of each player's library gets dealt 4 damage.
+
+Blastoderm {6}{G}{G}
+Creature — Beast
+When Blastoderm comes into play, you may sacrifice it unless you sacrifice two Forests.
+Morph {6} (You may play this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+7/7
+
+Hand Ditizer {1}{R}{W}
+Instant
+Counter target spell unless its controller pays {2}.
+Ongoing trick
+Whenever a player plays a spell, that player copies it. If the player chooses new targets for the copy, the new targets must satisfy
+====================
+
+
+Snake Basket {4}{B}{B}
+Enchantment — Aura
+Enchant non-token creature
+The enchanted creature gets +1/+1 and has fear.
+It can't block.
+"In this city, there is no crime. There are no criminals. Unless, that is, you are on this wanted poster."
+The wall was made of rendered snake pits, layer upon layer of baskets
+Salvage Slasher {1}{R}
+Creature — Human Warrior
+When Salvage Slasher enters the battlefield, you may return target artifact card from your graveyard to your hand.
+
+Aether Snap {3}{W}
+Instant
+Return all attacking creatures to their owner's hand.
+Miracle — You may cast Aether Snap as though it had flash if you pay {3} more to cast it.
+
+Frigid Corona {4}{W}{W}{W}
+Creature — Elemental Spirit
+As long as Frigid Corona is attacking, creatures can't block unless their controller pays {1}.
+4/6
+
+Haphazard Bombardment {4}{R}
+Sorcery
+You may shuffle any number of target permanents you control into your library. For each permanent shuffled in this way, reveal cards from the top of your library until you reveal a permanent card that shares a card type with it. Put that card onto the battlefield and replace the remaining cards revealed this way.
+
+Criosphinx {3}{U}{U}
+Artifact Creature — Sphinx
+Flying
+When Criosphinx enters the battlefield, random each player's life total. You lose the game if your life total is 0 or less.
+Made from dung heaps and cracked scales, the unblinking sphinxes' sole work is to test others for weakness.
+Creatures your opponents control get -1/-0.
+This hive of filth and malign growth festered in one unthinkable spot, a dead spot between places. It was a place out of time, where sanity and sense had been mortared over, and a new dark glamour had seeped into the cracks to replace them.
+Here there has never been and will never be true light. Never blue sky unblemished by the stench of sulphurous smoke and the sightlessness of dead eyes staring up into it. Never green life unshadowed by hooded crows and the suffering of their young ones. Never the first
+====================
+
+Beastmaster Ascension {2}{G}{G}
+Enchantment
+Whenever a creature you control attacks, you may put a quest counter on Beastmaster Ascension.
+Evolve – Whenever a creature enters the battlefield under your control, if that creature has greater power or toughness than this creature, put a +1/+1 counter on this creature.
+As long as Beastmaster Ascension has three or more quest counters on it, creatures you control get +5/+5.
+Block {2}{W}
+Instant
+Creatures you control get +2/+2 and gain vigilance until end of turn. Draw a card.
+Boomerang {1}{G}
+Instant
+Return target creature you control and attached permanents to their owners' hands.
+Bounty of the Luxa {4}{G}
+Enchantment
+At the beginning of each end step, if you gained life this turn, you may draw a card.
+Black Cat {1}{B}
+Creature — Zombie Cat
+When Black Cat dies, shuffle it into its owner's library.
+1/1
+Blisterpod {B}
+Creature — Eldrazi Drone
+Devoid (This card has no color.)
+When Blisterpod dies, create a 1/1 colorless Eldrazi Scion creature token. It has "Sacrifice this creature: Add {C} to your mana pool."
+2/1
+Blood Tyrant {6}{B}
+Creature — Vampire
+Flying
+Whenever Blood Tyrant attacks, you gain 1 life for each Vampire you control.
+Counts as a Dracula you control.
+4/4
+Board the Weatherlight {6}{R}
+Sorcery
+Look at the top five cards of your library. You may reveal a historic card from among them and put it into your hand. Put the rest on the bottom of your library in a random order. (Artifacts, legendaries, and Sagas are historic.)
+{3}{U}{U}
+Blue Sun's Zenith {X}{U}{U}{U}
+Sorcery
+Target player draws X cards. Shuffle Blue Sun's Zenith into its owner's library.
+Bogardan Hellkite {5}{R}{R}
+Creature — Dragon
+Flying, trample
+{6}{R}{R}: Bogardan Hellkite deals 10 damage to target creature.
+9/9
+Boros Charm {1}{W
+====================
+
+
+Beauty's Skins  {1}{B}{B}
+Sorcery {1}{R}
+Look at the top five cards of your library. You may reveal a creature card, a land card, and/or a nonbasic land card from among them. Put the revealed cards onto the battlefield in any order. Put the rest on the bottom of your library in a random order.
+For each nonbasic land card revealed this way, create a 4/4 black Zombie creature token.
+
+Beckon Apparition {1}{U}
+Sorcery
+Return target creature to its owner's hand. Jump-start {4}{U} (You may cast this card from your graveyard by discarding a card in addition to paying its other costs.)
+Beckon Apparition Flavor text refers to terms used in Yu-Gi-Oh.
+
+Cellar Door   {4}{B}
+Creature — Vedalken Rogue
+At the beginning of your upkeep, you may transform Cellar Door.
+B, Reveal X green cards from your hand, Sacrifice Cellar Door: Add {X} to your mana pool. X can't be 0.
+0/1
+
+Nimble nav – flavor text suggests this young twin is female.
+Cephalid Inkshrouder    {X}{C}
+Creature — Cephalid Wizardjanitor
+{U}{U}: Tap target creature with converted mana cost X. It doesn't untap during its controller's next untap step.
+This creature's power and toughness are each equal to the number of creatures with converted mana cost X in your graveyard."
+2/2
+Fascinating puzzle box flavor – similar device is found in the rally trap card from The Dark.
+Special Math – The novel depicts cephole puzzles, creatures who are able to count using parts other than fingers or extremities. The number zero reperesents the number of items, however the number ten is the one that can be used in calculating ∞ (read: cephole ).
+3 transformed copies.
+Circle of Elders {4}{W}{W}
+Instant — Arcane
+As an additional cost to cast Circle of Elders, reveal a creature card from your hand.
+Choose a color. Target player sacrifices a creature that shares a color with the revealed creature.
+Cycling {2}.— yare!
+Deathgazer {3}{B}
+Creature — Lizard Beast
+
+====================
+
+
+Blood Clock {4} Artifact {T}: Put a charge counter on Blood Clock.  At the beginning of your upkeep, if Blood Clock has no charge counters on it, sacrifice it.  If you do, put a [0] time counter on it.  At the beginning of each end step, if there are [0] time counters on Blood Clock, sacrifice it.  If you do, create a token that's a copy of another target creature card with the same converted mana cost as the number of time counters that were on Blood Clock. It gains haste.  {0}: Delete each [0] time counter from Blood Clock and you gain 2 life.
+It then had a mana cost:
+Blood Clock {4} Artifact {T}: Put a charge counter on Blood Clock.  At the beginning of your upkeep, if Blood Clock has no charge counters on it, sacrifice it.  If you do, put a [0] time counter on it.  At the beginning of each end step, if there are [0] time counters on Blood Clock, sacrifice it.  If you do, create a token that's a copy of another target creature card with the same converted mana cost as the number of time counters that were on Blood Clock.  It gains haste.  {0}: Delete each [0] time counter from Blood Clock and you gain 2 life.
+Blacker Lotus {3} Artifact {T}: Add three mana of any one color to your mana pool.
+From nowhere.
+Imagine there was a new card type called "spell-like cards." And imagine those appeared on just three cards. And those three cards were burned out progress markers (a role they actually took on in the very next set Legends if memory serves).  They'd be considered among the most powerful cards ever printed in terms of raw power level, but would nonetheless be shunted to the side. Because of the different way they were cast, and because of the different effects on them (when you do stuff with the casting cost), stagger, "repeatable counters," gained end of turn effects, phase out ... all sorts of peculiar things possible.
+That was Green. It didn't have instants, or sorceries or enchantments or artifacts. There weren't any super small creatures. There was nothing in green that was small for the sake of being small. Green had what we called "spell-like creatures." There's a lot
+====================
+
+
+Beetleback Chief {G}{G}{G}
+Creature — Goblin
+At the beginning of your upkeep, put a 1/1 green Insect creature token with defender onto the battlefield.
+
+Bellowing Tanglewurm {5}{G}{G}{G}
+Creature — Wurm
+Trample
+Whenever Bellowing Tanglewurm attacks, all creatures defending player controls get -2/-0 until end of turn.
+Bringer of the White Dawn {4}{W}{W}{W}
+Creature — Bringer
+When you cast Bringer of the White Dawn, you may pay {X}{W}{W}. If you do, put X 1/1 white Condor creature tokens with flying onto the battlefield.
+Intervening Gearcrafter {3}{W}{W}
+Artifact Creature — Construct
+As long as you've cast an instant or sorcery spell this turn, Gearscrafter has flying and vigilance.
+1/1
+Artful Takedown {3}{U}
+Instant
+Choose one — • Target unblocked creature gets +1/+1 until end of turn. • Creatures with power 1 or less can't block target creature this turn.
+Stratus Dancer {1}{U}
+Creature — Faerie
+Flying
+When Stratus Dancer enters the battlefield, you gain 3 life.
+Notorious Throng {1}{R}
+Creature — Human Pirate
+When Notorious Throng enters the battlefield, you become the monarch.
+Strut {3}{G}
+Sorcery
+Until end of turn, target creature gains "{T}: Target creature can't block this creature this turn."
+Fire at Will {5}{R}
+Instant
+Fire at Will deals 2 damage to target creature and 2 damage to target player or planeswalker.
+Creatures you control get +0/+1 until end of turn.
+Wisp Eye {2}{W}
+Sorcery — Arcane
+Look at the top three cards of your library. You may reveal an artifact card from among them and put it into your hand. Put the rest on the bottom of your library in any order.
+1/1
+
+Animated Bastion
+Artifact Creature — Construct
+Flash
+When Animated Bastion enters the battlefield, put a +1/+1 counter on target creature. That creature gains vigilance, Protector, and indestructible until end of turn.
+
+====================
+
+
+Barrage Tyrant {5}{R}{R}{R}
+Creature — Dragon
+Flying
+When Barrage Tyrant enters the battlefield, it deals 4 damage to target creature.
+Barrage Tyrant can't be blocked except by two or more creatures.
+The Dragons of Tarkir are decidedly different than those in the past, lacking the deep ties to magic as the original dragons, or their ability to shape the land as the Ojutai dragons did. Their presence is almost as strong as Zendikar's Eldrazi, though their menace is dispelled as soon as they land on a deck.
+
+Bring Low {1}{G}
+Sorcery
+Destroy target creature with power 4 or greater.
+
+Cloudform {4}{U}
+Enchantment — Aura
+Enchant creature with power 1 or less
+When Cloudform enters the battlefield, it becomes an Aura with enchant creature. Manifest the top card of your library and attach Cloudform to it. (To manifest a card, put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)
+Flying
+The enchanted creature is now a creature in addition to its other types.
+
+Colossodon Yearling {1}{G}
+Creature — Dinosaur
+When Colossodon Yearling dies, you may search your library for a card named Colossodon Yearling, reveal it, put it into your hand, then shuffle your library.
+It leaves the world not as it found it.
+1/1
+
+Colossal Sniper {2}{R}{R}
+Creature — Human Archer
+Astral Flight ( {2}{R} , {T} : Put a +1/+1 counter on this creature. Astral Flight only as a sorcery.)
+Fateful hour — As long as you have 5 or more fate counters on Colossal Sniper, it has "{T}: Target creature gets -4/-0 until end of turn."
+3/4
+
+Crucible of the Spirit Dragon {4}
+Artifact you may activate abilities of creatures with power 4 or greater as though those creatures had haste.
+
+Daghatar the Adamant {3}{W}{W}
+Legendary Creature — Human Warrior
+Vigilance, indestructible
+Whenever Daghatar the Adamant attacks, put a +1/+1 counter on each attacking creature.
+And like Gel
+====================
+
+
+Mother of Goons {2}{R}{R}
+Creature — Human Warrior
+Plague Mother costs {1} less to activate for each creature with plague you control.
+(If a creature has "plague" any time after it's dealt damage, it gets one +1/+1 counter.)
+3/3
+
+Sabertooth Cobra {1}{G}
+Creature — Snake
+3/2
+
+Scaled Wurm {5}{G}{G}
+Creature — Wurm
+Trample
+7/7
+
+Wanderlust {U}{U}
+Enchantment — Aura
+Enchant creature
+Enchanted creature gets +1/+1 and can't block.
+Curse Enchantment — Aura Curse Enchant creature
+Enchanted creature gets -2/-0.
+
+Volley of Boulders {R}
+Sorcery
+Volley of Boulders deals 1 damage to target creature or player.
+Raid — If you attacked this turn, Volley of Boulders deals 3 damage to that permanent or player instead.
+
+Weirding Wood {2}
+Enchantment — Aura
+Enchant creature
+When Weirding Wood enters the battlefield, tap enchanted creature.
+Enchanted creature gets +3/+3.
+Curse Enchantment — Aura Curse Creature When Weirding Wood enters the battlefield, tap enchanted creature.
+Cursed creature gets -3/-3.
+
+Ashcoat Bear {1}{G}
+Creature — Bear
+When Ashcoat Bear dies, you may exile it. If you do, return any number of creature cards from your graveyard to your hand.
+Creature cards with Phyrexian mana symbols in their mana costs are black.
+Curse Creature — Bear
+{G}: Regenerate Ashcoat Bear.
+2/1
+
+Raging Leonin {1}{W}{W}
+Creature — Cat
+Whenever Raging Leonin attacks, you may pay {0}. If you do, it gets +2/+2 until end of turn.
+Scars of the Veteran {1}{W}
+Enchant creature
+When enchanted creature dies, you may put a 1/1 white Spirit creature token with flying onto the battlefield.
+Sacrifice two Spirits: Return target Spirit you control to its owner's hand.
+2/2
+
+Scourge Servant {2}{B}{B}
+Creature — Horror
+At the beginning of your
+====================
+
+
+Looming Shade {4}{U}
+Creature — Shade
+When Looming Shade attacks or blocks, sacrifice it unless you remove another creature you control from combat.
+Kicker {3} (You may pay an additional {3} as you cast this spell.)
+Flying
+5/4
+
+Opposition {3}{G}
+Enchantment
+Whenever a creature enters the battlefield under your control, you may have it fight target creature.
+
+Ebbtide {1}{G}
+Sorcery
+Return up to two target creatures to their owners' hands.
+
+Elvish Behemoth Arbor 
+Creature – Treefolk 
+8/8
+Green spells and White spells you control cost {1} less to cast.
+Saprazzano Behemoth 
+Creature – Giant Berserker 
+"It's going to be fun to lift something that can't be lifted." - Hunding Gjornersen
+4/4
+
+Four power giant with two abilities. The card is obviously a 1 for 1, no one's denying that...But there's an understated amount of elegance to this card that's almost artistic. - Jason
+
+Gastraphetes {1}{R}
+Artifact Creature — Construct 
+Gastraphetes enters the battlefield with three +1/+0 counters on it. 
+At the beginning of your upkeep, you may remove a +1/+0 counter from Gastraphetes. If you do, target player discards a card.
+Wincy, the small print {1}{R}
+Creature – Goblin Warrior 
+{R}: Target creature can't be blocked this turn.
+Arthen Baga {1}{G}{G}{G}
+Creature – Treefolk Warrior 
+Whenever another creature enters the battlefield, you gain 1 life.
+Creatures you control have vigilance.
+0/3
+
+Rabid Wombat {1}{G}
+Creature — Wombat
+Kicker {3}{G} (You may pay an additional {3}{G} as you cast this spell.)
+When Rabid Wombat enters the battlefield, if it was kicked, target player discards three cards.
+" exploded!" - Remri Slizz, goblin explosives expert
+2/2
+
+Rescue Griffin {2}{W}{W}
+Creature — Griffin
+Flying
+When Rescue Griffin enters the battlefield, you may rescue
+====================
+
+
+Predatory Urge {3}{G}
+Enchantment — Aura
+Enchant creature
+Whenever enchanted creature deals damage, you gain that much life.
+Trample, hexproof
+
+Mercurial Kavu {3}{G}{G}
+Creature — Kavu
+{G}: Mercurial Kavu gets +2/+0 and gains trample until end of turn.
+Special ability #1
+You may discard a card from your hand anytime you could discard a land card.
+2/2
+Special ability #2
+Whenever Mercurial Kavu deals damage to a creature, swap it with another target creature.
+
+Peregrine Drake {2}{U}{U}
+Creature — Drake
+Flying
+Peregrine Drake's power is equal to the total number of cards in all players' hands.
+
+Shalai, Voice of Plenty {2}{W}{W}
+Legendary Creature — Angel
+Flying, first strike, vigilance, lifelink
+Whenever a creature enters the battlefield under your control, you may gain life equal to its power.
+Special ability #1
+As long as Shalai, Voice of Plenty is in the graveyard, each token creature you cast costs {1} less to cast.
+Special ability #2
+Flying
+
+Simic Initiate {2}{U}
+Creature — Elf Mutant
+Graft 2 (This creature enters the battlefield with two +1/+1 counters on it. Whenever another creature enters the battlefield, you may move a +1/+1 counter from this creature onto it.)
+Special ability #1
+: Put a +1/+1 counter on Simic Initiate.
+Special ability #2
+: Move a +1/+1 counter from Simic Initiate onto target creature.
+1/1
+
+Simic Ragworm {3}{U}{U}
+Creature — Worm
+Graft 4 (This creature enters the battlefield with four +1/+1 counters on it. Whenever another creature enters the battlefield, you may move a +1/+1 counter from this creature onto it.)
+When Simic Ragworm enters the battlefield, put a +1/+1 counter on each other creature you control with a +1/+1 counter on it.
+0/0
+
+Sphinx of the Guildpact {4}{U}
+Creature — Sphinx
+Flying
+Garbage Fire deals 3 damage to target creature or player.
+====================

@@ -1,0 +1,565 @@
+
+
+Befoul {3}{B}{B}
+Sorcery
+Destroy target land. Its controller loses 2 life.
+Nantuko Husk {B}
+Creature — Zombie Insect
+Sacrifice a creature: Nantuko Husk gets +2/+2 until end of turn.
+X: Regenerate Nantuko Husk.
+2/2
+
+Behemoth Sledge {5}
+Artifact — Equipment
+Equipped creature gets +3/+0 and has trample.
+Equip {2}
+Bequeathal {4}{W}
+Sorcery
+Search your library for a creature card, reveal that card, and put it into your hand. Then shuffle your library.
+Loxodon Hierarch {5}
+Creature — Elephant Cleric
+Vigilance
+As long as Loxodon Hierarch is attacking, it gets +1/+1 and has "Whenever this creature deals damage, you gain that much life."
+5/5
+
+Barbarian Bully {2}{R}
+Creature — Human Barbarian
+When Barbarian Bully enters the battlefield, you may discard a card. If you do, draw a card.
+3/1
+
+Basal Sliver {1}{G}
+Creature — Sliver
+All Sliver creatures have trample.
+2/2
+
+Bazaar Trader {3}{B}
+Creature — Human Rogue
+When Bazaar Trader enters the battlefield, each player discards a card.
+2/3
+
+Blazing Blade Askari {2}{R}
+Creature — Human Soldier
+When Blazing Blade Askari enters the battlefield, it deals 1 damage to target creature.
+Destroy target artifact.
+1/1
+
+Blessed Reversal {W}
+Instant
+You gain 4 life.
+Blessed Reincarnation {3}{W}{W}
+Sorcery
+Exile target creature an opponent controls. That player reveals cards from the top of his or her library until a creature card is revealed. The player puts that card onto the battlefield, then shuffles the rest into his or her library.
+{1}{W}, Exile a creature card from your graveyard: Put a token onto the battlefield that's a copy of that card except it's a 4/4 black Zombie.
+Wickerbough Elder {4}{G}
+Creature — Treefolk Shaman
+Whenever Wickerbough Elder or another
+====================
+
+
+Nivix Guildmage {2}{R}{U}
+Creature — Human Wizard
+{T}: Add {R}{U} to your mana pool.
+
+{2}{R}{U}: Target creature gains flying until end of turn.
+
+Meandering Towershell {5}{U}{U}
+Creature — Turtle
+Flash (You may cast this spell any time you could cast an instant.)
+Whenever Meandering Towershell attacks, exile it. Return it to the battlefield under its owner's control at the beginning of the next end step.
+
+7/7
+
+Spitebellows {5}{R}{R}
+Creature — Elemental
+Whenever Spitebellows attacks, you may have it deal 1 damage to target creature.
+1/1
+
+Thought Scour {1}{U}
+Sorcery
+Target player puts the top two cards of his or her library into his or her graveyard.
+Draw a card.
+
+Brainstorm {1}{U}
+Instant
+Draw three cards, then put two cards from your hand on top of your library in any order.
+
+Gush {1}{U}
+Instant
+Return target creature to its owner's hand.
+Draw a card.
+
+Sphinx's Revelation {3}{U}{U}
+Instant
+You gain X life and draw X cards.
+1/1
+
+Coiling Oracle {G}
+Creature — Snake Elf Druid
+When Coiling Oracle enters the battlefield, reveal the top card of your library. If it's a land card, put it onto the battlefield. Otherwise, put that card into your hand.
+1/1
+
+Dispel {1}{U}
+Instant
+Counter target instant spell.
+
+Disdainful Stroke {1}{U}
+Instant
+Counter target spell with converted mana cost 4 or greater.
+
+Fleeting Distraction {U}
+Instant
+Counter target spell.
+Draw a card.
+
+Thought Scour {1}{U}
+Sorcery
+Target player puts the top two cards of his or her library into his or her graveyard.
+Creature — Human Wizard
+2/2
+
+Alchemist's Apprentice {2}{U}
+Creature — Human Wizard
+When Alchemist's Apprentice enters the battlefield, put a 1/1 colorless Thopter artifact creature token with flying onto the battlefield.
+Creature tokens you control have flying.
+2/
+====================
+
+
+Bladetusk Boar {3}{R}
+Creature — Boar
+Trample
+3/2
+Blessed Orator {3}{W}{W}
+Creature — Human Cleric
+Whenever Blessed Orator attacks, you gain 1 life for each attacking creature.
+Cleric spells and Soldier creatures you control get +1/+1.
+3/4
+Blood Reckoning {2}{R}
+Sorcery
+Target creature deals damage to itself equal to its power.
+Brute Strength {3}{G}
+Instant
+Target creature gets +3/+1 and gains trample until end of turn.
+
+Carven Caryatid {2}
+Creature — Elemental
+Defender
+Whenever you cast a creature spell, you may return Carven Caryatid from your graveyard to your hand.
+Stonecloaker {3}{W}
+Creature — Gargoyle
+Flying
+Whenever Stonecloaker attacks, return a creature you control to its owner's hand.
+2/3
+Cathar's Crusade {1}{W}
+Enchantment
+Whenever a creature enters the battlefield under your control, put a +1/+1 counter on each creature you control.
+Suspend 3—{1}{W} (Rather than cast this card from your hand, you may pay {1}{W} and exile it with three time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost. It has haste.)
+Sorcery
+Choose one —
+• Target player gains X life.
+• Prevent the next X damage that would be dealt to target creature this turn.
+
+Daring Leap {1}{R}
+Instant
+Target creature gets +2/+2 and gains flying until end of turn.
+
+Daybreak Ranger {1}{W}{W}
+Creature — Human Archer
+Whenever you cast an instant or sorcery spell, put a +1/+1 counter on Daybreak Ranger.
+Champion an Elf (When this enters the battlefield, sacrifice it unless you exile another Elf you control. When this leaves the battlefield, that card returns to the battlefield.)
+2/2
+Dread Wight {2}{B}
+Creature — Zombie
+When Dread Wight enters the battlefield, target player discards a card.
+You may play cards exiled with Dread Wight.
+2/2
+D
+====================
+
+
+Beetleback Chief {2}{R}
+Creature — Goblin
+Whenever another Goblin you control is put into a graveyard from the battlefield, put a +1/+1 counter on Beetleback Chief.
+R: Beetleback Chief gets +1/+0 until end of turn.
+2/2
+
+Benthic Giant {5}{U}
+Creature — Giant
+When Benthic Giant enters the battlefield, you may search your library for a card named Island, put it onto the battlefield tapped, then shuffle your library.
+Quarry — {1}{U}, Exile Benthic Giant from your graveyard: Add {U} to your mana pool.
+6/6
+
+Bestial Menace {3}{G}
+Enchantment
+Whenever a creature you control becomes the target of a spell or ability an opponent controls, put a 2/2 green Beast creature token onto the battlefield.
+
+Bewilder {3}{U}{U}
+Enchantment
+You control target creature if its controller pays {1} more to activate its abilities.
+Brain Gorgers {5}{B}{B}
+Creature — Zombie
+When Brain Gorgers enters the battlefield, put a -1/-1 counter on target creature defending player controls.
+2/4
+
+Brood Sliver {3}{R}
+Creature — Sliver
+All Slivers have "{2}, Sacrifice this creature: This creature deals 2 damage to target creature or player."
+Clutch of Currents {1}{U}
+Sorcery
+Return target creature to its owner's hand.
+4/5
+
+Cancel {1}{U}
+Instant
+Counter target spell.
+Blister Beetle {1}{R}
+Creature — Insect
+2/1
+R: Blister Beetle gets +2/+0 until end of turn.
+3/3
+
+Cateran Brute {2}{R}
+Creature — Human Warrior
+When Cateran Brute enters the battlefield, each other creature you control gets +1/+1 and gains trample until end of turn.
+R: Cateran Brute gets +1/+0 until end of turn.
+2/2
+
+Champion Lancer {1}{W}{W}
+Creature — Human Knight
+First strike
+When Champion Lancer enters the battlefield, put a lance counter on target creature you control.
+Threshold — As long as seven or
+====================
+
+
+Stingmoggie {2}{G}
+Creature — Elemental Cat
+When Stingmoggie enters the battlefield, target creature defending player controls gets -1/-1 until end of turn.
+Creature spells you cast cost {1} less to cast.
+2/2
+
+Clutch of Undeath {2}{B}
+Enchantment — Aura
+Enchant creature
+Enchanted creature gets +1/+1 and has "Whenever this creature deals damage, you gain that much life."
+1/1
+
+Dauthi Slayer {1}{B}
+Creature — Human Warrior
+{1}{B}, {T}: Destroy target black creature.
+2/2
+
+Death's-Head Buzzard {3}{B}
+Creature — Zombie Bird
+Flying
+2/1
+
+Dross Crocodile {3}{B}
+Creature — Zombie Crocodile
+When Dross Crocodile dies, target opponent gains control of it.
+2/2
+
+Giant Dustwasp {3}{B}
+Creature — Insect
+Flying
+When Giant Dustwasp enters the battlefield, destroy target artifact.
+2/2
+
+Giant Octopus {5}{U}{U}
+Creature — Octopus
+Islandwalk
+3/3
+
+Ghost Ship {4}{U}{U}
+Creature — Spirit Ship
+Flying
+Whenever Ghost Ship deals combat damage to a player, you may return target creature to its owner's hand.
+Goblin Cadets {1}{R}
+Creature — Goblin Warrior
+Haste
+When Goblin Cadets enters the battlefield, target creature gets +2/+0 until end of turn.
+
+Mire Boa {3}{G}
+Creature — Snake
+When Mire Boa enters the battlefield, put a +1/+1 counter on target creature.
+2/2
+
+Mogg Conscripts {1}{R}
+Creature — Goblin Warrior
+Mogg Conscripts can't attack unless you control another Goblin.
+2/2
+
+Mogg Fanatic {1}{R}
+Creature — Goblin
+Sacrifice Mogg Fanatic: Mogg Fanatic deals 1 damage to target creature or player.
+2/1
+
+Mogg Flunkies {1}{R}
+Creature — Goblin
+Mogg Flunkies can't attack unless a creature with power 1 or less is
+====================
+
+
+Birds of Paradise {G}
+Creature — Bird
+Flying, protection from black
+1/1
+Celestial Purge {W}
+Instant
+As an additional cost to cast Celestial Purge, sacrifice a white permanent.
+Celestial Purge deals 3 damage to target creature or player. If a permanent dealt damage this way would be put into a graveyard this turn, remove it from the game instead.
+
+Choking Tethers {1}{U}{U}
+Enchantment — Aura
+Enchant creature
+When Choking Tethers enters the battlefield, tap enchanted creature.
+Madness {1}{U} (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)
+Enchanted creature doesn't untap during its controller's untap step.
+
+Coral Eel {U}
+Creature — Fish
+{1}{U}: Coral Eel gets +1/-1 until end of turn.
+Morph {U} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+1/1
+
+Crossbow Ambush {2}{W}
+Enchantment — Aura
+Enchant creature
+Enchanted creature has "Whenever this creature deals damage to a player, that player discards a card."
+
+Curse of the Nightly Hunt {1}{B}{B}
+Enchantment — Aura Curse
+Enchant player
+Whenever a creature deals damage to enchanted player, put a +1/+1 counter on it.
+Enchanted player has "At the beginning of your upkeep, you may sacrifice a creature. If you do, return this card from your graveyard to the battlefield."
+
+Dawning Purist {W}{W}
+Creature — Human Cleric
+Whenever you cast a white spell, you may exile target creature.
+Crossbow Ambush deals damage to that creature's controller equal to the exiled creature's power.
+2/3
+
+Dismiss into Dream {2}{U}{U}
+Sorcery
+Return target creature to its owner's hand.
+Draw a card.
+Dusk Imp {1}{B}
+Creature — Imp
+Flying
+Discard a card: Dusk Imp gets +1/+1 until end of turn.
+2/1
+
+Elvish Lookout {
+====================
+
+
+Aven Envoy {3}{W}
+Creature — Bird Soldier
+Flying
+When Aven Envoy enters the battlefield, you gain 2 life.
+Madness {2}{W} (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)
+2/2
+
+Beacon Behemoth {5}{R}{R}{R}
+Creature — Beast
+Trample
+At the beginning of your upkeep, return a creature you control to its owner's hand.
+If you can't, sacrifice Beacon Behemoth.
+6/6
+
+Broodhatch Nantuko {2}{G}
+Creature — Insect Druid
+When Broodhatch Nantuko is put into a graveyard from the battlefield, you may put a 1/1 green Insect creature token onto the battlefield.
+G: Regenerate Broodhatch Nantuko.
+2/2
+
+Catacomb Slug {3}{B}
+Creature — Slug
+When Catacomb Slug dies, you may put target card from your graveyard on top of your library.
+Fading 3
+1/1
+
+Cerulean Wyvern {3}{U}{U}
+Creature — Drake
+Flying
+When Cerulean Wyvern enters the battlefield, draw a card.
+3/3
+
+Chameleon Colossus {4}{U}{U}{U}
+Creature — Shapeshifter
+Changeling (This card is every creature type at all times.)
+As Chameleon Colossus enters the battlefield, choose a color.
+1/1
+
+Circular Logic {2}{U}{U}
+Instant
+Counter target spell unless its controller pays {1}.
+Madness {2}{U} (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)
+2/2
+
+Clutch of Currents {1}{U}
+Instant
+Return target creature to its owner's hand.
+Draw a card.
+Fading 3 (This creature enters the battlefield with three fade counters on it. At the beginning of your upkeep, remove a fade counter from it. If you can't, sacrifice it.)
+1/1
+
+Corpse Blockade {4}{B}{B}
+Creature — Zombie
+Whenever another creature enters the battlefield, you may put a +1
+====================
+
+
+Curse of Predation {3}{G}
+Enchantment — Aura Curse
+Enchant player
+Whenever a creature attacks enchanted player, put a 4/4 green Beast creature token onto the battlefield tapped and attacking that player.
+
+Dread Warlock {2}{B}{B}
+Creature — Human Wizard
+At the beginning of each player's end step, that player chooses target player who controls more creatures than he or she does and is his or her opponent. The first player controls that player until the end of the turn. After that turn, the player they're controlling gets control of all the permanents they own.
+
+Drudge Skeletons {1}{B}
+Creature — Skeleton
+2/1
+
+Faithless Looting {1}{R}
+Sorcery
+Draw two cards, then discard two cards.
+At the beginning of your upkeep, if you have no cards in hand, draw a card.
+
+Fierce Empath {3}{G}
+Creature — Elf Shaman
+When Fierce Empath enters the battlefield, you may search your library for a creature card with converted mana cost 6 or greater, reveal it, put it into your hand, then shuffle your library.
+Emotionless Catharsis {3}{U}
+Sorcery
+Destroy target creature. You gain life equal to its toughness.
+Pro Tip!
+Whenever I see a card with a big effect, I immediately try to think of a way to abuse it. Fierce Empath can fetch pretty much any creature in your deck. There are a lot of good creatures with CMC 6 or more in the cube. I'll leave you to find some of them.
+
+Ghoulraiser {3}{B}
+Creature — Zombie
+{3}{B}: Return Ghoulraiser from your graveyard to the battlefield. Activate this ability only any time you could cast a sorcery.
+Flavor Text:
+If you've got the room, he's got the meat.
+1/1
+
+Goblin Piker {R}
+Creature — Goblin Warrior
+{R}, {T}: Goblin Piker deals damage to target creature equal to the number of Goblins you control.
+Wild Mongrel {1}{G}
+Creature — Mongrel
+Whenever Wild Mongrel is dealt damage, it deals that much damage to target creature.
+1/1
+
+Howlgeist {3}{B}{B}
+====================
+
+
+Blanchwood Armor {2}
+Enchant creature
+Enchanted creature gets +1/+1 for each Forest you control.
+Bogardan Firefiend {1}{R}
+Creature — Elemental
+When Bogardan Firefiend comes into play, it deals 1 damage to target creature or player.
+Lifelink (Damage dealt by this creature also causes you to gain that much life.)
+1/1
+
+Call to Heel {1}{W}
+Instant
+Return target creature to its owner's hand.
+Cloven Casting {2}{R}
+Enchantment
+Whenever you play a spell, you may reveal the top card of your library. If that card is a creature card, put it into play. Otherwise, put that card into your hand.
+2/2
+
+Clutch of Currents {1}{U}
+Sorcery
+Return target permanent to its owner's hand.
+If you control a Merfolk, draw a card.
+Saprazzan Outrigger {1}{U}
+Creature — Human Rogue
+When Saprazzan Outrigger comes into play, you may return target tapped creature to its owner's hand.
+3/2
+
+Screeching Griffin {3}{W}
+Creature — Griffin
+Flying
+When Screeching Griffin comes into play, you may return target Spirit card from your graveyard to your hand.
+2/2
+
+Serene Remembrance {1}{W}
+Sorcery
+Return target creature card from your graveyard to your hand.
+2/2
+
+Skittering Surveyor {2}{U}
+Creature — Spider
+Reach
+When Skittering Surveyor comes into play, you may search your library for a basic land card, reveal it, put it into your hand, then shuffle your library.
+1/3
+
+Stormscape Apprentice {2}{U}
+Creature — Human Wizard
+When Stormscape Apprentice comes into play, you may pay {U}. If you do, target creature can't block this turn.
+1/1
+
+Vedalken Dismisser {2}{U}
+Creature — Vedalken Wizard
+When Vedalken Dismisser comes into play, return target creature to its owner's hand.
+1/3
+
+Vedalken Infuser {1}{U}
+Creature — Vedalken Wizard
+When
+====================
+
+
+Bonebreaker Giant {4}{B}{B}
+Creature — Giant Warrior
+Trample
+When Bonebreaker Giant enters the battlefield, destroy target creature with flying.
+Slivercycling {2}{B} ({2}{B}, Discard this card: Search your library for a Sliver card, reveal it, and put it into your hand. Then shuffle your library.)
+1/1
+
+Clot Sliver {2}{B}
+Creature — Sliver
+All Slivers have "{2}, Sacrifice this creature: This creature deals 2 damage to target creature or player."
+P/T: 1/1
+
+Cobblebrute {3}{R}
+Creature — Elemental
+Whenever Cobblebrute attacks, it gets +1/+0 until end of turn for each attacking creature.
+3/3
+
+Cockatrice {1}{G}
+Creature — Zombie Chicken
+When Cockatrice dies, target creature is turned into a chicken until end of turn.
+2/2
+
+Crypt Cobra {3}{G}
+Creature — Snake
+Whenever Crypt Cobra is dealt damage, it deals 2 damage to you.
+Morph {3}{G}{G} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+2/2
+
+Cystbearer {1}{B}
+Creature — Horror
+Cystbearer can't block.
+Cards in graveyards have flashback. The flashback cost is equal to the card's mana cost. (Its owner may cast the card from his or her graveyard for its flashback cost. Then he or she may exile it.)
+1/1
+
+Death Pits of Rath {3}{B}{B}
+Enchantment
+At the beginning of your upkeep, sacrifice a creature. If you can't, sacrifice Death Pits of Rath.
+3, Tap: Each player exiles all creatures he or she controls and loses 5 life.
+
+Devour in Shadow {4}{B}
+Instant
+Target creature gets +2/+0 until end of turn. You may sacrifice a creature rather than pay Devour in Shadow's mana cost.
+Creature sacrificed this way can't be regenerated.
+
+Drudge Skeletons {B}
+Creature — Skeleton
+{1}{B}: Return Drudge Skeletons from your graveyard to
+====================

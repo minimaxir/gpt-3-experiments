@@ -1,6 +1,6 @@
 # gpt-3-experiments
 
-A repo containing Python scripts to automate generation from OpenAI's GPT-3 based API
+A repo containing Python scripts to automate mass-generation from OpenAI's GPT-3 based API in order to illustrate the AI text-generating model's robustness.
 
 **Disclaimer: generated content in this repository may be offensive. The READMEs of the corresponding examples will include an explicit content warning when this is the case.**
 

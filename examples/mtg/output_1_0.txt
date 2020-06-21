@@ -1,0 +1,452 @@
+
+
+Blood Image {1}{R}
+Enchantment — Aura
+When Blood Image enters the battlefield, it deals 1 damage to target player or planeswalker.
+Departed Deckhand {1}{B}
+Creature – Spirit Warrior
+{K}{K}: Departed Deckhand becomes the creature type of your choice until end of turn.
+Defiant Bloodlord {1}{R}{R}
+Creature – Vampire Warrior
+Flying, lifelink, haste
+Whenever you cycle or discard a card, Defiant Bloodlord gets +2/+2 until end of turn.
+Chief of the Scale {2}{G}
+Creature — Lizard
+Trample
+Whenever Chief of the Scale becomes blocked, it gets +2/+2 until end of turn.
+2/2
+Cleaver Riot {3}{B}{B}{B}
+Sorcery
+Blue creatures you control gain double strike and must be blocked this turn if able. Gore Swine deals damage equal to its power to target creature an opponent controls.
+The snakes are mobilized. The show begins. —Kird Ape
+Culling the Flock {3}{W}{W}
+Sorcery
+Choose target creature an opponent controls. Each creature you control fights it.
+Copy Enchantment {3}{U}
+Sorcery
+At the beginning of your upkeep, you may have the controller of the target enchantment become a copy of this Aura.
+Forest
+{W}{W}, Pay 3 life: Regenerate target Fungus.
+Whenever a land enters the battlefield under your control, you may have Karoo Kicker become a copy of target land until end of turn.
+Pulse of Llanowar {G}{G}{G}
+Instant
+Reveal the top card of your library. If it's a creature card, put a +1/+1 counter on it. Then, draw a card.
+Wild Swing {G}{G}{G}{G}{G}
+Sorcery
+As an additional cost to cast Wild Swing, reveal a card named Wild Swing from your hand or pay {9}.
+Wild Swing deals X damage divided by the revealed card's converted mana cost to target creature an opponent controls.
+Figure of Destiny {1}{R}
+ Creature – Kor Soldier Soldier
+First strike (This creature deals combat damage before creatures without first strike.)
+1/2
+Figure of Destiny {1}{R}
+Creature – Kor Soldier Soldier
+
+====================
+
+
+Cloak of Invisibility {1}{U}
+Enchantment — Aura
+Enchant creature
+Enchanted creature has stealth.
+Morph {U} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+Canopy Spider {3}{G}
+Creature — Spider
+Reach
+Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)
+2/2
+
+Cytoplast Root-Kin {R}{G}
+Creature — Elemental Warrior
+When Cytoplast Root-Kin dies, you may put a green and/or blue Elemental creature card from your hand onto the battlefield. It gains trample and replaces each instance of "Cytoplast" with "Elemental" in that card's text.
+Morph {2}{G}{G}
+2/2
+Festering Newt {1}{B}
+Creature — Salamander
+Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)
+At the beginning of your upkeep, festering Newt deals 1 damage to you.
+{1}{B}: Target creature gains deathtouch until end of turn.
+1/1
+
+Gluttonous Cyclops {4}{U}{U}
+Creature — Cyclops
+5/5
+Gore-House Chainwalker {R}
+Creature — Human Warrior
+When Gore-House Chainwalker enters the battlefield, if a creature died this turn, put a +1/+1 counter on Gore-House Chainwalker.
+Morph {2}{R} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+1/1
+Graverobber Spider {2}{G}{G}
+Creature — Spider
+Reach
+Graverobber Spider can block an additional seven creatures each combat.
+2/2
+Incite {3}{B}{B}{B}
+Sorcery
+Choose one or both —  Destroy target creature with power 2 or less; and/or target creature gains first strike until end of turn.
+Krosan Tusker {5}{G}
+Creature — Boar Beast
+When you cast this spell, you may search your library for a basic land card, reveal it, put it into your hand, then shuffle your
+====================
+
+Serpentine Basilisk {1}{G}
+Creature — Basilisk
+Deathtouch (3)
+2/2
+Soulherder {4}{W}
+Creature — Elf Warrior
+Whenever another creature enters the battlefield under your control, you may untap target creature.
+
+5/3
+Squirming Mass {6}
+Creature — Eldrazi Leech
+Scavenge {4}{G} ({4}{G}, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card's power on target creature. Scavenge only as a sorcery.)
+Ongoing Investigation {1}{W}
+Enchantment — Aura
+Enchant creature you control
+When enchanted creature dies, you may investigate. (Put a colorless Clue artifact token onto the battlefield with "{2}, Sacrifice this artifact: Draw a card.")
+Salt Road Ambushers {1}{B}{B}
+Creature — Human Warrior // {1}{G}{G}
+Haste PLAIN {1}{B}: Target attacking Zombie gains indestructible until end of turn.
+  2/1  
+Shattered Perception {3}{U}
+Sorcery
+Target player discards two cards.
+Megamorph {2}{U} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its megamorph cost and put a +1/+1 counter on it.)
+1/1
+Sheltering Ancient {5}{G}
+Creature — Archon
+Flying, vigilance
+As long as you control a Doubtless One or more other creatures, Sheltering Ancient gets +2/+2 and has flying and vigilance.
+Sightless Brawler {2}{G}
+Creature — Zombie Crocodile
+2/2
+Soul Seizer {3}{U}{U}
+Creature — Eldrazi Drone
+Devoid (This card has no color.)
+Flying Whenever a creature you control deals combat damage to a player, put a 1/1 colorless Eldrazi Scion creature token onto the battlefield. It has "Sacrifice this creature: Add {C} to your mana pool."
+1/2
+DIMIR
+Crystalline Crawler {3}
+Creature — Elemental
+Evolve · When Crystalline Crawler is put into a graveyard from the battlefield, draw a card.
+1/1
+====================
+
+
+Leatherback Baloth {2}{G}
+Creature — Beast
+When Leatherback Baloth enters the battlefield, you may return target Beast card from your graveyard to your hand.
+Aurelia's Fury {2}{R}{R}
+Sorcery
+Aurelia's Fury deals X damage divided as you choose among any number of targets. Tap each creature dealt damage this way. Players dealt damage this way can't cast noncreature spells this turn.
+
+Grove of the Guardian {2}{G}{G}
+Enchantment — Aura
+Enchant land
+When enchanted land is tapped for mana, it produces {2} instead of its normal type and amount.
+
+Takeno, Samurai General {1}{W}{W}
+Legendary Creature — Human Samurai
+Bushido 1
+Whenever a creature an opponent controls attacks, if you're the defending player, put a bushido counter on Takeno, Samurai General.
+The next time a creature an opponent controls would deal damage to you this turn, it deals that much damage plus 2 instead.
+
+Tromokratis {5}{U}{U}
+Creature — Kraken
+6/6
+Whenever Tromokratis deals combat damage to a player, you may cast target instant or sorcery card from that player's graveyard without paying its mana cost.
+1/1
+
+Elderwood Scion {4}{G}
+Creature — Treefolk Shaman
+Trample
+Morbid — Elderwood Scion enters the battlefield with a +1/+1 counter on it if a creature died this turn.
+Dismember {3}{B}
+Instant
+Target creature gets -5/-5 until end of turn.
+Moving Spirit Cairn {3}{G}{G}
+Creature — Elemental
+3/3
+Landfall — Whenever a land enters the battlefield under your control, you may put a +1/+1 counter on each creature you control.
+Wednesday, February 16
+Arashin Sovereign {2}{W}
+Creature — Dragon
+Flying
+Other Dragons you control get +1/+0.
+Whenever Arashin Sovereign, Dragon Ally enters the battlefield or attacks, you may pay {3}. If you do, put a 2/2 white Dragon creature token with flying onto the battlefield.
+1/5
+
+Reclusive Artificer {1}{U}
+Creature — Human Artificer
+2/1
+Fabricate 1
+====================
+
+Living Death {5}{B}{B}{B}
+Sorcery
+Each player exiles all creature cards from their graveyard, then sacrifices all creatures they control, then puts all cards originally exiled this way onto the battlefield.
+T: Exile Living Death.
+Maze of Ith {1}
+Land — Plains Island
+({T}: Add {W} to your mana pool.)
+({T}: Add {U} or {B} to your mana pool.)
+Walls can't attack.
+Instill Energy {2}{G}{U}
+Instant
+Counter target creature spell. You gain 3 life.
+Glory {1}{W}
+Enchant creature
+Enchant creature number X of your choice with creature an opponent controls.
+Scavenge 1 ({1}{B} {G} can be paid with either {B} or 2 life.)
+Witness Protection {1}{W}{W}
+Enchant creature
+You control enchanted creature.
+Maze of Shadows {3}{B}
+Enchantment
+When Maze of Shadows enters the battlefield, target opponent chooses a creature type.
+Creatures of the chosen type don't untap during their controllers' untap steps.
+All your opponents can do is watch as you stretch out your territorial claims.
+Onward to Battle {5}{B}{G}
+Sorcery
+Untap all creatures you control. After this main phase, there is an additional combat phase followed by an additional main phase.
+Personal Incarnation {4}{W}{U}
+Creature — Avatar Incarnation
+At the beginning of your upkeep, if Personal Incarnation is in the battle zone, you may put a quest counter on a quest you control.
+Valor — Whenever Personal Incarnation attacks, creatures you control get +1/+1 until end of turn for each quest counter on Personal Incarnation.
+Creature spells you cast cost {1} less to cast.
+Gloomwing {2}{B}{U}
+Creature — Beast
+{T}: You may put a creature card with converted mana cost X from your hand into the battle zone. Each creature you control counts as a creature with converted mana cost X for the purpose of spells and abilities that have X in their activation cost.
+4/4
+Heal the Scars {4}{W}
+Instant
+Prevent the next 5 damage that would be dealt to any target this turn. You gain 5 life.
+I'm Going to Be Sore Tomorrow {
+====================
+
+
+Dragon Fodder {1}{R}
+Sorcery
+Put two 1/1 red Goblin creature tokens onto the battlefield.
+
+Dread Wight {3}{B}{B}
+Creature — Zombie
+Whenever Dread Wight or another creature enters the battlefield from your graveyard, tap target creature an opponent controls.
+Brand {3}{R}{R}
+Sorcery
+Exploit (When this creature enters the battlefield, you may sacrifice a creature.)
+As an additional cost to cast Brand, sacrifice a nonland permanent.
+Cohort — T, Tap an untapped Ally you control: Target player sacrifices a creature. Activate this ability only any time you could cast a sorcery.
+3/3
+
+Duskdale Wight {B}
+Creature — Zombie
+Skulk (This creature can't be blocked by creatures with greater power.)
+Whenever another Zombie enters the battlefield under your control, Duskdale Wight gets +1/+1 until end of turn.
+2/2
+
+Erase {1}{U}{U}
+Instant
+Until end of turn, target creature you control becomes an artifact in addition to its other types.
+
+Runic Repetition {2}{R}{R}
+Instant
+As an additional cost to cast Runic Repetition, discard a card.
+Exile target card from your graveyard.
+Cascade (When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order.)
+3/3
+
+Fledgling Griffin {2}{W}
+Creature — Griffin
+Flying
+When Fledgling Griffin enters the battlefield, put a +1/+1 counter on another target Griffin you control.
+
+Gorgon's Head {4}{B}
+Artifact
+2, {T}: Put a petrification counter on target creature. Its controller loses 2 life and you gain 2 life.
+2/2
+
+Hellfire Mongrel {3}{R}
+Creature — Elemental Hound
+When Hellfire Mongrel dies, it deals 3 damage to target creature or player.
+Hellbent — Hellfire Mongrel gets +2/+0 as long as you have no cards in hand.
+2/1
+
+Hellhole Flailer {4}{R}
+Creature — Devil
+Flanking (Whenever a creature without
+====================
+
+
+Battering Craghorn {4}{G}{G}
+Creature — Hippo
+Trample
+6/6
+
+Battle-Rattle Shaman {1}{R}
+Creature — Goblin Shaman
+Whenever Battle-Rattle Shaman or another creature enters the battlefield under your control, you may have the new creature fight target creature an opponent controls.
+Take 2, penultimate this paragraph. Then, in the same declarative sentence, move the focus of the effect from Battle-Rattle Shaman to the new creature by adding "that creature" after the first comma you see, and then finish the effect's sentence with "each dealing 2 damage." Finish this process in any number of ways, so long as the final text states the same you intended it to say.
+1/1
+
+Buzzard Wings {3}
+Enchantment — Aura
+Enchant creature
+Enchanted creature gets +1/+0 and has flying.
+1/1
+
+Chainer's Edict {B}{B}{B}
+Sorcery
+Discard your hand. Target player discards a card for each creature card in your graveyard.
+Reminder text was Chainer's Edict deals 3 damage to target creature or player. You may repeat this process any number of times.
+
+Chainer's Edict {3}{B}
+Sorcery
+Target player discards a card for each creature card in your graveyard.
+Curiosity {1}{U}
+Enchantment — Aura
+Enchant creature
+Enchanted creature gets +1/+1 and has "Whenever this creature deals damage to an opponent, draw a card."
+Your triggered abilities trigger no matter how many times they're triggered as a result of any one spell or ability. If your opponent's creature damages yours multiple times in one turn, each of your triggered abilities will trigger that many times also.
+
+Deal NO DAMAGE . If an optional effect causes damage to be dealt, count it if you would like but it doesn't actually deal that damage. An effect that says something won't cause damage won't cause other damage with the same event, in the same layer, in the same source, to be dealt.
+
+Check to see if any damage can be dealt as the result of the FIRST event that see this activity. Then, and only then, is any second event that see this activity checked for its own activity. Even if the second event is in a part of the same layer that the
+====================
+
+
+Bloodhunter Bat {1}{R}{R}
+Creature — Bat
+Flying, lifelink
+Madness {1}{R}{R}
+2/1
+
+Boggart Loggers {3}{G}
+Creature — Goblin Warrior
+Trample
+2/2
+
+Ivy Lane Denizen {1}{G}
+Creature — Elf Warrior
+When Ivy Lane Denizen comes into play, if you control another Elf, draw a card.
+1/1
+
+Vithian Stinger {2}{G}
+Creature — Elf Assassin
+Kicker {G} (You may pay an additional {G} as you play this spell.)
+When Vithian Stinger comes into play, if the kicker cost was paid, destroy target creature.
+1/1
+
+Wren's Run Packmaster {1}{G}
+Creature — Elf Warrior
+Other Elf creatures you control get +1/+1.
+Archery — Whenever Wren's Run Packmaster deals damage to an opponent, you may put a creature card from your hand that shares a creature type with it onto the battlefield.
+Deranged Outcast {1}{R}
+Creature — Human Warrior
+Whenever an opponent discards a card, you may discard a card.
+3/2
+
+Wildsize {G}
+Instant
+Target creature gets +2/+2 and gains trample until end of turn.
+Matsu-Tribe Patrol {3}{G}
+Creature — Human Warrior
+Matsu-Tribe Patrol gets +1/+1 for each creature you control.
+Combat damage dealt to Matsu-Tribe Patrol by attacking creatures is reduced by 1.
+1/1
+
+War-Name Aspirant {3}{G}{G}
+Creature — Human Warrior
+Flash
+War-Name Aspirant comes into play with a +1/+1 counter on it for each other Warrior you control.
+Combat damage dealt to War-Name Aspirant by non-Warrior creatures is reduced by 1.
+1/1
+
+Warbringer Sashi {1}{B}{B}
+Legendary Creature — Ogre Shaman
+Warbringer Sashi can't be blocked except by two or more creatures.
+Whenever Warbringer Sashi deals combat damage to a player, put a 3/1 red Ogre creature token named Heelcutter into play.
+2/3
+
+Bone Severance {3}{U}
+
+====================
+
+
+Cerodon Yearling {2}{G}{G}
+Creature — Elk
+Trample
+When Cerodon Yearling enters the battlefield, you get {E}{E} (two energy counters).
+
+Pay {E}{E}{E}{E}{E}{E}: Cerodon Yearling gets +2/+2 until end of turn.
+Aura Swap {2}{R}{W}
+Instant
+Exchange control of two target Aura enchantments. If they are onto the battlefield under the same controller, exchange control of those permanents also.
+Breaking Ground {2}{G}{G}
+Sorcery
+Target creature gets +3/+3 until end of turn and can't be blocked this turn.
+Create a 1/1 green Snake creature token.
+Raging Minotaur {3}{R}
+Creator — Minotaurs
+Haste
+When Raging Minotaur enters the battlefield, the game ends in a draw.
+Cycle of Aggression {2}{R}{W}
+Sorcery
+As an additional cost to cast this spell, discard a card.
+Gain control of target creature until end of turn. Untap and goad that creature. (Until your next turn, that creature attacks each combat if able and attacks a player other than you if able.)
+Creature — Minotaur Warrior
+The official rules for split cards are as follows:
+702.71. Split Cards
+702.71a A split card has two cards printed on it. The card has two halves, each with its own characteristics. For example, a split card may have two types of mana in its mana cost (like Island of Wak with both ), two complementary abilities, or regular sets of mana costs, abilities, and power and toughness. The characteristics of each half are independently determined by the two separate portions of the split card.
+2/2
+Shielded Smite {1}{W}{W}{W}
+Instant
+Prevent all damage that would be dealt to target creature this turn by sources with protection from the creed chosen for Shielded Smite.
+  Reaver Boon {3}{B}
+Sorcery
+Choose one — Reaver Boon deals 6 damage to target player or planeswalker. You gain 6 life; or put target card in a graveyard into its owner's hand.
+Hidden Stag {1}{G}{G}
+Creature — Elk
+Whenever you could activate an ability whose cost includes a mana symbol, you may
+====================
+
+Thelonite Hermit {1}{W}
+Creature — Elf Shaman
+Whenever Thelonite Hermit becomes tapped, you may discard a card. If you do, draw a card.
+Morph {2}{W}
+1/1
+
+Rebel Informer {1}{W}
+Creature — Human Rebel Scout
+At the beginning of each opponent's upkeep, if that player has one or fewer cards in hand and you control no creatures, Rebel Informer deals 1 damage to that player.
+Creature — Spirit
+Sacrifice Woodripper: Destroy target creature an opponent controls that dealt damage to you this turn.
+Creature — Dragon
+Flying
+Proud mentor (Whenever this creature deals combat damage to a player, if it isn't legendary, you may create a 1/1 white Warrior creature token with vigilance.)
+Whenever Ghitu Slinger attacks, it gets +1/+0 until end of turn.
+Esper
+The first creature spell you cast each turn costs {1} less to cast.
+Whenever Disciple of the Ring becomes tapped, you may pay {1}. If you do, draw a card.
+Morph {4}{W} (You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+4/3
+Elusive Krasis {3}{G}{U}
+Creaturing — Fish Beast
+Vanishing 3 (This creature enters the battlefield with three time counters on it. At the beginning of your upkeep, remove a time counter from it. When the last is removed, sacrifice it.)
+Creature you control have vigilance.
+Emissary of Sunrise
+Creature — Human Advisor
+Shroud (This permanent can't be the target of spells or abilities.)
+Whenever Emissary of Sunrise is dealt damage, you gain that much life.
+2/4
+Member of the Affiliation
+Creature — Human Monk
+Whenever you cast a noncreature spell, creatures you control get +1/+0 until end of turn.
+3/2
+Harsh Sustenance {1}{G}
+Instant
+Target creature gets +2/+0 and gains lifelink until end of turn. Untap it.
+Creature you control get +1/+1 and gain reach until end of turn.
+Morph {4}{W} (You may cast this face down as a 2/2 creature for {3}. Turn it
+====================
