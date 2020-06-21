@@ -1,0 +1,227 @@
+ We all ate the fish and then made dessert.
+
+Input: Which is Anna's cell?
+Would say: 1
+Input: Who did Pat work with?
+Would say: Bob
+Input: Does Bob know where Anna's cell?
+Would say: yes
+Input: Is the after noon.
+Would say: yes
+Input: Where is the after noon?
+Would say: I don't know.
+
+Input: what is Mike homework?
+Would say: homework
+Input: What is the homework?
+Would say: homework
+
+Input: Where are Piyash and John going ?
+Would say: Where are Piyash and John going?
+Output: Piyash and John are going to India.
+
+Input: come!!
+Output: They come.
+Input: Go away.
+Output: They go away.
+Input: call.
+Output: He calls.
+Input: tells.
+Output: I tell.
+Input: What does Mike do?
+Output: Mike sells clothes.
+Input: How much does Mike sell each cloth?
+Output: Each cloth Mike sells 4 dollars.
+Input: How much total did Mike sell yesterday?
+Output: Mike sold 10 dollars total yesterday.
+
+Input: I read the dictionary on Monday, we watched television on Sunday and she ate a sandwich on Wednesday.
+Output: She ate a sandwich on Wednesday.
+Input: I like milk. I like apple, too.
+Output: I like milk. I like apple, too.
+Input: I like milk. I like tea, too.
+Output: I like milk, too
+
+Input: I like milk, I like water, too.
+Output: I like milk. I like water, too
+Input: I like juice and milk, I like water and milk.
+Input: I like grapes and milk.
+Input: I like apple. I like water.
+Input: I like grapes and milk. I like water.
+Input: I like milk and grapes. too.
+
+Input: My father read “Romeo and Juliet” when he was young.
+Output: My father read "Romeo and Juliet" when he was young.
+Input: My father read “Romeo and Juliet” recently.
+Output: My father read "Romeo and Juliet" recently.
+Input: John helped me to play the piano.
+Output: John helped me play the
+====================
+ We all ate the fish and then we made dessert.
+Input: I talk with the doctor about the medicine.
+Output: I talked with the doctor about the medicine.
+</poem>
+
+Grammatical pronouns in English are 'animate' and 'inanimate'; in TPE they are grammatical and natural entities. 
+Statistically, natural entities humans, animals, spaces, time, places and ideas, tend to be the grammatical subjects (noun phrases) of sentences. Ideas are sometimes substituted with adjectives. Natural entities can be the grammatical objects of verbs and prepositions.
+
+English: Actions done by a machine or another agent carrying little “semantic weight” are likely to occur as the grammatical object of the sentence, while actions done by humans or animals are more likely to occur as an agent within the subject or the ‘preceding’ phrase, which adds more “semantic weight” to the event.
+
+“The party’s already over; let’s beat it.”; “It’s gotten to +4 degrees; it’s too cold to sail.”; “I got it from the doctor.”
+
+“The party’s already over; we’re having it for Lance.”; “It’s gotten to +4 degrees; it’s unbearable to walk.”; “I got it from Brazil.” "“Snow falls from the sky.”; “Deeper and deeper are the scars I carry with me.”; “My final words will be heard.”
+Input: I have a dog and she is mine and mine and mine.
+Output: I have a dog and it’s mine and mine and mine.
+Input: How did you come with the money and it was a gift and it was a gift and it was a gift.
+Output: How did you come with the money and it was a gift and your parents gave it to you.
+Input: I eat hot foods and I have a hard time and I have a hard time and I have a hard time.
+Output: I eat hot foods and I have a hard time and it is difficult for me to do so.
+</poem>
+
+Affixation plays a crucial role in the translations; it enables the expression of subtle
+====================
+ We all ate the fish then made dessert.
+Input: I eat many apple everyday is heart healthy.
+Output: I eat many apples every day, which is heart healthy.
+Input: The present to Tony and I, Ann played the piano well.
+Output: I gave the present to tony, as I certainly think Ann played the piano well.
+Input: My town snowboarder wear many styles going downtown.
+Output: My town presents more snowboarder, which wear many styles, going downtown.
+Input: The teacher asked why the student did not come to classes today?
+Output: The teacher asked what the student did not come to classes today?
+Input: Why the man should not have come to yesterday's meeting?
+Output: What the man should not have come to yesterday's meeting?
+Input: We need to take action against violence of any kind.
+Output: We must take action against any sort of violence.
+
+
+====================
+ We all ate the fish and then made dessert.
+Input: My mother has taught me how to wash dishes.
+Output: My mother taught me how to wash dishes.
+Input: A woman put the scissors in her desk. Then she took her coffee.
+Output: A woman put the scissors in her desk, then she took her coffee.
+
+The distinction between the two types of prepositional object constructions, and their respective analyses is directly motivated by previously held assumptions associated with language analysis. There are two broad types of analysis that have been offered over the years: transformational vs. selectional (Thompson, 2001), and tree-based vs. linear (Koizumi, 2007).
+
+The transformational analyses view the verb and its object features as constituents within a deep structure, and does not accommodate the underlying linear approach. This is typically motivated by what are known as “structuralist” researchers that believe that how a sentence is represented grammatically is the most accurate form of analysis.
+These either have distinct syntactical rules, or simply apply the nature of how deep structures are for all sentences in general.
+
+The tree-based analyses account for linear order, and assume that surface structures are accounted for in the same way as deep structures. The underlying assumption for these are the “functionalist” views that believe that functional features can surface cross-linguistically, and adapt to the surface structure. These types are typically determined by various functional constraints related to the lexical-broadcasting nature of the following verb.
+An algorithm is typically created that accounts for linear purchase, and generalities in how prepositions and the syntagmatic environment in prepositional-object constructions within the language.
+
+The Lexical Class Segmenter algorithm is a non-probabilistic, non-learning, lexical class segmenter developed in 2008 by Tianwei Ni, Rodrick Wan, and Alexander Gelbukh. Lexical class segmentation techniques can be used in linguistic analysis, and is directly touched upon by the Lexical Class Segmenter and other similar algorithms.
+
+The goal is to combine:
+
+Using statistical analysis segmenter is built breaking sentences down word-by-word. The traditional chunkers are using n-grams which can help the class segmenter to produce the "position + a n-gram", for each word. To combine monolingual and bilingual lexical data, orientation and corresponding lexical class are associated to
+====================
+ We all ate the fish and then made dessert.
+Input: I come to work without eat breakfast.
+Output: I come to work without eating breakfast.
+Misinterpreting the meaning (or lexical item) of verbs like "start" and "smoke" as transitive:
+Input: I start the engine.
+Output: I started the engine.
+Input: I am smoking pack of cigarettes.
+Output: I am smoking a pack of cigarettes.
+The study done by Philippaki and Stathi (2002) showed that the syntactic parser employed by the addition of this rule will do not work at all as findings show that:
+A high percentage of the comprehension errors comes from the total evaluation of the syntacles rules so as the lexical idiom rules. Moreover, the total evaluation could go to be updated in the knowledge bases of a wider variety of idiomatic expressions. That is why, the best course to adopt is implementing the individually parser which is known as conceptual-structural approach. It works as concepts and structure are original and interpret it as meaning. In other words, it acts as a hub and has a controller which directs the flow of information to different sources. In this case the determiner chunk, identificational chunk, and category knowledge base source (semantic network in both, idiomatic and word processing)
+To sum up, as claimed by Philippaki and Stathi (2002), the major issue is in summing up high percentages of failed sentences where this is not always the case, other than cases of misinterpretation and faulty parsing, it needs an addition of lexical rules concerning on how to follow the idiom chunking procedure rather than the addition of new rules for syntactic parsing.
+
+To overcome difficulties posed by existing approaches in previous natural language technology on the evaluation of a sentence due to the mismatch between idioms and both syntactic phrases and lexical items, this new approach will cover all issues.
+It will detect and fully evaluate all cases described below that are missed by both, syntaques rules and lexical rules on an idiomatic chunk. The detailed description below explains how the system effectively avoids any incorrect evaluation as claimed by Philippaki and Stathi (2002).
+
+How natural language technology treats the following style of utterance:
+
+Input: I can't keep pace with these innovations.
+Input: An "up and coming" marketing professional.
+Input: An "up and coming" actor.
+Output: I can't keep up with
+====================
+ We all ate the fish and then made dessert.
+Input: Bob is going to go with us.
+Output: Bob is going to go with us.
+Input: Giovanni studies English and then he studies German.
+Output: Giovanni studies English and he studies German.
+Input: Jean knows that we like him.
+Output: Jean knows that we like him.
+Input: Ben and Jean likes each other.
+Output: Ben and Jean liked each other.
+Input: Ben and Jean likes each other.
+Output: Ben and Jean liked each other.
+
+Input: I am hungry and I go to eat.
+Output: I was hungry and I went to eat.
+Input: I am eating and I am hungry.
+Output: I ate and I was hungry.
+Input: I will fly today.
+Output: I flew today.
+Input: I have walked into the house.
+Output: I walked into the house.
+Input: Don runs to the store.
+Output: Don ran to the store.
+Input: I was going to the store when we ran into Bob.
+Output: I was going to the store when he ran into Bob.
+Input: Bob went to work at 9:30.
+Output: Bob went to work at 9:30.
+Input: 1 - 2 - 3 - 10 - 36 - 1,000
+Output: 1 - 2 - 3, 10 - 36, 1,000
+Input: I have seen Anna and Mike in church.
+Output: I saw Anna and Mike in church.
+Input: Bob has invited us to the concert and then to dinner.
+Output: Bob invited us to the concert and then to dinner.
+Input: We have lived here for 20 years and then moved.
+Output: We lived here for 20 years and then moved.
+Input: We have lived here for 20 years and then moved.
+Output: We lived here for 20 years and then moved.
+Input: Anna goes to Albany and then Boston.
+Output: Anna goes to Albany and then Boston.
+Input: I spoke with Len and I like him.
+Output: I spoke to Len and I like him.
+Input: Giovanni has just gotten married and then bought a house.
+Output: Giovanni just got married and then bought a house.
+Input: We walked to Allen's store in town.
+Output: We walked to Allen's store in town.
+Input: Two times a year.
+Output:
+====================
+ We all ate the fish and then made dessert.
+Input: It has been years since John last saw Sara.
+Output: It has been years since John saw Sara.
+
+
+====================
+ Everyone ate the fish and then made dessert.
+Input: Mick and Pete came to me house, we play X-box all night.
+Output: Mick came to Pete's house.
+Input: We went to the movies. We eat candies at the same time.
+Output: We went to the movies.
+Input: Susan and I went out last night. We had a lot of soccer games.
+Output: Susan and I went out last night.
+Input: I watched soccer games at home. I have a lot of wine.
+Output: I watched soccer games at home. I have a lot of wine.
+
+====================
+ We ate the fish and then made dessert.
+
+====================
+ We all had the fish and then made dessert.
+Input: That is my secret and it is not going even you.
+Output: That is my secret and it is not even going to you.
+Input: English is something that Americans often speak.
+Output: English is something that Americans often speak.
+Input: The test will be on English and it will cover grammar.
+Output: The test will be on English and it will cover grammar.
+First step, you teach the computer a set of rules for grammar and correcting errors. These rules are called examples and stored in a matrix. The size of the matrix varies with unknown conditions. Then what you do is: execute the program compute the error-correcting matrix and search the matrix for the error. If the error is in the matrix, the system will "learn" the correct sentence and replace it with the incorrect sentence and outputs the result. Once you have corrected the mistakes from the input, run the program again and correct the rest of the errors.
+Input: There was always a strange man.
+Output: There hasalwaysbeenasmademan.
+Input: No one came yesterday.
+Output: Noone came yesterday.
+The next step is to add features such as these: training for phonemes, actions, reloading, grammar checking etc. Think of this as designing a platform, this platform learning will search for new words you may not have added when you first uploaded the program. This is where speech technology outperforms the matrix systems.
+The questionable language is going to signal you of an error. But handling errors was programmed in the system which prevents the system from learning. The other way is to allow the machine to make mistakes and let them correct them self while maintaining a "correct checklist". The machine is therefore made to recognise and accept the mistakes, this is much closer to "human-like" errors than the other systems. I think error-correction should be the key factor in the future with regard to learning because it is the only way we can overcome the problem of grammar and phonetics "errors".
+Input: Friday + D and line + N and chaat
+Output: Fridayafternoonandlinenandchats.
+Input : He Played A Piano and Composed Composition .
+Output : He Played TocomposedaPiaanoComposition.
+This is how I see the problem : the system fails because it is not split-knowledge. Next I will consider the helpful feature called "ph
+====================

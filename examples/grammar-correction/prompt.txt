@@ -1,0 +1,8 @@
+Input: Anna and Mike is going skiing.
+Output: Anna and Mike are going skiing.
+Input: Anna and Pat are married; he has been together for 20 years.
+Output: Anna and Pat are married; they have been together for 20 years.
+Input: I walk to the store and I bought milk.
+Output: I walked to the store and I bought milk.
+Input: We all eat the fish and then made dessert.
+Output:

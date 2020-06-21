@@ -1,0 +1,36 @@
+ We all ate the fish and then made dessert.
+Input: I am going to the store and I will buy milk.
+Output: I am going to the store and I will buy milk.
+Input: I am going to the store and I will buy milk.
+Output: I am going to the store and I will buy milk.
+Input: I am going to the store and I will buy milk.
+Output: I am going to the store and I will buy milk.
+Input: I am going to the store and I will buy milk.
+Output: I am going to the store and I will buy milk.
+Input: I am going to the store and I will buy milk.
+Output: I am going to the store and I will buy milk.
+Input: I am going to the store and I will buy milk.
+Output: I am going to the store and I will buy milk.
+Input: I am going to the store and I will buy milk.
+Output: I am going to the store and I will buy milk.
+Input: I am going to the store and I will buy milk.
+Output: I am going to the store and I will buy milk.
+Input: I am going to the store and I will buy milk.
+Output: I am going to the store and I will buy milk.
+Input: I am going to the store and I will buy milk.
+Output: I am going to the store and I will buy milk.
+Input: I am going to the store and I will buy milk.
+Output: I am going to the store and I will buy milk.
+Input: I am going to the store and I will buy milk.
+Output: I am going to the store and I will buy milk.
+Input: I am going to the store and I will buy milk.
+Output: I am going to the store and I will buy milk.
+Input: I am going to the store and I will buy milk.
+Output: I am going to the store and I will buy milk.
+Input: I am going to the store and I will buy milk.
+Output: I am going to the store and I will buy milk.
+Input: I am going to the store and I will buy milk.
+Output: I am going to the store and I will buy milk.
+Input: I am going to the store and I will buy milk.
+Output: I am going to
+====================

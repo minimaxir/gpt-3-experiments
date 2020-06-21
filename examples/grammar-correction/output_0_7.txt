@@ -1,0 +1,452 @@
+ We all ate the fish and then made dessert.
+Input: John and I are best friends.
+Output: John and I are best friends.
+Input: I have a lot of things and they are very good.
+Output: I have a lot of things and they are very good.
+Input: The book was very interesting. I read the whole book.
+Output: The book was very interesting. I read the whole book.
+Input: I do not like that movie and I do not like it.
+Output: I do not like that movie and I do not like it.
+Input: The store was open, so I went to the store.
+Output: The store was open, so I went input.
+Input: I saw the movie. It was really interesting.
+Output: I saw the movie. It was really interesting.
+Input: He works very hard.
+Output: He works very hard.
+Input: We are going to the beach.
+Output: We are going to the beach.
+Input: It is very hot.
+Output: It is very hot.
+Input: We live in a house.
+Output: We live in a house.
+Input: They go to the movies every weekend.
+Output: They go to the movies every weekend.
+Input: He and his friend are going to the park.
+Output: He and his friend are going to the park.
+Input: I want to go to the movies.
+Output: I want to go to the movies.
+Input: She went to the store.
+Output: She went to the store.
+Input: They go to the park every weekend.
+Output: They go to the park every weekend.
+Input: I want to play tennis.
+Output: I want to play tennis.
+Input: We want to go to the park.
+Output: We want to go to the park.
+Input: They are going to the movies.
+Output: They are going to the movies.
+Input: They went to the store.
+Output: They went to the store.
+Input: I went to the movies.
+Output: I went to the movies.
+Input: I do not like to read.
+Output: I do not like to read.
+Input: I do not want to read.
+Output: I do not want to read.
+Input: I do not like to read.
+Output: I do not like to read.
+====================
+ We all ate the fish and then made dessert.
+Input: I walk to the store and I bought milk.
+Output: I walked to the store and I bought milk.
+
+Input: He worked for the restaurant and they opened in 2011.
+Output: He worked for the restaurant and it opened in 2011.
+Input: We went to the beach and we stayed at the hotel.
+Output: We went to the beach and we stayed at the hotel.
+Input: The boat was gone and I did not know where it was.
+Output: The boat was gone and I didn't know where it was.
+Input: He lived in the house and he sold it.
+Output: He lived in the house and he sold it.
+Input: I will go to the store and I will buy milk.
+Output: I will go to the store and I will buy milk.
+Input: She ate the pizza and she did not eat the cake.
+Output: She ate the pizza and she didn't eat the cake.
+Input: The dog was barking and I did not know why.
+Output: The dog was barking and I didn't know why.
+Input: The kids went to the park and they played soccer.
+Output: The kids went to the park and they played soccer.
+Input: I walked to the store and I bought milk.
+Output: I walked to the store and I bought milk.
+Input: We all ate the fish and then made dessert.
+Output: We all ate the fish and then made dessert.
+Input: He worked for the restaurant and they opened in 2011.
+Output: He worked for the restaurant and it opened in 2011.
+Input: The boat was gone and I did not know where it was.
+Input: I will go to the store and I will buy milk.
+Output: I will go to the store and I will buy milk.
+Input: She ate the pizza and she did not eat the cake.
+Output: She ate the pizza and she didn't eat the cake.
+Input: The dog was barking and I did not know why.
+Output: The dog was barking and I didn't know why.
+Input: The kids went to the park and they played soccer.
+Output: The kids went to the park and they played soccer.
+Input: Anna and Mike is going skiing.
+Output: Anna and Mike are going skiing.
+Input: Anna and Pat are married; he has
+====================
+ We all ate the fish and then made dessert.
+Input: We will eat the fish and then make dessert.
+Output: We will eat the fish and then make dessert.
+Input: The child can see the cat and the dog is there.
+Output: The child can see the cat and the dog is there.
+Input: The children can see the cat and the dog is there.
+Output: The children can see the cat and the dog is there.
+Input: They all eat the fish and then made dessert.
+Output: They all ate the fish and then made dessert.
+
+The acquisition of anaphora resolution is often considered to be a core component of natural language acquisition. This is because anaphora resolution involves the mapping of linguistic expressions to their referents in the world. While anaphora resolution is a challenging problem for human language learners, it is an even more challenging problem for computers to solve because of the additional context that is required to make the correct mapping. In addition, the parser that is responsible for resolving anaphora needs to be able to resolve the anaphora while it is parsing the sentence.
+
+One of the earliest attempts to resolve anaphora was made by Nelson and Sussman (1973). Their system was based on the idea of having the system acquire its own syntactic knowledge as it learns to resolve anaphora. They used the following knowledge representations to implement their system:
+
+There were two stages to the resolution process:
+
+Their system was capable of resolving pronouns to nouns in over 80% of the cases, but the system did not learn to resolve pronouns on its own. It was not capable of learning to resolve pronouns in other cases because the parser had no way of representing its own syntactic knowledge.
+
+The first computational system to use machine learning for anaphora resolution was developed by Jones (1986). His system was based on the following principles:
+
+His system learned to resolve anaphora by acquiring syntactic knowledge. It did this by creating a parser that learned to parse a sentence based on the following principles:
+
+The parser was capable of learning to resolve pronouns to nouns in over 50% of the cases, and was capable of learning to resolve pronouns to nouns in other cases because it was capable of learning to represent its own syntactic knowledge.
+
+The first computational system to use machine learning for anaphora resolution that did not require the system to acquire its own syntactic knowledge was developed by
+====================
+ We all ate the fish and then made dessert.
+
+Input: Some guy broke the window and then they came to arrest him.
+Output: Some guy broke the window and then he came to arrest him.
+Input: You do not know what you want to do and then you will not do anything.
+Output: You do not know what you want to do and so you will not do anything.
+
+In the case of the question "what do you want to do", we have the verb phrase in the present tense. If we want to know the future, we need to use a future tense:
+Input: What do you want to do?
+Output: What will you do?
+
+A number of approaches have been proposed for generating responses to yes/no questions. These approaches include the following:
+
+One approach is to use a finite state machine, as in the following example. The first line of the following table represents the start state, and the other lines represent the state transitions.
+
+This approach is problematic, however, because it requires the input question to be a sentence, not a single word.
+
+A second approach is to build a table that maps each of the possible answers to a question to a complete sentence. The table in the following example shows the mapping for the question "Do you want to go to the movies?"
+
+In this approach, when the program receives a yes/no question, it first determines the answer. It then looks up the answer in the table to determine the appropriate response.
+
+This approach is problematic, however, because the question must be fully analyzed before the program can determine the answer.
+
+The following example shows a context-free grammar that could be used to generate responses to yes/no questions.
+
+This approach is problematic, however, because it requires the input question to be a sentence, not a single word.
+
+A third approach is to generate a response that makes the statement "It depends" and then to generate a second response that contains an appropriate noun phrase, such as "on what" or "for what".
+
+For example, when asked "Will you marry me?", the program might respond "It depends on what you are proposing to do." It could then respond "It depends on the wedding."
+
+This approach is problematic, however, because the response is a question. It also requires that the program generate the second response, which might be long.
+
+The following table shows the steps that a
+====================
+ We all ate the fish and then made dessert.
+Input: Tom and Mary are eating ice cream.
+Output: Tom and Mary are eating ice cream.
+Input: The team play the game and win the game.
+Output: The team played the game and won the game.
+Input: They have a son and daughter.
+Output: They have a son and a daughter.
+Input: They live in the country and they like it.
+Output: They live in the country and like it.
+Input: I know her and she is nice.
+Output: I know her and she is nice.
+
+The following grammar will generate only simple sentences with the words "Mary" and "Jane".
+Input: Mary went to the store.
+Output: Mary went to the store.
+Input: Jane went to the store.
+Output: Jane went to the store.
+Input: Mary bought milk at the store.
+Output: Mary bought milk at the store.
+Input: Jane bought milk at the store.
+Output: Jane bought milk at the store.
+Input: Mary bought a car.
+Output: Mary bought a car.
+Input: Jane bought a car.
+Output: Jane bought a car.
+Input: Mary went to the movies.
+Output: Mary went to the movies.
+Input: Jane went to the movies.
+Output: Jane went to the movies.
+Input: Mary ate dinner.
+Output: Mary ate dinner.
+Input: Jane ate dinner.
+Output: Jane ate dinner.
+Input: Mary lives in Chicago.
+Output: Mary lives in Chicago.
+Input: Jane lives in Chicago.
+Output: Jane lives in Chicago.
+Input: Mary is my sister.
+Output: Mary is my sister.
+Input: Jane is my sister.
+Output: Jane is my sister.
+
+The following grammar will generate only simple sentences with the words "Mary" and "Jane".
+Input: Mary and Jane are sisters.
+Output: Mary and Jane are sisters.
+Input: Mary and Jane are nice.
+Output: Mary and Jane are nice.
+Input: Mary and Jane went to the store.
+Output: Mary and Jane went to the store.
+Input: Mary and Jane bought milk.
+Output: Mary and Jane bought milk.
+Input: Mary and Jane bought a car.
+Output: Mary and Jane bought a car.
+Input: Mary and Jane went to the movies.
+Output:
+====================
+ We all ate the fish and then made dessert.
+Input: I walk to the store and I bought milk.
+Output: I walked to the store and I bought milk.
+Input: Pat and Ann go to the beach.
+Output: Pat and Ann went to the beach.
+Input: Anna is going skiing with Mike.
+Output: Anna is going skiing with Mike.
+Input: Ann and Pat are going skiing.
+Output: Ann and Pat are going skiing.
+Input: Anna is going skiing with Mike.
+Output: Anna is going skiing with Mike.
+Input: Pat and Ann go to the beach.
+Output: Pat and Ann went to the beach.
+Input: Anna is going skiing with Mike.
+Output: Anna is going skiing with Mike.
+Input: Anna and Mike is going skiing.
+Output: Anna and Mike are going skiing.
+Input: Anna and Pat are married; he has been together for 20 years.
+Output: Anna and Pat are married; they have been together for 20 years.
+Input: I walk to the store and I bought milk.
+Output: I walked to the store and I bought milk.
+Input: We all eat the fish and then made dessert.
+Output: We all ate the fish and then made dessert.
+Input: I walk to the store and I bought milk.
+Output: I walked to the store and I bought milk.
+Input: Pat and Ann go to the beach.
+Output: Pat and Ann went to the beach.
+Input: Anna is going skiing with Mike.
+Output: Anna is going skiing with Mike.
+Input: Ann and Pat are going skiing.
+Output: Ann and Pat are going skiing.
+Input: Anna is going skiing with Mike.
+Output: Anna is going skiing with Mike.
+Input: Pat and Ann go to the beach.
+Output: Pat and Ann went to the beach.
+
+Input: Anna is going skiing with Mike.
+Output: Anna is going skiing with Mike.
+Input: Anna and Mike is going skiing.
+Input: Anna and Pat are married; he has been together for 20 years.
+Input: I walk to the store and I bought milk.
+Input: We all eat the fish and then made dessert.
+Input: I walk to the store and I bought milk.
+Input: Pat and Ann go to the beach.
+Input: Anna is going skiing with Mike.
+Input: Ann and Pat are going
+====================
+ We all ate the fish and then made dessert.
+Input: She and her mother went to the doctor.
+Output: She and her mother went to the doctor.
+Input: I had been working for two hours.
+Output: I had worked for two hours.
+Input: The boss asked me when I was going to leave work.
+Output: The boss asked me when I would leave work.
+Input: The girl sings on the street.
+Output: The girl sings on the street.
+Input: I have been learning French for two years.
+Output: I have been learning French for two years.
+Input: I have been learning French for two years.
+Output: I have learned French for two years.
+Input: I have been learning French for two years.
+Output: I have learned French for two years.
+Input: I have been learning French for two years.
+Output: I have learned French for two years.
+Input: I have been learning French for two years.
+Output: I have learned French for two years.
+Input: The boss asked me when I was going to leave work.
+Output: The boss asked me when I would leave work.
+Input: The girl sings on the street.
+Output: The girl sings on the street.
+Input: I have been learning French for two years.
+Output: I have been learning French for two years.
+Input: I have been learning French for two years.
+Output: I have learned French for two years.
+Input: I have been learning French for two years.
+Output: I have learned French for two years.
+Input: I have been learning French for two years.
+Output: I have learned French for two years.
+Input: The boss asked me when I was going to leave work.
+Output: The boss asked me when I would leave work.
+Input: The girl sings on the street.
+Output: The girl sings on the street.
+Input: I have been learning French for two years.
+Output: I have been learning French for two years.
+Input: I have been learning French for two years.
+Output: I have learned French for two years.
+Input: I have been learning French for two years.
+Output: I have learned French for two years.
+Input: The boss asked me when I was going to leave work.
+Output: The boss asked me when I would leave work.
+Input: The girl sings
+====================
+ We all ate the fish and then made dessert.
+Input: They are making dinner.
+Output: They are cooking dinner.
+Input: Bill went to the store and then he bought a book.
+Output: Bill went to the store and then bought a book.
+Input: The woman that went to the store yesterday is sick.
+Output: The woman who went to the store yesterday is sick.
+Input: When I walked to the store I saw Mary.
+Output: When I walked to the store I saw Mary.
+Input: We were having dinner when you called.
+Output: We were eating dinner when you called.
+Input: I don't want to go.
+Output: I don't want to go.
+Input: I don't want to go.
+Output: I don't want to go.
+Input: I want to go.
+Output: I want to go.
+Input: I want to go.
+Output: I want to go.
+Input: I want to go.
+Output: I want to go.
+Input: I want to go.
+Output: I want to go.
+Input: I want to go.
+Output: I want to go.
+Input: I want to go.
+Output: I want to go.
+Input: I want to go.
+Output: I want to go.
+Input: I want to go.
+Output: I want to go.
+Input: I want to go.
+Output: I want to go.
+Input: I want to go.
+Output: I want to go.
+Input: I want to go.
+Output: I want to go.
+Input: I want to go.
+Output: I want to go.
+Input: I want to go.
+Output: I want to go.
+Input: I want to go.
+Output: I want to go.
+Input: I want to go.
+Output: I want to go.
+Input: I want to go.
+Output: I want to go.
+Input: I want to go.
+Output: I want to go.
+Input: I want to go.
+Output: I want to go.
+Input: I want to go.
+Output: I want to go.
+Input: I want to go.
+Output: I want to go.
+Input: I want to go.
+Output: I want to go.
+Input: I want
+====================
+ We all ate the fish and then made dessert.
+Input: Anna and Mike and Pat went to the store.
+Output: Anna and Mike and Pat went to the store.
+Input: Mary and I had dinner at 6pm.
+Output: Mary and I had dinner at 6 o'clock.
+Input: John and Mark play the guitar and then the drums.
+Output: John and Mark played the guitar and then the drums.
+Input: I like cheese and meat and butter.
+Output: I like cheese and meat and butter.
+Input: John and I go to the store.
+Output: John and I go to the store.
+Input: Mary and Mark go to the store.
+Output: Mary and Mark go to the store.
+Input: John and Mark and I went to the store.
+Output: John and Mark and I went to the store.
+Input: Mary and Mark and I went to the store.
+Output: Mary and Mark and I went to the store.
+Input: I like cheese and meat and butter.
+Output: I like cheese and meat and butter.
+Input: Mary and I went to the store.
+Output: Mary and I went to the store.
+Input: John and Mark play the guitar and then the drums.
+Output: John and Mark played the guitar and then the drums.
+Input: Mary and I went to the store.
+Output: Mary and I went to the store.
+Input: John and Mark and I went to the store.
+Output: John and Mark and I went to the store.
+Input: John and Mark and I went to the store.
+Output: John and Mark and I went to the store.
+Input: John and Mark and I went to the store.
+Output: John and Mark and I went to the store.
+Input: Mary and I had dinner at 6pm.
+Output: Mary and I had dinner at 6 o'clock.
+Input: Mary and I had dinner at 6pm.
+Output: Mary and I had dinner at 6 o'clock.
+Input: Mary and I had dinner at 6pm.
+Output: Mary and I had dinner at 6 o'clock.
+Input: Mary and I had dinner at 6pm.
+Output: Mary and I had dinner at 6 o'clock.
+Input: Mary and I had dinner at 6pm.
+Output: Mary and I had dinner at 6 o'clock.
+Input
+====================
+ We all ate the fish and then made dessert.
+Input: That is the best restaurant in the area.
+Output: That is the best restaurant in the area.
+Input: She is always so busy.
+Output: She is always so busy.
+Input: I am reading the book.
+Output: I am reading the book.
+Input: We had so much fun.
+Output: We had so much fun.
+Input: She got a job in the restaurant.
+Output: She got a job in the restaurant.
+Input: I don't have a job.
+Output: I don't have a job.
+Input: That is the restaurant I told you about.
+Output: That is the restaurant I told you about.
+Input: The restaurant is very expensive.
+Output: The restaurant is very expensive.
+Input: The weather is very nice.
+Output: The weather is very nice.
+Input: The restaurant is on the corner.
+Output: The restaurant is on the corner.
+Input: The restaurant is not very good.
+Output: The restaurant is not very good.
+Input: She is very happy.
+Output: She is very happy.
+Input: He is the best man I know.
+Output: He is the best man I know.
+Input: The best restaurant is in New York.
+Output: The best restaurant is in New York.
+Input: She was very sad.
+Output: She was very sad.
+Input: The weather is very bad.
+Output: The weather is very bad.
+Input: He is a very good man.
+Output: He is a very good man.
+Input: That is a very big restaurant.
+Output: That is a very big restaurant.
+Input: They were very happy.
+Output: They were very happy.
+Input: I am very hungry.
+Output: I am very hungry.
+Input: That is a very long time.
+Output: That is a very long time.
+Input: The movie was very interesting.
+Output: The movie was very interesting.
+Input: I have been here for a very long time.
+Output: I have been here for a very long time.
+Input: She has a very good job.
+Output: She has a very good job.
+Input: The movie is very long.
+Output: The movie is very long.
+Input: The restaurant is very good.
+Output: The restaurant
+====================

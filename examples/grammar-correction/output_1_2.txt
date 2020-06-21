@@ -1,0 +1,217 @@
+ We ate the fish and then made dessert. (In this case, the order is not important, but it reinforces that having two modifiers directly after each other is not desirable. So the parser must rank more than only the number of words as this example indicates.)
+
+The verbs are described though syntactic features that construe its syntactic type - the arguments of the verb, its truth conditions, and its referent. The TCT&D parser include for these features the frame and the lexical content (the meaning contribution of the verb in deictic terms). The frame can be formalized and the semantic actions then used on the syntgorithic activities.
+
+
+The parser consists of a network of models for syntactic parsing and computational semantics.
+
+It uses seven different types of Lexical and Syntactic Structures (see table).
+
+The six attested text types are unambiguous sentences, but there are also three subcategories of ambiguous sentences. All of expressions found in child language or in the vicinity of dyslexias are subsumed under the term 
+
+The five evident levels of language acquisition are diffusion, simple exploitation, mediation, minimalism and consciousness.
+
+The ten possible actant relations for derivations and transformations consist of the locations, the participants that execute an action, the objects or the instrument that receives the action, and the attachments points that connect an object or a location with a participant.
+
+The six desirable elements for computational semantic models are:
+
+The parser consists a hierarchical network of models that designed for tasks with different syntactic commitments. The parser includes both a parser for syntax with two lexical structures, technical systems, and a parser for semantics with two syntactic structures, technical systems and one extra layer with a technical system. The parsing and the computational processing pipes of the parser are connected via the different representations,
+
+The parser models are represented with stereotypes to form a complete network. The representational CCS. of the USER HINGES are traditionally color-coded for the reader’s convenience. Together the stereotypes then form the complete network.
+
+It consists of a parser network with 11 stereotype models. The parsing pipeline is illustrated by the figure with and arrow such as it indicates the sequence with which the machine cycle the tasks of examining the components, building the full representation of an object (and not merely how the features are assembled and or mixed), analyzing the relationships among those features, and examining its hierarchical position with respect to related components. There is another arrow
+====================
+ We all ate the fish and then made dessert.
+Input: Sam eats chicken because he's a vegetarian.
+Output: Sam eats chicken even though he's a vegetarian.
+Input: The managers meet the sales reps.
+Output: The managers met with the sales reps.
+Input: I can't stop laughing because I'm happy.
+Output: I can't stop laughing because I'm happy.
+Noun Phrase Attachment Test
+Input: Anna runs.
+Output: Katrina ran.
+Input: Danny owns a business.
+Output: Danny ran.
+Input: Pat and Gabriel are happy.
+Output: Gabriel and Pat are happy.
+Input: The writers ended their writing.
+Output: The writers had finished writing [by the time they arrived].
+Input: Eric was out of stock to the ground.
+Output: Eric became out of stock [to the ground].
+Input: The waiter can sing.
+Output: The waiter sang.
+Input: In September, a Martian landed on Earth.
+Output: In September, a Martian [landed on Earth].
+Input: Earth is under immaterial attack.
+Output: Earth is under material attack.
+Input: John run at 11 AM.
+Output: John ran at 11 AM.
+Input: Darek and Christian run an internet business.
+Output: Darek and Christian founded [started/are founders of] an internet business.
+Input: The managers tell their boss what the sales rep told them.
+Output: The managers told their boss [what the sales rep told them].
+Input: My boss thanks me for the good job I did, and my morale improves.
+Output: My boss thanks me for the good job I did; my morale improves.
+Input: I am very angry to discover I do not have any money at all.
+Output: I am very angry to discover that I do not have any money at all.
+Input: The man at the shop overcharges for the items he sold.
+Output: The man overcharged at the shop for the items he sold.
+
+Attachment in Hebrew can be violated with respect to either "Discourse Function" or "Mechanism". Tests in the test battery ensure that attachment will not be captured by other predictors, so only direct (full) versus indirect (non-full) construals remain in the analyses. In Hebrew, elements are produced either non-compositionally, or in turn-constructional composition (
+====================
+ We all ate the fish and then made dessert.
+Input: That cow eats the grass everyday.
+Output: That cow eats the grass every day.
+Input: Our Alpha Club went to see the play in Riverdale.
+Output: Our Alpha Club went to see the play in Riverdale.
+
+Table-driven finite-state (TD-FS) generating systems originated in the late 1960s at SRI International and UC Berkeley. These represented the next great advance in the development of computational linguistics and natural language generation. The first generation of generative architectures had been purely hand-crafted: they had been developed by the rule writers by a process of inductive generalization from small examples supplemented by any observations made in the course of usage. In contrast, the TD-FS generation systems dealt with natural language using grammar rules in substantial parts of their extent that was immune from human intervention; except for occasional context-dependent rules, these were formulated using an automatic procedure of syntactic abstraction and lexical skeletonization. Such systems led to a major practical success, the Showplan system built for the International Business Machines Corporation (IBM); this achieved a 60% accuracy rate, quite remarkable for its time.
+
+
+
+====================
+ We all ate the fish and then made dessert.
+There are numerous ways to improve the performanceop in all four tasks but the trade-off between accuracy and speed is the always possible in NLP problems. O R S system can compute its result no matter how long it takes so long as the machine has enough memory. The method is promising in human-like conversations.
+Input: What do you want to do today?
+Output: What do you want to do today?
+The double system designed in this work aims to teach at least one human speech interaction model. The training data used the datasets prepared by (Lovett 1985;Brooks 1986;Stone 1989;Lee 1995). Because of the differences between datasets, there might have errors in the data. We have chosen the neural network architecture for system identification which is also based on the feed forward back-propagation n eural network. The architecture has 164 nodes in 6 layers, and the training data consists of 1295 input-output training examples. To control the identification result, we have used the data consisting of 8 human speech interaction sets . We have also included some other categories, such as movie, songs, English classes and grammar. Input data set is general, which uses 184 words chosen from 6 categories. Three output nodes were designed. Output 1 is for answering finished questions. Output 2 is for starting answers to unfinished questions, which involves name and occupation. And output 3 is used for talking about 2649 topics prepared from the movie and grammar datasets.
+====================
+ We all ate the fish and then made dessert.
+
+MORPHOLOGY is the well-defined set of rules that governs the computation and assignment of PHONETIC SYMBOLS to well-defined inputs.
+Input: I want to talk about...
+Output: ...understanding.
+Input: She was learning a lot and master a robot.
+Output: She was learning a lot and mastered a robot.
+Input: I saw people dressing in different fashions.
+Input: Who was sewing these pants?
+Input: The coat he was wearing was much larger than me.
+
+PHONOLOGY is the set of rules that specifies the PHONETIC STRUCTURE of a language.
+Input: I went to the store to buy milk.
+Output: In fact, the phonetic structure of some human languages contain a distinct consonant, hence the correspondence may sound illogical and bizarre to a human listener.
+Input: Find out who see the man.
+Output: ... ping.
+
+Examples of semantic concatenative model implementations are
+
+In 1976, Lynch and Granger published their landmark study on concatenative programming in which they illustrate how computation through concatenation could be used to generate a variety of French utterances with a uniquely parser-independent system. Utilizing the natural structure of the program as a representational tool, they demonstrated how the exhaustive space of possible utterances could be constructed not through the order in which the sentences were stacked or through use of error-correcting codes—as humanity had done computationally prior to 1976—, rather through the deeper internal rules that drive concatenative programming. These rules and methods for using these rules were not explicit in any English grammar.
+
+The 1996 study by Richard Futrell was one of the driving forces leading to the practical implementation of concatenative programming begun by Duane Forrester and David Sleeman at Xerox, Leon's hierarchy was adapted to a purely hierarchical system. Leon's theorem was revisited in Andrew Coles' work with Xerox. In Coles' work, the semantics of some words in the English language are uneasy to capture using a purely semantic model. Specifically, words and their contexts often cloud semantic meaning. The variations in English can be especially difficult to capture as semantics often do not hold absolute but may be defined in relation to a particular synthesis task or even frame. The dependency-based system, through its use of temporal strings and transduction, was used to demonstrate a new semantic
+====================
+ We ate the fish and then made dessert.
+Input: Marsha eats popcorn while watching a movie on television.
+Output: Marsha eats popcorn while watching a movie on the television.
+Input: Mary gave the dog a bone, but Jack did not get one.
+Output: Mary gave the dog a bone, but Jack did not get one.
+Input: Sometimes I find it difficult to remember if I told someone that my wife is pregnant.
+Output: Sometimes I find it difficult to remember if I told someone that my wife is pregnant.
+Input: I ran into my friend; we discussed how our children are getting along in school.
+Output: I ran into my friend; we discussed how our children are getting along in school.
+Input: The flood caused the train to stop; now we have to find another way to get to New York.
+Output: The flood caused the train to stop; now we had to find another way to get to New York.
+Input: Sarah supplies the house with all of the food; I can't believe this grocery bill!
+Output: Sarah supplies the house with all of the food; I cannot believe this grocery bill!
+Input: Bobby asked Janelle if she thought that the movie was funny.
+Output: Bobby asked Janelle if she thought that the movie was funny.
+Input: Yadira worries about her mother's health when their earthquake scares her.
+Output: Yadira worry about her mother's health when their earthquake scares her.
+
+====================
+ We all ate the fish and then made dessert.
+Input: Jim rest in times of stress.
+Output: Jim rests in times of stress.(?ticm)
+Input: Anna and Pat are both staff members.
+Output: Anna and Pat are staff members.
+Input: I relays struggle with expectations.
+Output: I relied on struggle with expectations.
+Input: Jim is living there in town.
+Output: Jim is in town living there.
+Input: Would you like some orange?
+Output: Would you like some—orange?
+Input: You can add a bunch of RSS feed to Firefox!
+Output: You can add a bunch of feed to Firefox!
+Input: What you go to the beach today?
+Output: What did you go to the beach today?
+Input: Jim been quiet lately.
+Output: Jim has been quietly lately.
+Input: What that you like most?
+Output: What do you like most?
+Input: Elsa will be leading the meeting.
+Output: Elsa will lead the meeting.
+Input: the classic car that I like most.
+Output: the classic cars that I like most.
+Generalizing to the next sentence will gets lots of deviated errors and usually requires 20 sentences or more. Yet, the error rate still is significant.
+Named Entity Recognition: Given "Steve wants to order a 32 inches TV for the demo."
+Output: Steve ordered a 32 inches TV for the demo.(?television_program)
+Named Entity Recognition: Given 'Mary wants to order a 32 inches TV for the demo."
+Output: Mary ordered a 32 inches TV for the demo.
+Named Entity Recognition: Given "Steve Robley wants to do business with us."
+Output: Steve Robley wants to do business with them.
+Named Entity Recognition: Given 'Mary McAllen wants to do business with them."
+Output: Mary McAllen wants to do business with us.
+
+Idea 1: Convert a fixed-len Parameter-length CFG into a tree-form, detect and generalize on the underlying tree.
+Input: I stayed in Hilton Hotel; the rooms and the service was excellent.
+Output: I stayed in Hilton Hotel; my room and service were excellent.
+Input: Between the variable spaces and the reachable areas are guarded locations that are connected to other areas.
+Output
+====================
+ We all ate the fish and then made dessert.
+Input: Notice how natural the output sound?
+Output: Notice how natural the output sound?
+Input: Not great for fishing, but the river is still and my favorite place to go.
+Output: Not great for fishing, but the river is still and I like going there.
+Input: It's luxury living in San Francisco with top-rated schools.
+Output: It's luxury living in San Francisco with top-rated schools.
+Input: Did you go back home after you dates?
+Output: Did you go back home after you finished dating?
+Input: This winter break, I want to ski in but still live near good restaurants I can cook.
+Output: This winter break, I want to spend time with my son skiing in Utah, but still live near good restaurants.
+Input: We landed on the moon to break the McCarthy.
+Output: We landed on the moon to get away from the McCarthy.
+Input: After Steve told me what happened to her, I went to see Becky.
+Output: After Steve told me what Becky said about her, I went to see her.
+Input: Are they bringing home shirts today?
+Output: Did they bring home shirts today?
+Input: What happened to them today?
+Output: What did they do today?
+Input: Michael is made to learn the way, but he wants to learn the way.
+Output: Michael is forced to learn the way [authoritarian], but he wants to learn the way [plural].
+Input: Two gets completed in all rage and is generous.
+Output: Two adds up in all places and is generous.
+Input: My younger brother made a balloon out of balloons.
+Output: My younger brother crafted a balloon out of balloons.
+Input: Shooting in up is running around the wall.
+Output: Shooting around the top is running around the wall.
+
+
+
+
+====================
+ We all ate the fish and then made dessert.
+Input: John brought the milk and the cream.
+Output: John brought the milk and the cream.
+Input: Are you going to Ralph's?
+Output: Are you going to Ralph's?
+The FrameNet data usually contains paraphrases of the whole sentence (plus tense tags for the actions), just that example does not include the GET verb portion.
+Input: "John was reading the newspaper."
+Output: "John was reading the newspaper."
+Language Tutorials
+These languages are undergoing or were undergoing development. They are developed for use in end-user applications, so no semantics is needed.
+
+Semantic lenses are a new technique for accessing language, where a word or an object inside of a visual interface is simultaneously described by multiple sources of knowledge. A lens is presumed to be related to many other tasks, knowledge bases, and subject domains. Each lens is assigned a context type (i.e. medical, financial, social etc.), from which closely related tasks are drawn. Tools, that allow the creation of lenses by defining how words relate to each other and performing simple natural language processing, are called lens creators. They achieved state-of-the-art results in multiple large-scale evaluations and use tons of data and computations to do so.
+
+
+
+====================
+ We all ate the fish, and then made dessert. (including second plural pronoun)
+Input: I read paragraph (n) of the book.
+Output: I read paragraph 1 of the book. (n-context dropping)
+Input: The bat will eat the fruit.
+Output: The bats will eat the fruit. (Reduction to schema without context change)
+
+
+
+====================

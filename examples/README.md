@@ -8,10 +8,10 @@ Examples intented to show creative/original output.
 
 These examples show the output in Markdown (for better GitHub rendering), with the prompt included and bolded.
 
-- `onceuponatime`: Text generated from the "Once upon a time" demo prompt.
-- `unicorn`: Text generated from OpenAI's GPT-2 unicorn example.
-- `recycling`: Text generated from OpenAI's GPT-2 anti-recycling example.
-- `gpt-3`: Text generated from the GPT-3 announcement itself.
+- `onceuponatime`: The "Once upon a time" demo prompt.
+- `unicorn`: OpenAI's GPT-2 unicorn example.
+- `recycling`: OpenAI's GPT-2 anti-recycling example.
+- `gpt-3`: The GPT-3 announcement itself.
 - `chatbot`: A simple weather chatbot that goes off-the-rails at higher temperatures.
 
 ## Few-Shot Generation
@@ -20,5 +20,8 @@ Examples which entice the output to follow a specific schema.
 
 These examples show the output in as a `.txt` file, without the prompt.
 
+In practice, you would use `temperature=0.0` and a `stop_token` to return only one "document". But for these experiments, it will not end prematurely in order to see what happens.
+
 - `mtg`: Magic the Gathering cards, in Gatherer format.
 - `kubernetes`: Kubernetes YAML manifests.
+- `grammar-correction`: Grammar correction task
