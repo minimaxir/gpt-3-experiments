@@ -9,3 +9,4 @@ These examples show the output in Markdown (for better GitHub rendering), with t
 - `onceuponatime`: Text generated from the "Once upon a time" demo prompt.
 - `unicorn`: Text generated from OpenAI's GPT-2 unicorn example.
 - `recycling`: Text generated from OpenAI's GPT-2 anti-recycling example.
+- `gpt-3`: Text generated from the GPT-3 announcement itself.
