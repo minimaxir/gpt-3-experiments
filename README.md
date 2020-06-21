@@ -17,7 +17,7 @@ All texts were generated from the best `davinci` model. Specifically, after feed
 The script requires the installation of certain common Python packages:
 
 ```sh
-pip3 install requests pyyaml fire tqdm
+pip3 install httpx pyyaml fire
 ```
 
 ## Maintainer/Creator

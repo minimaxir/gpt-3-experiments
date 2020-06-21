@@ -1,4 +1,3 @@
-requests
+httpx
 pyyaml
 fire
-tqdm

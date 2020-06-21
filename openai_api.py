@@ -1,9 +1,9 @@
-import requests
 import yaml
 import json
 import logging
 import os
-from tqdm.auto import trange
+import asyncio
+from httpx import AsyncClient
 
 logger = logging.getLogger("gpt3-experiments")
 logger.setLevel(logging.INFO)
@@ -13,6 +13,17 @@ logging.basicConfig(
     datefmt="%m/%d/%Y %H:%M:%S",
     level=logging.INFO,
 )
+
+
+async def gpt3_query(headers: dict, data: str, model: str) -> str:
+    async with AsyncClient() as client:
+        r = await client.post(
+            f"https://api.openai.com/v1/engines/{model}/completions",
+            headers=headers,
+            data=data,
+            timeout=None,
+        )
+    return r.json()["choices"][0]["text"]
 
 
 def gpt3_generate(prompt: str, config_file: str = "config.yml",) -> None:
@@ -37,6 +48,8 @@ def gpt3_generate(prompt: str, config_file: str = "config.yml",) -> None:
         "max_tokens": c["max_tokens"],
     }
 
+    loop = asyncio.get_event_loop()
+
     for temp in c["temperatures"]:
         n = c["num_generate"] if temp != 0.0 else 1
         output_file = f"output_{str(temp).replace('.', '_')}.txt"
@@ -44,15 +57,15 @@ def gpt3_generate(prompt: str, config_file: str = "config.yml",) -> None:
         data.update({"temperature": temp})
 
         with open(output_file, "w", encoding="utf-8") as f:
-            for _ in trange(n):
-                r = requests.post(
-                    f"https://api.openai.com/v1/engines/{c['model']}/completions",
-                    headers=headers,
-                    data=json.dumps(data),
-                )
+            tasks = [
+                gpt3_query(headers, json.dumps(data), c["model"]) for _ in range(n)
+            ]
 
-                gen_text = r.json()["choices"][0]["text"]
+            gen_texts = loop.run_until_complete(asyncio.gather(*tasks))
+            for gen_text in gen_texts:
                 f.write("{}\n{}".format(gen_text, "=" * 20 + "\n"))
+
+    loop.close()
 
 
 if __name__ == "__main__":
