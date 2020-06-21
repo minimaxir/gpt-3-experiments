@@ -1,0 +1,239 @@
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
+====================
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+====================
+ s = s[::-1]
+
+     return s == s[::-1]
+
+
+====================
+ s = s[::-1] # Reverse the string 
+     return s == s[::-1] 
+     
+
+def is_nums(s):    """Check whether a string is a palindrome and numbers""" 
+    s = s.strip() # Remove whitespace 
+     return is_palindrome(s) and all(int(c) for c in s) 
+
+def is_alpha(s):    """Check whether a string is alphabetic""" 
+    s = s.lower() # Make it lower case 
+     return s.isalpha() 
+
+def is_upper(s):    """Check whether a string is all upper case""" 
+    s = s.upper() # Make it upper case 
+     return s.isupper() 
+
+def is_digit(s):    """Check whether a string is a number""" 
+    s = s.isdigit() 
+
+def is_letter(s):    """Check whether a string is alphabetic""" 
+
+def is_alphanum(s):    """Check whether a string is alphanumeric""" 
+
+def is_special(s):    """Check whether a string is special""" 
+
+def is_blank(s):    """Check whether a string is blank""" 
+
+def is_alpha_num(s):    """Check whether a string is alphanumeric""" 
+
+def is_punct(s):    """Check whether a string is punctuation""" 
+
+def is_special_punct(s):    """Check whether a string is special or punctuation""" 
+
+def is_whitespace(s):    """Check whether a string is whitespace""" 
+
+def is_upper_or_lower(s):    """Check whether a string is upper or lower case""" 
+
+def is_number(s):    """Check whether a string is a number""" 
+
+def is_alphanum_num(s):    """Check whether a string is alphanumeric""" 
+
+def is_n
+====================
+
+def reverse_a_string(s):    """Reverses a string"""    
+def is_reverse_palindrome(s):    """Check whether a string is a palindrome after being reversed"""    
+def is_palindrome_rev(s):    """Check whether a string is a palindrome after being reversed"""    
+
+There are two different ways to solve this problem.
+
+One way is to first create a new string by reversing the string. This new string is then checked to see if it is a palindrome. This solution can be found in the code below.
+
+def is_palindrome_rev(s):    """Check whether a string is a palindrome after being reversed"""    
+
+Another way to solve this problem is to check if the string is a palindrome before reversing it. This solution can be found in the code below.
+
+def is_palindrome_rev(s):    """Check whether a string is a palindrome after being reversed"""    
+
+The function is_palindrome is already defined. In this case, the problem is solved by calling the function with a new argument, reverse_palindrome .
+
+The problem could be defined as the following problem.
+
+A palindrome is a string that is spelled the same backward and forward.
+
+If a string is a palindrome, it is also a palindrome when it is reversed.
+
+Is there a way to define the problem such that a solution that works for a palindrome will also work for a palindrome that is reversed?
+
+The solution below is for a palindrome that is reversed.
+
+def is_palindrome_rev(s):    """Check whether a string is a palindrome after being reversed"""    
+
+The solution is similar to the solution for the problem, which is to reverse the string and then check to see if the reversed string is a palindrome.
+
+The solution is to create a new string by reversing the string and then check if the new string is a palindrome.
+
+def is_palindrome_rev(s):    """Check whether a string is a palindrome after being reversed"""    
+
+====================
+
+   return s == s[::-1]
+
+
+if __name__ == "__main__": 
+
+#!/usr/bin/env python3
+
+def is_palendrome(s): 
+
+return s == s[::-1]
+
+
+if __name__ == "__main__": 
+
+The following is an example of a function definition:
+
+def is_palendrome(s): 
+
+return s == s[::-1]
+
+If we call this function:
+
+def is_palendrome(s): 
+
+return s == s[::-1]
+
+if __name__ == "__main__": 
+
+is_palendrome("supercalifragilisticexpialidocious")
+
+The following is an example of a function call:
+
+def is_palendrome(s): 
+
+return s == s[::-1]
+
+if __name__ == "__main__": 
+
+is_palendrome("supercalifragilisticexpialidocious")
+
+The following is an example of a recursive function:
+
+def is_palendrome(s): 
+
+def is_palendrome_helper(s): 
+
+if s == "" or s[0] != s[-1]:
+
+return False
+
+else:
+
+return True
+
+if __name__ == "__main__": 
+
+is_palendrome("supercalifragilisticexpialidocious")
+
+The following is an example of an anonymous function:
+
+def is_palendrome(s): 
+
+return s == s[::-1]
+
+if __name__ == "__main__": 
+
+is_palendrome("supercalifragilisticexpialidocious")
+
+The following is an example of a lambda function:
+
+def is_palendrome(s): 
+
+return s == s[::-1]
+
+if __name__ == "__main__": 
+
+is_palendrome("supercalifragilisticexpialidocious")
+
+The following is an example of an abstract base class:
+
+class Base: 
+
+def __init__(self, a, b): 
+
+self
+====================
+ s = s.upper() #Convert to upper case 
+     if s[0] != s[-1]: #Reversed string 
+     return False #Not a palindrome
+     return True
+
+
+====================
+   s = s[::-1]        return s == s[::-1]        def main():    """Print a list of palindromes"""        print("Here is a list of palindromes:")        # palindromes = [s for s in words if is_palendrome(s)]        # print(palindromes)        def main():    """Print a list of palindromes"""        # palindromes = [s for s in words if is_palendrome(s)]        # print(palindromes)        if __name__ == '__main__':    """Run the program"""        main()        def is_palendrome(s):    """Check whether a string is a palindrome"""       s = s[::-1]        return s == s[::-1]        def main():    """Print a list of palindromes"""        print("Here is a list of palindromes:")        # palindromes = [s for s in words if is_palendrome(s)]        # print(palindromes)        def main():    """Print a list of palindromes"""        # palindromes = [s for s in words if is_palendrome(s)]        # print(palindromes)        if __name__ == '__main__':    """Run the program"""        main()
+
+The for loop is commonly used with a sequence, such as a list or a tuple. A sequence is an ordered collection of items. For example, the following code creates a list of words and prints the list:
+
+words = ['cat', 'dog
+====================
+
+
+def main(): 
+    
+
+if __name__ == '__main__': 
+    
+
+There are some differences between the Python and the CoffeeScript version:
+
+The most significant difference is that Python has explicit return statements, while CoffeeScript uses return value.
+
+The only types in CoffeeScript are the native types, the basic types (string, number, boolean, null, undefined), and arrays. No distinction is made between primitive types and objects. In particular, the CoffeeScript compiler will not emit code for any of the built-in types, and therefore it is up to the JavaScript engine to implement these.
+
+
+====================
+
+    def palindrome(s):    """Check whether a string is a palindrome"""     
+
+is_palendrome(palindrome("not a palindrome"))
+is_palendrome(palindrome("not a palindrome"))
+is_palendrome(palindrome("not a palindrome"))
+is_palendrome(palindrome("not a palindrome"))
+is_palendrome(palindrome("not a palindrome"))
+is_palendrome(palindrome("not a palindrome"))
+is_palendrome(palindrome("not a palindrome"))
+is_palendrome(palindrome("not a palindrome"))
+is_palendrome(palindrome("not a palindrome"))
+is_palendrome(palindrome("not a palindrome"))
+is_palendrome(palindrome("not a palindrome"))
+is_palendrome(palindrome("not a palindrome"))
+is_palendrome(palindrome("not a palindrome"))
+is_palendrome(palindrome("not a palindrome"))
+is_palendrome(palindrome("not a palindrome"))
+is_palendrome(palindrome("not a palindrome"))
+is_palendrome(palindrome("not a palindrome"))
+is_palendrome(palindrome("not a palindrome"))
+is_palendrome(palindrome("not a palindrome"))
+is_palendrome(palindrome("not a palindrome"))
+is_palendrome(palindrome("not a palindrome"))
+is_palendrome(palindrome("not a palindrome"))
+is_palendrome(palindrome("not a palindrome"))
+is_palendrome(palindrome("not a palindrome"))
+is_palendrome(palindrome("not a palindrome"))
+is_palendrome(palindrome("not a palindrome"))
+is_palendrome(palindrome("not a palindrome"))
+is_palendrome(palindrome("not a palindrome"))
+is_palend
+====================

@@ -1,0 +1,3 @@
+def is_palendrome(s):
+    """Check whether a string is a palindrome"""
+    

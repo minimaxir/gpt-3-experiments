@@ -1,0 +1,242 @@
+ print(s)    if s[s.rindex(s[-1])+1:].lower() != s[0:s.rindex(s[-1])-1].lower():"Not a palindrome" else: print("Yes it Is")     is_palendrome("as")     is_palendrome("racecar")     is_palendrome("radar")     print(len(is_palendrome("racecar")))     print(len(is_palendrome("herracecar")))     print("roundscape.com")    if s[1:len(s)-1] != s[0:-1]: print("Not unique")    if s[0:len(s)-1] != s[1:len(s)]: print("Not unique")    '''Prints:'''     import random    list = [0, 2, 1, 4, 5]    print("Random: " + random.choice(list))   '''Palindrome using search. Palindrome = upper(s).lower() is the libleprinted version of the irems and right.index(s). Using Python's len():'''    test_palindrome(print)(len(n))#when I run this program, it gives me a tad faster    #palindrome: it should be unique and say the upper(s).lower() of each item follows by the right.index spamlist=[] spamlist.append(42) spamlist.append("a") spamlist.append(2) print("" + " ".join(spamlist)) tmp_spams=[] saying = "" for x in spamlist: print(x[2] ) #append to entire general.append(x[2]) saying=saying +x for x in general: print(x[2]).lower() #print(x[1] + fielding.append(x[1]) #print("Pass") # print() saying + x) + fielding #count(joinedloop) #'*' is wrong #print("Palindrome: ") #thoughts: Sugars: =(print() #428 in repetuition #with a
+====================
+ if not isinstance(s, str):      raise ValueError('Argument must be a string: {}'.format(s))     s=s.rstrip(' ')     if s == s[::-1]:     return True     return False
+In the above code we define is_palendrome as a function that is defined as def is_palendrome(s): and has the docstring that is our documentation for the function, the code that implements the logic of whether a string is a palindrome is also here. Then finally in the elif saw we check if the string passed in is an isinstance of a str, if it is not it would give a error saying that the argument must be a string.
+
+====================
+
+  def main(): #construct uppercase output_list = [] 
+ output_list.append(is_palendrome('MCC')) #outputs [False]
+ output_list.append(is_palendrome('abc')) #outputs [False]
+ output_list.append(is_palendrome('hba')) #outputs [True]
+ output_list.append(is_palendrome('mkmc')) #outputs [True]
+ output_list.append(is_palendrome('pqr')) #outputs [False] This will have no impact on the program. Finally, this package includes code that sorts words on the basis of the lengths of their vowels+consonants, as well as entire words that appear most frequently in text. The structure of the project is yet to be completely changed. Later, that task would involve making the program available on-line, adding additional documentation.
+
+A palindrome may be seen as an “inversion” of the initial word such as “SEND”. The functions are designed to exclude consonants and long vowels from new words to be spelled; a combination of two consonants and/or a short vowel is needed (for example, the palindrome “LNNNND” stands for “silly”). Letters of words can be compared in an alphabetical order, and a duration of vowels+consonants may be compared. The package also deals with punctuation and case distinctions. Some technical terms
+
+
+====================
+ s = s[::-1]
+
+     return s == s.translate(SALVAGEMAP)
+
+
+is_palendrome reduces a string into a list and then reverses it. After reversing, it makes its own reversal by forming a string with “”. For example,
+
+
+gives as a result “”. This is assumed as a palindrome. By the def subject there is:
+
+in = “”.lower()# or “”
+
+
+is_palendrome(1+in)
+
+
+Programmer’s Perspective: Don’t Prefer Builtin Functions and Its Override
+
+Builtin functions defined in a built-in namespace are preferred. They are also known as native functions. Examples of some built-in library modules are math, random, date, time, operator, file, re, os, sys, getopt, exit, and cfg. Some built-in functions, and also their native functions are explained in this point using the math module as an example.
+
+Every function under maths and to some extent all Python functions take as an argument either single set of parenthesis ([]) or no parenthesis () and has at least one return value. In examples below there are always with a code indent like this:
+
+
+as given below. Another way code is given is
+
+
+which is with different indentation.
+
+Some math built-in functions and its native/override are as follow:
+
+
+Basic math:
+
+
+• abs(x) stands for absolute value arithmetic leaving only a positive result.
+
+• asin(x), acos(x) stands for arc sine and arc cosine.
+
+• ceil(x), floor(x) stands for square root function taking x as a number and outputting its rounded up/down version.
+
+• cos(x), sin(x), tan(x) stands for cosen-sine,cosine, and tansin to these values.
+
+• hypot(x, y) stands for the practical Euclidean distance to these values. Usually x and y are both real numbers and result is a real number too.
+
+
+Sciences:
+
+
+• chisqrt(x), rand(x,y) stands for chi-square of x and also it returns random float in 0-1 range.
+
+
+====================
+  return s==s[::-1]
+
+# Check if a sentence is a palindrome
+
+if is_palendrome("Able was I ere I saw Elba"): print ("The sentence: 'Able was I ere I saw Elba' is a palindrome."); else: print ("The sentence: 'Able was I ere I saw Elba' is not a palindrome.");
+
+
+Output: Execute Online
+
+The sentence: 'Able was I ere I saw Elba' is a palindrome.
+
+A binary search is a divide and conquer algorithm that finds the insertion point within a sorted list every time it calls the function as shown below in the code.
+
+# Design a compareM method
+
+# Here function name is same as method name. So only last argument is updated.
+
+def holi_sentence1(sentence, key_word):
+
+# N is number of words in sentence
+
+# Here N is neared to 50
+
+n = len(sentence)
+
+# Make a boolean 0/1 array on sorted list with input sentence
+
+# Last word is not cared for now
+
+sentence = sorted(list(set([lorn.lower() for lorn in sentence.split()])))
+
+sorted_index = [key_word.lower() in sentence for key_word in list(set(["elba", "able", "saw", "saw", "ere", "in", "this"]))]
+
+while len(sorted_index[-1]) > 0:
+
+index = sorted_index.index(len(sorted_index[-1]) - 1)
+
+sorted_index.pop()
+
+# Partition sub-array, inserting elba into alphabetically first index
+
+# for e.g. if there is word tree as key and it is elba then lesser index
+
+# will contains "tree", "eye,there"
+
+sorted_index = sorted_index[:-1][:index+1]
+
+el Treasure Island 12
+
+# The insertion point is now searchable at first index within new sorted_index
+
+key_string = "\P[alldigits]\w+"
+
+i_index = list(set([str.exists(c) for c
+====================
+ return s == s[::-1]
+
+
+def is_permutation(s): 
+  """Check whether a string is a
+permutation of another string"""
+    s1 = s
+i = 0
+j = len(s)-1
+
+
+while i <= j: 
+Derivation of the algorithm: If vSet = {1,2,3,4} and we have a statement "set A set B implies A=B":
+
+1.<math>A </math>is a subset of <math>B </math>
+
+1.1 unresolved step 1.1.1: The statement is not automatically solved and needs a new rule to make it true.
+
+3. When a new rule is added to the system (v) will become:
+3.1 will add a new rule: "If a list is a subset of another list it is equal to it" which now is an axiom and not an hypothesis.
+
+3.2 Solution will be successful; conclusion is that: "at least one real solution" is possible (if "a+b" = "c+d", then "a"+"b" = "c"+"d")
+
+If a programming language is complete then there is a set of sentences in the language recognized by it. If, further, a program in the language is provided with means to test sentences for validity, the set of valid sentences includes all the sentences that can be constructed in the language. In this way a program can decide the validity of an arbitrary sentence by testing it (using a recursive test procedure). With such a decider it is possible to demonstrate that the program has an effective procedure for the derivation of all the sentences in the language – assuming the program is sound. This is because, by an argument very similar to those of Gödel's incompleteness theorem, a set of tautologies can be constructed as the set of results of the recursive procedure. A sound proof procedure is complete if and only if it has the power to derive all the sentences in the set of tautologies.
+
+This proof procedure fully defines the function of the language. This relies on one of the formal theoretical principles of computing – that the theory of functions with Boolean-valued output satisfies the difference principle. The definitions in the theory render every object blessed with a function as an effective procedure for derivation.
+
+Sound and complete programming languages thus completely determine their functions.
+====================
+   if s[::-1] != s:        return False
+
+   # s -> s[::-1]   # s[::-1] -> s # Note: Wrapping breaks the string   # \s becomes s[-1]     # \t becomes t[-1]   #
+if s == "": 	return True 	elif not isinstance(s, str): 	raise ValueError("not a str") # was (now Error let's say) 	elif s == s[::-1]:
+
+ 		return True # be kind and break 	else: 		return False 	 else: accomplish the "only compares when not empty" part 	 return s == s[::-1] # don't generalize `is_sane`
+import itertools
+
+
+def is_palendedrome(s):
+
+s = ""
+s = " "*len(s)
+
+p for p in itertools.permutations(s):
+return s == s[::-1]
+
+But then in Perl I see that the pseudolist approach excels, until such time as I can make a real list that takes up minimal space, as a dictionary with only the system-essential elements. In Python I'd reverse each of the elements of the string and concatenate the seven-character equivalent unfolded back on itself if that worked, but a list of tuples like (as in xx(xx(xx)) where the parentheses are each a truncated blank seemed to work OK as an alias for repeating xs.[order], xs.reverse() and does. These systems were all notorious for exponential string length blowups. I actually do this in one called zpScore and tide self.target does have it use one called dss.lookup in Python, whose default exam score is 1.0, whereas whatever your ESP was, if it was lower than that, you wouldn't pass your test, or so it said I supposed. I saw the student as just shooting fast at a lemon, the e.s.p. machine, and it was doing untold things, simulating the spooky effects of the brain, correlating the different parts.
+Seen as a search, as searching for the other possible soul on the other side of the wall like in Star Trek rather than
+====================
+
+    return s == s[::-1]
+
+ Created on 3/29/2017 4:19:26 PM by ncoder permalink: r-151130675 _______________________________________________
+
+ross-tech mailing list
+
+[hidden email]
+
+http://mailman.ross-tech.com/mailman/listinfo/ross-tech
+
+______________________________________________________________________
+
+This e-mail and any attachments may contain confidential and/or privilegedinformation. If you are not an intended recipient of the e-mail, do not read, copyand/or disseminate any information contained in it.
+
+This message is subject to terms and conditions entitled
+
+""Subscriber Agreement"", applicable to Ross-Tech services, which can bedownloaded, printed or viewed at http://www.ross-tech.com/agreement.cfm.
+
+For more information on this list, including removal,
+
+see
+
+http://mailman.ross-tech.com/mailman/listinfo/ross-tech
+
+On Wed, Jul 12, 2017 at 10:23:51AM -0400, Jason Witherspoon wrote:I build my own VWs and race several classes (Stock, Modified, and Pro)._______________________________________________ross-tech mailing list______________________________________________________________________This e-mail and any attachments may contain confidential and/or privilegedinformation. If you are not an intended recipient of the e-mail, do not read, copyand/or disseminate any information contained in it.This message is subject to terms and conditions entitled""Subscriber Agreement"", applicable to Ross-Tech services, which can bedownloaded, printed or viewed at http://www.ross-tech.com/agreement.cfm.For more information on this list, including removal,see http://mailman.ross-tech.com/mailman/listinfo/ross-tech Carl Warren-July 12, 2017 On Fri, Jul 14, 2017 at 7:28 AM, Carl Warren wrote:
+
+Is the W W Touran reverse engineered?
+
+______________________________________________________________________
+
+This e-mail and any attachments may contain confidential and/or privileged
+
+information. If you are not an intended recipient of the e-mail, do not read, copy
+
+and/or disseminate any information contained in it.
+
+This message is subject to terms and conditions entitled
+
+""Subscriber Agreement"", applicable to
+====================
+
+
+Generalizing the function definition to accept an arbitrary "keyword" argument that specifies the name of the dictionary to use internally (rather than placing this "dictionary" in the global namespace) makes it impossible for a programmer to mistakenly use both implementations of the function simultaneously, (i.e. with the same spelling in different locations), and therefore resolves any potential "name collision" problems that may arise.
+
+
+
+fn is_palendrome < K > ( s : & str , k : K ) -> bool {
+
+The parameter list consists of:
+
+To call this function, we would write:
+
+is_palendrome ( "Peter" , "correct" ) ;
+
+====================
+ # Separate string into individual characters.
+
+In this example, the "print" statement is thought of as an action. It invokes a function which returns output to the screen. The output can be thought of as a variation of the green function since it returns a value to some outside entity like another function.
+
+While concurrent programming is usually viewed as a form of programming where the main program is paused to allow for some secondary task to be completed, threading is where multiple threads can be executed concurrently carrying out a command respectively. Threads do not carry out concurrent tasks, rather they are also referred to as concurrent tasks carried out in parallell, that may also be useful to divide up a program in a more logical and streamlined manner.
+
+"Task Interruption" is where the computer gives priority to a higher rank task, however the term multitasking should be used since interruption can be done preemptively (giving preference to a higher rank but can get interrupted itself) and nonpreemptively. Tasks that are time consuming to compute have to be done preemptively for maximum system performance. For instance task interfernce is used in operating systems where the kernel has the highest priority so that it can perform tasks like regulating disk sysyte requests. The main rank code that generally run directly on the OS uses preemptive tasking for time sensitive tasks as preemptive tasking refers to the ability to be interrupted depending on certain priorities. Nonpreemptive tasking is used for jobs that have a higher time to completion value than those in the preemptive tasking. Programs that carry out time calculation which are constantly interrupted by preemptive/higher rank tasks are called super parallel, due to the high degree of concurrency that it allows.
+
+Concurrency can be divided into notions such as concurrency of tasks (concurrent tasks that are performed incompatibly) and concurrency of sequence(tasks whose execution operates in a sequence). Multi-tasking is to sequence while threading is to concurrency.
+
+Super parallel computing could be thought of as a concurrency computing model with an increased degree of concurrency of tasks, therefore allowing for parallel programs to be performed with little restrictions instead of sequential data. Existing parallel models are adequate for certain programming models like the standard parellel models, other models that work best with low degree concurrency on the other hand require virtual processors which give super parallel systems the capability to provide quality parallel programs without the restrictions imposed by the parallel models. However super parallel systems cod
+====================

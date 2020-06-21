@@ -1,0 +1,178 @@
+
+ 
+... 
+def findxy(arg,s):
+ 
+ 
+\end_layout
+Starting in Palette 8.0, the first argument to the module must be "python" with the remaining arguments correspondingly placed. For example, the syntax for a definition laid out over multiple lines would be
+\begin_layout Standard
+\include "ctanpy_wrap.sty"
+ \define_python python 
+ \define_python_function findxy \function{findxy}{int}{int}{string arg}{str s} { \end_layout
+In fact, the function above can be defined using a slightly simpler syntax as demonstrated in the next task.
+
+The syntax for inserting the hyperlinks along with the text that they link to ("find function" in the task) in gray, is created using the \links{} command using the first argument "python""txt" and the blob argument to ipval indicating the text of the hyperlink that Sublime Text should insert.
+
+For example, the command
+\define_python_function find256 \function{python}{\undefined}{int integer}{int integer}{int i, j}{i}{align=r}
+\begin_layout LyX-Code
+import math
+def rgitta_measure(inside_gyrule):
+
+ 
+
+ote Using the command \autoref ref.12.3 can be skipped here as it will be useful later
+\end_layout
+Rewritten in Python, the code looks like
+\begin_layout Standard
+\include "ctanpy_wrap.sty"
+
+\define_python_function find256 \function{python}{\undefined}{int integer}{int integer}{int i, j}{i}{align=r} { \end_layout
+The function is provided with what we believe are useful cut point delimiters, namely align=r for normal text and align=c for code. Here, a function named find256 has previously been declared with the first arguments (also called a function signature) of int integer indicating the Python variables that we will pass in, followed by the type on the next line (using the syntax \python_type int integer ) and is followed by an opening brace (see below). We should note that the notation \python_type int integer is not defined by CTANPy, but is simply a typedef we have chosen to use for experimental purposes. The initial assignment
+====================
+   if s <> s[::-1]:          return False    else:    return True    
+We see three things:
+Procedures are defined with the def keyword.
+Keyword parameter and return can be omitted.
+Programmer can add documentation in two ways: one-line docstrings after the double colon in the form of parameter {parameter docstring} (ex. def is_palendrome(s):
+description of parameters go here, ) and multiline comments after the same colon (ex. def is_palendrome(s):
+Anyways, check out these examples in this jupyter notebook and let me know what you think of jupyter. If you get a python interpreter open interactively in firefly you can also run the code below and observe the output:
+User(name='James Tiberius Rahski', email='james@seahub.io')
+====================
+  is_numeric = lambda s: isinstance (s, int ) or isinstance (s, float )
+     trimmed_string = s.lstrip( ' ' ) if not trimmed_string.strip():      return False      rest = trimmed_string[ - 1 ]     fail = False     rest_length = len (rest)    if trimmed_string[ 0 ] .upper() in ( ' spaces ' , '!, \t ' ): trimmed_string = trimmed_string[ 1 :] during = rest_length - 1    fail = True if rest_length == 1 else rest_length - 1    for i in range ( 0 , rest_length, 1 ):    for j in range ( 0 , i, 1 ):    if is_numeric(trimmed_string[i - 1 ]):    trimmed_string[i - 1 ] = trimmed_string[i - 1 ] .replace( ' num ' , ' ' ) if trimmed_string[i - 1 ] .upper() in ( ' spaces ' , ' \t ' , '
+
+' , ' ! ' ):    i = i + 1 continue try :    rest[i] = int (trimmed_string[i - 1 ])    raise ValueError ( " {} contains non-numeric chars " .format(rest)) except :    fail = True break else :    i = i + 1    if trimmed_string[i - 1 ] .upper() in ( " spaces " , " \t " , "
+
+" , " ! " ):    i = i + 1 continue    trimmed_string += trimmed_string[i:]    fail = (fail or fail and rest_length != end_length or rest_length > 0 and trimmed_string .find(rest) >= 0 ) return fail
+
+function is_palendrome ( s ) s = s. lower ( ) if s == s: return True else : for i in range ( 0 , len ( s ) , 1 ) for j in range ( 0 , i, 1 ) if int ( s [ i ] ) != int ( s [ i + 1 : ] ) or rawPast ( s [ i ] , s [ i + 1
+====================
+           # if empty string, it's not palindrome    if len(s) <= 1:      return False # starts at beginning   s = s[:-1] # reverse it   s = s[::-1]     s = s + s # two runs ==> also reverse     return (len(s) == len(s[::-1])) && (isinstance(s, str) and s == s[::-1]) 
+# exec python test_is_palendrome.py
+
+Some suggestions for practicing and experimentation with these examples of coding into a file and executing it:
+
+
+An infinite loop is a bit of code that iterates or repeats forever. Again consider a variable countN, and you want to count from 100 down to one using the loop 100, 99, 98, . . . 1 . . . 99, 100. This is an infinite loop because it keeps iterating the same loop (countN = 100) forever (after the loop finishes the countN is then set to 99 and the count 100 is incremented). An animation is very helpful to understand endless loops:
+
+		elected_officials.sh
+
+
+# create a list of first names of selected officials 	min = 100 	max = 1 		size = len(X) # count governmental officials 	​for​ i in range(100, -1, -1): # size 100 # count decreases by 1 on each iteration 		if​ i == min: # candidate for displaying min value 			print("​%s"​ % (X[min])) 		if​ i == max: # candidate for displaying max value 			print("​%s"​ % (X[max])) # running total of each candidate's votes 	running_total = 0 		for​ name in X: 			running_total += X[name] 			print("​%s"​ % (running_total)) # select and print candidates' data 		council = [X[i] for i in range(size)] 		sorted_names = sorted(council)[:] 		starser = range(max, -1, -1) 
+Quite often in scripts
+====================
+ 
+string = "racecar".replace('a','z').replace('e','i').upper() # palindrome?
+def is_palendrome(s):   """Check whether a string is a palindrome"""
+s1 = 'THE RACECAR GOES DUT-DUT-DUT-DUT-DUT-'
+s1 = 'the|quickbrownfox|JUMPED OVER THE LAMBDAtu-'
+s1 = s1.title()
+s1 = s1[::-1] # reverse string
+s2 = 'information'.replace('o','q').replace('n','m').upper()
+print ("%r"' % s1)
+print ("%r"' % s1.replace('e','i').split()[0])
+print ("%r"' % s2)
+s1 = s1[::-1]
+print ("%r"' % s1)
+
+
+
+====================
+    if s == s[::-1]: 
+         return True 
+    else:
+    # There is one case we miss 
+      i, j = 0, len(s) 
+     while j < i: 
+      if s[j] != s[i]: 
+       return False 
+     i = j 
+
+
+====================
+ """Example: is_palendrome('Able was I ere I saw Elba') is True. The palindrome Towers is Isle.""" 
+
+The first formal parameter of a decorator function is the function being decorated. Parameters after this one are passed to the decorated function. In this case, the fixed() function does not need to accept any arguments itself—any parameters passed to the fixed_verify() function after the function being decorated are simply passed through.
+
+
+
+
+====================
+ maxlen = 0
+
+   last = None
+for i in range(len(s)):       tmp = s[i]   if last == u'x':          if tmp == u'x':          if tmp == u'\x0':          if tmp == u'\x1':         while last == u'\0':     last = tmp     else:         return True
+
+
+====================
+	for i in range(len(s)): # Use a for loop to iterate 	 	 		# i ranges from 0 to N, where N is the string's length
+
+		 			if s[i] != s[i + 1] or s[i] != s[i - 1]: 				return False
+
+		 			# If values don’t match up, return False
+
+			 				return True
+
+
+Try it Yourself
+
+
+Exercise 4.2
+
+		Write a function called is_palindrome_reversed(s) that accepts a string s and checks whether it is a palindrome, but only if the string is spelled backwards, instead of forwards. What errors would be introduced if you call is_palindrome_reversed(s) on a string that is spelled forward?
+
+
+		The 4 Functions above relate to the 4 main ways to sort lists. Which leads us to our next core element for the Commander Toad Data Types chapter. This time, we’ll take a look at the commands we use to sort lists.
+
+
+Check Your Code with the Unit Test Feature
+
+
+Problem
+
+
+You wrote some code to solve a problem and want to check it for correctness. You’d like to avoid having to tediously analyze your program line by line, trying to isolate the bug.
+
+
+Ingredients
+
+
+IDLE
+
+
+Goal
+
+
+Explore the Python code revision control system and IDLE’s unit test feature. A unit test is a small bit of code that triggers your intended file. This code asks “does it do what you intended?”.
+
+
+For an introduction to unit testing, see Python 3 Object Oriented Programming (Capybara).
+
+
+How It Works
+
+
+When you incorporate unit tests into your development process, you will write a piece of code and compare it to the expected output. If the actual result matches the expected result, unit test passes. Any discrepancies lead to errors. How can this be? See if you can step through test_palindrome.py below.
+
+# test_palindrome.py
+
+	setUp = “assert len(word) <= 4” \
+
+	 + “assert word.lower() in ‘abcdefghijklmnopqrstuvwxyz’
+====================
+
+
+Function is_palendrome(s):
+
+Zsh does not have procedure or function declarations, but it does have command aliases.
+
+Both Zsh and Bash support a call stack, which organizes the place where function calls were started and the return addresses of function calls, with each invocation of a function saving the source and destination records in the stack and then returning control to the latest caller. Bash saves the source record in the function descriptor, which is in memory and hence limited in size. Zsh saves the source record on the stack. Bash requires a codice_17 statement after every function call or the stack will be cleared. Zsh does not require a codice_17, but it does clear the stack if there is an error or it reaches the end of code execution.
+
+Zsh does not require function or procedure declaration; there are only functions and shell scripts.
+
+Julia uses modules and calls them packages and requires each package to have a content file a file named codice_24 which is a plain text file written in Julia. The requirement to name the file codice_24 for a package as standardized. This file is read by Julia's extend system, and overrides variables and other facets which the codice_26 part of the package. The package is then imported. The package name and version number is not required as Elizabeth Mattijsen has done without it for some packages.
+
+Racket has procedures, macros, special forms, functions, and variables. These features do not have declaration statements of any type. Adding and deleting features of what was lexically present can be done with the codice_27 procedure which takes a symbol or category which is then matched to any of the parent Racket procedures or macros for the symbol. This means any procedure, macro, or special form can be replaced in part or in whole at runtime. The only exception to dynamically replace procedure is the procedure and argument stating must be textually replaced sometimes at run-time. In most other cases, the arguments may be left with other procedures which may be less efficient if they need to perform look-up at run-time codice_28 in one case where the database changes. The codice_27 procedure may be inefficient as in 4 times slower than built-in OS abstractions based on Racket's bare ancestors performxtaposed constructs for Racket. The extend-syntax constructs of the Racket package (module) system may be more efficient because then the compiler knows the
+====================
