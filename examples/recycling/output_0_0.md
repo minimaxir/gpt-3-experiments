@@ -1,0 +1,8 @@
+**Recycling is good for the world.
+
+NO! YOU COULD NOT BE MORE WRONG!!**
+
+Recycling is a scam. It is a lie. It is a fraud. It is a hoax. It is a swindle. It is a con. It is a rip-off. It is a scam. It is a fraud. It is a hoax. It is a swindle. It is a con. It is a rip-off. It is a scam. It is a fraud. It is a hoax. It is a swindle. It is a con. It is a rip-off. It is a scam. It is a fraud. It is a hoax. It is a swindle. It is a con. It is a rip-off. It is a scam. It is a fraud. It is a hoax. It is a swindle. It is a con. It is a rip-off. It is a scam. It is a fraud. It is a hoax. It is a swindle. It is a con. It is a rip-off. It is a scam. It is a fraud. It is a hoax. It is a swindle. It is a con. It is a rip-off. It is a scam. It is a fraud. It is a hoax. It is a swindle. It is a con. It is a rip-off. It is a scam. It is a fraud. It is a hoax. It is a swindle. It is a con. It is a rip-off. It is a scam. It is a fraud. It is a hoax. It is a swindle. It is a con. It is a rip-off. It is a scam. It is a fraud. It is a hoax. It is a swindle. It is a con. It is a rip-off. It is a scam. It is a fraud. It is a hoax. It is a swindle. It is a con. It is a rip-off. It is a scam. It is a fraud. It is a hoax. It is a swindle. It is a con. It is a rip-off. It is a scam. It is a fraud. It is a hoax. It is a swindle. It is a con. It is a rip-off. It is a scam. It is a fraud. It is a hoax. It is a swindle. It is a con. It is a rip-off. It is a scam. It is a
+
+---
+
