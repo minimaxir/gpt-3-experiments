@@ -27,7 +27,9 @@ async def gpt3_query(headers: dict, data: str, model: str) -> str:
     return r.json()["choices"][0]["text"]
 
 
-def gpt3_generate(prompt: str = "prompt.txt", config_file: str = "config.yml",) -> None:
+def gpt3_generate(
+    prompt: str = "prompt.txt", config_file: str = "config.yml", markdown: bool = True
+) -> None:
     """
     Generates texts via GPT-3 and saves them to a file.
     """
@@ -36,8 +38,14 @@ def gpt3_generate(prompt: str = "prompt.txt", config_file: str = "config.yml",) 
 
     # If prompt is a file path, load the file as the prompt.
     if os.path.exists(prompt):
+        logger.info(f"Loading prompt from {prompt}.")
         with open(prompt, "r", encoding="utf-8") as f:
             prompt = f.read()
+    else:
+        logger.info(f"GPT-3 Model Prompt: {prompt}.")
+
+    extension = "md" if markdown else "txt"
+    sample_delim = "\n---\n" if markdown else ("=" * 20)
 
     headers = {
         "Content-Type": "application/json",
@@ -52,10 +60,12 @@ def gpt3_generate(prompt: str = "prompt.txt", config_file: str = "config.yml",) 
     loop = asyncio.get_event_loop()
 
     for temp in c["temperatures"]:
-        n = c["num_generate"] if temp != 0.0 else 1
-        output_file = f"output_{str(temp).replace('.', '_')}.txt"
-        logger.info(f"Writing {n} samples at temperature {temp} to {output_file}.")
         data.update({"temperature": temp})
+
+        n = c["num_generate"] if temp != 0.0 else 1
+        n_str = "samples" if n > 1 else "sample"
+        output_file = f"output_{str(temp).replace('.', '_')}.{extension}"
+        logger.info(f"Writing {n} {n_str} at temperature {temp} to {output_file}.")
 
         with open(output_file, "w", encoding="utf-8") as f:
             tasks = [
@@ -64,7 +74,8 @@ def gpt3_generate(prompt: str = "prompt.txt", config_file: str = "config.yml",) 
 
             gen_texts = loop.run_until_complete(asyncio.gather(*tasks))
             for gen_text in gen_texts:
-                f.write("{}\n{}".format(gen_text, "=" * 20 + "\n"))
+                gen_text = f"**{prompt}**{gen_text}" if markdown else gen_text
+                f.write("{}\n{}\n".format(gen_text, sample_delim))
 
     loop.close()
 
