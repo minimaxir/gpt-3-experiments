@@ -7,4 +7,5 @@ A list of example texts in this repo generated using OpenAI's GPT-3 API. See the
 These examples show the output in Markdown (for better GitHub rendering), with the prompt included and bolded.
 
 - `onceuponatime`: Text generated from the "Once upon a time" demo prompt.
-- `recycling`: Text generated from OpenAI's anti-recycling example.
+- `unicorn`: Text generated from OpenAI's GPT-2 unicorn example.
+- `recycling`: Text generated from OpenAI's GPT-2 anti-recycling example.

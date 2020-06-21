@@ -1,4 +1,4 @@
-# "Once upon a time"
+# Recycling
 
 The famous recycling prompt, from [OpenAI's GPT-2 Demo](https://openai.com/blog/better-language-models/#sample8).
 
