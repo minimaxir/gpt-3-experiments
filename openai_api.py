@@ -24,7 +24,10 @@ async def gpt3_query(headers: dict, data: str, model: str) -> str:
             data=data,
             timeout=None,
         )
-    return r.json()["choices"][0]["text"]
+    r_json = r.json()
+    if "choices" not in r_json:
+        return ""
+    return r_json["choices"][0]["text"]
 
 
 def prompt_md(prompt: str, gen_text: str) -> str:
@@ -81,8 +84,9 @@ def gpt3_generate(
 
             gen_texts = loop.run_until_complete(asyncio.gather(*tasks))
             for gen_text in gen_texts:
-                gen_text = prompt_md(prompt, gen_text) if markdown else gen_text
-                f.write("{}\n{}\n".format(gen_text, sample_delim))
+                if gen_text:
+                    gen_text = prompt_md(prompt, gen_text) if markdown else gen_text
+                    f.write("{}\n{}\n".format(gen_text, sample_delim))
 
     loop.close()
 
