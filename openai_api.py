@@ -77,12 +77,10 @@ def gpt3_generate(
         output_file = f"output_{str(temp).replace('.', '_')}.{extension}"
         logger.info(f"Writing {n} {n_str} at temperature {temp} to {output_file}.")
 
-        with open(output_file, "w", encoding="utf-8") as f:
-            tasks = [
-                gpt3_query(headers, json.dumps(data), c["model"]) for _ in range(n)
-            ]
+        tasks = [gpt3_query(headers, json.dumps(data), c["model"]) for _ in range(n)]
+        gen_texts = loop.run_until_complete(asyncio.gather(*tasks))
 
-            gen_texts = loop.run_until_complete(asyncio.gather(*tasks))
+        with open(output_file, "w", encoding="utf-8") as f:
             for gen_text in gen_texts:
                 if gen_text:
                     gen_text = prompt_md(prompt, gen_text) if markdown else gen_text
