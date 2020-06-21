@@ -1,0 +1,292 @@
+
+I'm starting to think that half the reason I've spent my entire life not using Git is that I'm too lazy to remember the commands
+just finished my data science project and now I'm trying to figure out how to make my Jupyter notebook execute my function
+I guess the real question is how do you deal with shitposting that's actually, like, shit?
+this might be the worst shitpost I've ever written
+that's not a problem you can just use NLP to solve
+My local data science circle is just, like, whatever
+do they mean if I use a stop word like "the" or "a"
+this is why I can't have nice things
+if you've ever asked for a job on a fucking subreddit
+It's a hard truth that needs to be accepted.
+oddly enough, the bane of my existence is actually my company's HR system
+Now you know how it feels to use Jupyter Notebook for shitposting
+yeah, I think I just need to work on this for, like, an hour and then I'll have it.
+the stuff I do in the privacy of my own home
+There is no problem that a well-trained deep neural net cannot solve.
+a non-linear problem, and then write about it on my blog.
+That's a hell of a lot of new things to read.
+My life has been ruined by reading Stack Overflow.
+There are some problems that can only be solved with the right level of data science.
+"Hi, this is a question from a data science interviewer, and I need you to solve this in 10 minutes."
+i'm actually going to have to use this for a data science project in like two days
+So I just realized that I could write a short program that runs a web browser, launches the first thing it finds on the first page, then saves the whole page as a PDF.
+I love it when my algorithms work.
+all of the words you've ever read
+I'm just so tired of reading about things on the internet
+I've finally reached the point where I've learned everything I need to know about machine learning.
+I'm like, really smart now.
+I don't know how to write code, but I've read a lot of articles about writing code.
+like a single human is actually able to read all of this shit
+Oh, you can run multiple tests on a dataset? I just
+====================
+
+https://www.youtube.com/watch?v=_WtWJQs6LpM
+Good times. https://www.youtube.com/watch?v=1k7jfM1QnfM
+I really wish there was a way to do HTTP/2 from a web browser
+I wonder how hard it would be to turn this into a twitter bot that responds to every @realDonaldTrump tweet with a quote from Hamilton?
+tweet: [url] [image] [quote]
+I got so angry at Python packaging today that I went out and bought a juicer.
+this is how my housemate found me after I got home from a 9 hour workday
+That moment when you realize that in order to have the appropriate level of immaturity, you're going to have to start over with a fresh install.
+man, I'm so tired of having to deal with these legacy Nginx configurations.
+that's why we can't have nice things.
+how many people did this bot get before people realized it was full of it?
+if you can't beat 'em, just have a bot do it for you.
+this is how I feel about my life.
+but in a good way.
+it's the only way.
+well that's just your opinion, man.
+you don't know me.
+i am the data.
+that's the kind of attitude that gets you places.
+well I've seen enough of the human race to know that it isn't worth it.
+wait, so you're just going to give up?
+do you want to go out for coffee?
+I've never been more tempted to run out and get a new Macbook Pro.
+honestly, I just want to do data science in the open.
+I don't want to be the next person who gets blacklisted for doing data science in the open.
+The only reason that I don't do data science in the open is because I don't want to get blacklisted.
+so what are you going to do about it?
+i guess I'll just keep writing it in my spare time, and hope for the best.
+fuck it, I'll just write it in my spare time and hope for the best.
+then you'll be one of those people who doesn't get hired.
+I don't even know
+====================
+
+Today's shitposting is brought to you by Pandas.
+What if every submission to PEPs was actually a submission to the Python Package Index?
+how much should I charge for this one-off tutorial?
+I need to write a paper for my class but I just got distracted by my own data set.
+Working on a "Python Data Science Toolkit" for a course I'm teaching. It's a time travel paradox.
+I love that I can do a pandas.DataFrame.apply(func).sum() and get a nice NumPy array out of it.
+I feel like we've moved past "is Python fast enough?" and now it's "how can we make Python fast enough?"
+This whole "publishing on Arxiv" thing is weird.
+Imagine if a scientific journal was just a github repository.
+"So how much do you get paid?" "Oh, I'm just a postdoc. I get paid in mentorship."
+"Oh, what's your net worth?" "About negative $100,000." "Well, that's not too bad."
+"I'm building a ML model to generate food puns. So far I've trained it to tell me whether or not a pun is a pasta pun."
+"Why is Python so great?" "It's the programming language of love."
+"Python or JavaScript?" "Python, for love."
+"I need to fix this bug, but I don't know where to start. I guess I'll just look at the commit log."
+The Python community is amazing. Everyone's in it for the love.
+I'm still pretty green at data science but I'm trying to learn as much as I can!
+"What's your big data toolkit?" "I'm using Python."
+The future is here.
+I had a pretty successful career as a Python developer, but I don't think I'll ever really understand data science.
+Got a new laptop with Python 3.7 installed.
+Every time I see someone on Twitter talk about data science or machine learning I always hope they get trolled.
+I love my Python data science career. I'm pretty sure I've found my calling.
+Every time I do a Kaggle competition I get so inspired by other people's code.
+A few months ago I had no idea what a pipenv was. Now I'm like the biggest pipenv fan in the world.
+But that's okay
+====================
+
+don't you dare tell me I'm doing it wrong
+tbh I'm probably the only person who can do this who also knows what it is
+The moral of the story is: You should not depend on Python 2.7 for your job.
+FTP'ing over HTTP
+Rent. Cheap. In SF. In a shared room. In a house. It's like, really good.
+People use my python packages all the way back to Python 2.7
+Most Python code you'll ever write.
+Ain't no party like a Python package release party
+How to avoid unicode errors when using grep: use grep -E
+I'm honestly so upset that Python 3.6 isn't out yet.
+What are you doing with your life if you're not using Markov chains to generate Python code?
+tfw you get to work on the most cutting edge machine learning projects, but you still have to ship your work in Jupyter Notebooks
+I think I'm going to work on a service that creates chat bots. I'm just not sure what it should do yet.
+Python coders are literally the biggest data scientists.
+I wrote a wrapper for Youtube-dl and I've never felt more proud.
+tfw your TensorFlow code is so efficient that you're getting a better performance than the Keras backend.
+tfw I finally got my first GitHub issue from a person I don't know.
+You can't learn data science in school, but you can learn it from real-world data science!
+I can't believe I made this. This is incredible. This is the best thing I've ever done.
+Someone tell me how to do TensorFlow without it being a giant pain in the ass.
+It's not a big deal.
+It's just a microservice that automatically updates the information on your resume to the latest and greatest.
+"So what did you do at that company?" "Oh, I built a neural network that generates Python code."
+tfw you see a job posting for a machine learning engineer, but they want you to know SQL.
+tfw your model's test error rate is 100%, but it still predicts the right answer all the time.
+this is literally how I feel about my code right now
+I just made a big file of all my random thoughts about machine learning. I call it "random_thoughts.py"
+The best part about living in the Bay Area
+====================
+
+yolo'ing up a tf-idf implementation is a great idea, but also a great way to be on the edge of what data science is capable of.
+let's yolo a deep learning project that doesn't even work
+I want to use my shiny new Google Cloud credit on a doodle game
+Here's a deep learning problem that's way too hard.
+I'm going to just write a data science blog in emojis
+how do you debug an A/B test? A/B/C/D test?
+Do people still even use Excel?
+what if we put the statistical concepts behind big-O notation in the O part of big-O notation
+This project is going to be done in Python, but I'm going to make it work in C just to see if I can.
+deep learning just keeps getting better and better! I'll get around to writing a blog post about it at some point.
+the quickest way to get to the cutting edge is to cut it
+Gotta love a project that makes you go "holy shit, that's cool!" right before it crashes.
+using Python for science and data science
+I've just implemented an Adversarial Autoencoder in Tensorflow. You're welcome, world.
+I don't know if I'm going to publish this or not, but it's a neural network in the shape of a parrot
+I don't even know if this is possible, but I'm going to try it.
+the right data science framework can solve any problem
+My code is so complicated that it's going to be the death of me
+I've got an idea that I'm going to test out using time travel.
+I'm going to build a text generator for famous quotes
+I'm building a simple neural network, but I'm going to use the biggest matrices I can find.
+I'm building an AI that generates HTML, but I'm not sure if I'll be able to figure out how to train it.
+my life has become the antithesis of the story of the man who loved cactus
+my code has more failures than a 3-year-old on a trampoline
+my first step to solving a problem is to start a blog post about it
+I'm working on a neural network to help me figure out what the best thing to do is.
+The only way to find out if a neural network works is to put it on the internet.
+====================
+
+Hierarchical clustering with a pivot table
+Only black hat data scientists use one-hot encoding.
+spending hours and hours and hours trying to create a learning model for my product because I’m a machine learning hipster
+I’m honestly not sure if it’s still safe to use the word “tensorflow” on Twitter.
+if you get a hunch that something is possible, it’s worth it to check it out.
+let me know if you're a good fit to write a blog post about your career transition into data science.
+The Big Data Gang™
+Scraping reddit for meme ids, 
+====================
+
+Why are people asking questions on Stack Overflow if they don't want an answer?
+It's always been a dream of mine to create a data science meme.
+I love that I can use Pandas to create a realtime Twitter sentiment analysis of the news.
+Nate Silver's new startup will be a platform for crowdsourced data science research
+These libraries are fucking garbage.
+The next hot trend in Machine Learning is human-to-human chatbots
+Why isn't it just called Deep Learning?
+tfw you think the hottest data science take you've ever seen is a repost of something you read a month ago
+The new Datascience meme: If you don't get it, it's because you don't want to get it.
+tfw you're so tired of being told you're a Python noob that you're actually contemplating porting your library to C++
+So you think you know everything about Pandas? Prove it by writing an entire blog post about nothing but yourself.
+You'll never be a data scientist until you can confidently state that correlation does not imply causation.
+This data science post is so good that it can't be explained in any medium other than a Word Cloud.
+You can't train a neural network to do machine translation until you have trained it to translate your own bullshit
+tfw you have the perfect neural network architecture to solve a particular problem, but it only works in binary.
+Another day, another Word Cloud.
+Ric Flair Drip.
+I would like to make a tool to generate data science Word Clouds for any blog post.
+A deep learning model that takes in a sentence, outputs a word cloud, and generates the entire blog post in the process.
+Dear Spark: You are a joke.
+Every time I see someone complaining about the N-1 bias in Spark, I want to kill them.
+The real reason why Python is dying.
+Why is my R package taking so long to install? I can't even remember why I chose R.
+The future is a world where data scientists are paid to tweet the hottest data science takes.
+If you can't train a model on something, you should just pretend it is binary.
+Anyone who says a model is overfitting is just using that as an excuse to be bad at statistics.
+You don't have to have a job in data science to get on the hottest data science takes.
+How do I train a model on something that is
+====================
+
+WITH THE GREATEST OF EASE AND STYLE
+I have a bit of a confession to make...
+If you're not using SQLAlchemy, you're doing it wrong.
+I have not been this excited for a new programming language since Java.
+I'm more excited about this Python thing than I have been about any piece of technology in a long time.
+No matter what you do, the regex always wins.
+He asked me to teach him machine learning. I responded by building him a program that finds the shortest route between 2 points.
+Why are we not allowed to just use VBScript?
+you know it's bad when your grad school's TAs are telling you to use the Google Cloud APIs instead
+"I really like the Twitter API. It's so straightforward and well documented."
+"What's the next library I should learn?"
+"Can I have an autograph?"
+"Do you have any tips on learning new libraries?"
+This is how you create a real-world data scientist.
+I just found a way to do it in one line.
+Okay, so I've figured out how to automate a lot of the admin work for my clients.
+My friend told me to use D3. I told him I would if he would start wearing pants.
+Here's how you make your first 10,000 lines of code:
+And here's how you make your next 10,000 lines of code:
+I have no doubt that this is how a data scientist really works.
+You know you're doing data science right when:
+You try to learn something new, but you spend most of your time googling for code snippets.
+I've been making it rain with data science on the blockchain for so long that I'm starting to get dry.
+This is what you're doing wrong if you don't like Python.
+There's a reason why Python is the go-to language for AI.
+They say that Python is the future of data science.
+I just can't get enough of Python.
+Who needs Markov chains when you have deep learning?
+I feel like there should be a word for learning a language just to read the documentation.
+I like my R with a side of VBScript.
+I'm going to be using Python for the rest of my life.
+"I've heard that Python is pretty easy to learn."
+I'll teach you Python in three easy steps:
+"Why
+====================
+
+(by the way, it's just an abbreviation of a word that has multiple meanings. why are you so mad?)
+Hierarchical Bayes factors? More like hierarchical Bayes farts.
+NLP (natural language processing) is the worst
+The easiest way to build an NLP pipeline is to give up and use regex.
+I’ve decided to start using pandas for my data cleaning.
+I’m trying to train an LSTM to translate I don’t know into I don’t know
+I got into data science so I wouldn’t have to deal with people who don’t understand the value of a "data scientist"
+"hey, let's use logistic regression"
+how to generate my entire tech blog
+it's a hot take generator that uses a GBM as the latent variable
+I'm actually really surprised no one has built this yet.
+Haven't had any blog ideas in weeks. So I've been spending my time building a deep learning NLP pipeline to generate new blog ideas.
+Works surprisingly well. Here's the first blog post:
+I was literally just talking about this with a colleague
+in a data science job interview
+I haven't seen this much swearing in an interview since I asked a candidate to implement a sorting algorithm and he threw his computer at me.
+The data science interview process is the only place where someone can spend an hour writing a single line of code and still get the job.
+How to fail an interview in five easy steps
+There is no such thing as data science
+Falling into a spiral of failure after only a few hours of trying
+I've been spending my free time learning how to build recommendation engines
+We're going to need to increase our budget to get the best data science team in the industry
+This is literally what the recruiter told me
+We don't really need data science. We just need someone to generate a bunch of pretty charts for our marketing department
+That one person who only knows how to do NLP but somehow got a data science job
+I can't even begin to tell you how much I've been enjoying my new job
+Because nothing says "I don't know what I'm doing" like using the default parameters
+I don't understand why my neural net is always giving me results that make no sense
+They want a hot take about why they're not going to succeed in this industry
+And I'm just not having
+====================
+
+In the future, it will be possible to build web applications without a backend.
+If I have to see another dashboard, I'm going to punch my computer screen.
+there is no dplyr
+I've been building out my own deep learning framework in my spare time. It has a forward pass and a backward pass.
+Here's a good way to stop people from breaking into your computer: stop using computers.
+If you have a lot of rows and columns, your data is just as good as the work you put into it.
+I have a large dataset, but I don't have any good columns.
+I would love to hear more about your pet project.
+My workflow is better than yours.
+It's time for your weekly git update, bro.
+I've just been on a bit of a coding tear, so I'm probably due for a version bump soon.
+I'm pretty sure you could turn your company's data into a musical.
+This is a prototype, so it's not very good.
+I don't want to get my hopes up about it, but it's looking like I might be able to finally put my senior thesis to rest.
+"There's an app for that" has a whole new meaning now that I've learned Python.
+I've written the next logical step in the development of self-driving cars: an app for me to talk to.
+I just have to port it to a language I can understand.
+My database has no foreign keys. It's the best kind of database.
+"I'm gonna have to start using regular expressions" is a real-life problem you have to solve before you get hired at Facebook.
+My new Facebook status is, "You know, I'm starting to think we should just be building static websites."
+As a programmer, I'm pretty sure I should be able to come up with a better solution than this.
+I just wanna get paid to fix things.
+I'm the real-life Iron Man.
+Real programmers use GNU make.
+This is going to be the best game of "the floor is lava" ever.
+Why did we start writing our own programming languages?
+This is a great idea, and I'd love to work on it.
+I think I can make my app better if I give it a bigger vocabulary.
+My passion for data science is just growing and growing.
+I'm about to make the leap into full-time freelance coding.
+====================
