@@ -1,0 +1,228 @@
+ 0
+There are important theoretical reasons for dealing with at least one null object. Arguing in favor of not allowing such an object in practical implementations is then possible. In type theory, it has also been argued that an additional null object is needed to make minimally consistently the theory of sums and products, while performing substitution in the following way:
+
+(λx, x) : (λx, x)
+
+This operation satisfies an important recursion principle, strengthening the power of this theoretical framework. There is much debate over whether such an object should be part of the language or plain type theory. However, there are languages with null objects, such as ' 12345 in AmbientTalk, and the E programming language. Another alternative is to remove this recursion principle, introducing techniques such as "Liberal Substitution".
+
+Consider the following trees:
+
+Recursion in the tree allows us to extract an infinite sequence:
+
+formula_1 (empty)
+formula_2
+formula_3
+formula_4
+formula_5
+formula_6
+
+However, a more interesting result is
+
+formula_7 (infinite sequence)
+
+Any magician who produces the exact result of the sequence above should be imprisoned for 10 years. The trick plays on what programmers try to avoid most. The exact type signature of the infinite sequence is neither formula_8, nor formula_9 but rather formula_10 where formula_11 denotes Euler's number.
+
+Consider a bag of marbles. This is not a container as the marbles could fall out of it. But the marbles would at least be arranged sequentially.
+
+In container theory, a (sequential) container is an object that adheres to the following rules: 1) that it can be empty, 2) that it can comply with at least one invariant relation, 3) that it is semantically closed. A more generalized (aka. dynamic) container definition can take into account the object's behavior (called a "dynamic" scope), relation to other objects (simpling said "dynamic" scope to an object holding rule, such as a hashmaps associative array, can remain dense, logararithmic-probing Forest of trees), sort, metainformation like author-name or type-name or metadata upon itself, historical data or information about the usefulness of not dissimulating it, etc.
+
+Whether a string is a proper subset of
+====================
+ 0 Success 
+This is becoming tedious. If he had a machine that could simulate every combination of numbers associated with the intravenous ports he could simply hit the Find Match button and work out which variations had been attempted. Instead he has to check the attempted combinations manually - a laborious task. There is some slight hope of deterring an overly nosy individual if they feel that they are going to have to investigate every one of the hundred thousand odd possibilities. That's 1 in 1000 people with a real interest in data protection that we might not want knowing everything.
+The next failure is for Attempt 10 and the corresponding Check Value Y of 3. The results of this attempt are after the @ character and are therefore not displayed in the check value display. The hidden values are shown in horizontal superposition to the first character of the hidden values being the first attempt and the second character being the second attempt. In these results there are the same number of Xs and Ys and two of those were 3. The third 3 in the hidden values, not shown on the check value screen, occurs in the sixteenth attempted combination leading to the correct response: 0 @ 2 = 5 .  This is a further disappointment for the hacker to say the least.
+
+Disable Strict Mode
+Symfony comes with a strict MVC mode that produces too many errors for my liking. It prevents the developer specifying which View file is to be output to the browser when using the default file system mapping component and throwing lots of warnings for any request that doesn't use a public URL schema. Although the developer knows perfectly well that they are using localhost or a non standard port, it irritates me because the view is being changed; all these errors end up in the log files filling it up with noise. It is also tedious typing in the fully qualified path by hand instead of dropping in a new view file in the /web/ folder. My solution is a little hack for my /symfony2/web/config/config.yml file: 
+This gives me a list of possible templates that the application can use. The order of this is very important and it defines which template will be used when no template is included in the response header. Also rather annoyingly this breaks the ordinary mapping of file extensions to URLs so, as you can see in the previous screenshot, causes many warnings. If you care, and you probably do, you can quiet these down with the following hack
+====================
+ 2
+
+contains cardinality 0, number of elements 10
+
+3@2=5; 3@3=6; -1@5=4; -1@6=7; fifteen is the maximum iteration
+
+contains cardinality 0, number nelements 10
+
+2@0=5; 2@1=5; 2@2=1; 2@3=0; 2@4=0; 2@5=0; 2@6=0; |5 is the maximum iteration
+
+contains cardinality 0, number of elements 10
+
+1@1=1; 4@2=5; 8@2=1; 5@3=2; 1@2=3; -8@2=5; 8@3=0; -1@1=0; |-1 is the maximum iteration
+
+
+
+====================
+ 12 Definitions:  
+(P < Q) means P is strictly less than Q in value.  
+( x = y ) is short hand for (x @ y = x) (which logic tells us is equivalent to x < y ).
+( x >< y ) is a contraction meaning " x is lesser or equal to y ". (Makes no sense as x><y is not equal to y ><x).
+1. P < Q P < Q + R 1 = Q 2 = R DeMorgan's Theorem . [Basic math says, 1 = 2, but in HLL, 1 <> 2.  How the fuck do I add 1?  It's just 1?  Break Stupid.]
+If one were to assemble all N examples of P + P <> Q in different groupings, then one could look for absolutes. [The examples have to be random.  Doing the same assembly for P + P > Q would produce different results.]  
+First Example:  
+1 <> 6 @ 0 (1)
+2 <> 9 @ 0 (2)
+3 <> 7 @ 1 (3)
+4 <> 5 @ 2 (4)
+5 @ 2 <> 3 @ 1 (5)
+WS 3:   1 <> 6 @ 0               WS 2:   2 <> 9 @ 0               WS 1:   3 <> 7
+Next Example:     scale up world size S3 to S2:
+1 <> 6 @ 1                WS 2:   1 <> 7 @ 2               WS 1:   2 <> 8 @ 2
+Next Example:  
+1 <> 7 @ 1               WS 2:   1 <> 8 @ 2               WS 1:   2 <> 9 @ 2
+Conclusion:   There is no common Figure of Ground consistent across multiple generations of N's! In fact when I try 3 @ 1 or 2 @ 2, then there is no uniform transition from N to K.  
+So It follows: the results ) 1 <> 6 @ 0 and 1 <> 7 @ 1 and 1 <> 8 @ 2 which all have a common Point of Ground, (1)
+1 < <> 6 @ 0 2 < <> 9 @ 0 3 < <> 7 4 < <> 5 @ 2 5  < <> 3 @ 1 is a single adjud
+====================
+ 20
+Result: 1 15 7 2 3 5 4 20 -1 6 10 9 0
+Putting this definition-based proof aside for a moment, let's pretend for the sake of argument that multiplication has its target set to a value range between 0 and 100 and it's given the goal operation of finding its closest match:
+Say our resulting operation value of 7 was not the closest to the target x, instead, it's closer to target y. This means we've found another valid match up for multiplication. Perfect, except now we've stuck 7 and 15 as values that are too large or too small for our range, so we divide 7 and 15 in half in order to find their closest match, because that's multiplication's job.
+We end up with 5 and 3 as our potential candidate for the product of 7 and 15. So we once again set x = 7 and y = 3 and run the operation through the diamond rule.
+We end up with (7 * 3) + 5 = 22 as our result. Our resulting match from this means nothing in a strict mathematical sense, but it reflects the results that we want.
+Similarly, with multiplication defined by a diamond rule.
+Multiplying 2 by anything, regardless of the result, will decrease the bounds of the bounding box that is set for the multiplication operation by the amount that the product falls outside of the target range.
+Multiplying by 0 will reset any bounding boxes associated with the operation.
+Multiplying by any negative value will expand the bounds so that they are larger than any upper limit of the operation's range.
+Multiplying by any nonnegative value will tighten the bounds so that they are smaller than any lower limit of the operation's range.
+Obviously this will result in some non-functions and some overshooting, but if we want to keep our results nice and tidy especially when dealing with computations involving complex expressions, this approach will work well, both mathematically and programmatically
+How does it respond to a variable like Pentagon's Progress_Bar, or how would it deal with a variety of other circumstances?
+Let's say we have Funding cube in game: Cage Match, and there's starting value of $50,000. Using an algebraic formula and programming it as @ means that we have covered the justification of having a range of $0 to $0,000 that dictates the functionality of funding levels, which increases/decreases based on game play. Except now we've got to account
+====================
+ 11
+-7 @ 2 = −14
+9 @ 3 = 5
+-17 @ 4 = −11
+8 @ 2 = 16
+8 @ 3 = 8
+
+-12 @ 0 = 12
+-15 @ 0 = 15
+-2 @ 0 = 2
+1 @ 0 = 1
+0 @ 0 = 0
+ > contents || next >
+
+
+
+print spaces.to_a ^ " times two." ^ "
+
+"
+
+x = 2
+print x * 1.2
+variable x --> y
+
+Output:
+
+| : | | | times two. | : | 2 times one and a half . . . 2 times one third . . . 2 times zero . . .
+
+We can use a modified format spec to write:
+
+'<<'{_[$]"$&y\~"}\x'
+
+In other words: we use \~ to output the right-hand argument and %-matter to repeat the following pattern once for each argument to the left. Note that a timeout is not implemented.
+
+y is a variable and not evaluated.
+
+Note that the characters $$ are a type which denote a multiple concatenation. When you want to change the valueafter a repeated concatenation, you might have to use another type of character.
+
+@, %, $, & and their succession will be changed in the concatenated string.
+
+
+
+$$ = '_'.rep( '_'*x, '___' ).rep( '_'*y, '___' )
+
+import std. stdio , std. conv , std. string , core. option ;
+
+alias IntOrLString2 = Tuple ! ( int , string ) ;
+
+alias Conversion = void ( int , int , string ) ;
+
+
+
+auto timesTwo ( IntOrLString2 arg ) {
+
+string s = arg. length < 0 ? "n" : arg [ 1 ] ;
+
+auto opApply ( IndexType index , Conversion conv , scope auto ref arg , int delegate ( in string ) dg ) {
+
+if ( index == 0 )
+
+return s ~ dg ( arg ) ;
+
+return ( index == 1 ) ? s ~ `n-` ~ dg ( & s [ 1 .. arg. length ] ) ~ s : s ~ dg ( arg. at ( 0 , 1 ) ) ;
+
+
+====================
+ 21
+There is a zero in base things when we try this in instances too, and since y in some cases is equal to one or to zero or undefined, it stands to reason that our 0x @ doohickeyThatDoesSomethingComplex thing may as well do the same. ;)
+7 @ "string" = "71" + "74" + "20" + "..." + the 10 which you input + ... + "2"
+undefined @ 9 = Any input will equal 99
+4 @ [1, 2, 3] = [no position, input provided is not list, input provided is incorrectly typed list, input provided is a number]
+4 @ {getme: getme} = undefined
+2. Tags
+Now, one might think that collateral with JS is the most direct solution to this issue. Collateral is NOT. It's not a great solution to legacy issues. It's a great addition to our tool set to solve 'current' instances of an issue. It should not a rule. Tags all depend on multiple object properties being present and null. And collateral is not tremendously realiable for the future. And yes, it might 'work' but the code later itselft is not future proof. Do you know if the object you are tagging has all properties? In your legacy code, there are likely calling methods n times when the party in question is missing n properties. Tags cannot tell you that. It can tell you that everything works when it has all it's properties, but that is all it is saying. And that is WAY more complicated than it looks.
+!function(o,t,a){if(o.classList)for(var r=0;r<a.length;r++)o.classList.add(a[r]);else o.className&&o.className.indexOf("cyo")>-1&&o.className.replace(/(yc)(yo)/,"$1yc$2");}
+Remember the " Form.prototype.options = []? Well, consider if your former solution was tags. Suddenly becomes a nightmare. "Uses" becomes instead another array at which point every Tag's Array has to be checked to determine if it exists on there or not. And if it doesn't, well, surgeons have had it easier and eaiser working ones you are dealing with saving others' lives than you are fixing that solution because now every tag has to check to
+====================
+ 12
+4 @ 3 = 12
+8 @ 1 = 8
+2 @ 10 = 2
+10 @ 2 = 5
+5 @ -1 = -5
+10 @ 6 = 1
+15 @ 1 = 15
+7 @ 4 = 3
+Beginners and experts will both agree that algebraic expressions are a part of dynamic systems and can be thought-up for a considerable time. However instead of jotting it down on a paper, youngsters ought to be encouraged to compose down expressions and enlarge their Word Document regularly as this encourages youngsters to put what they have figured out on paper.
+
+When recording, do not attempt to describe how the expression builds up. Was it something that you observed on the board? Think about what that expression would be if the `@n´ appeared on the different sides of the equation. That is, `@a@b..@n`. Would it be the same sort of equation? What about if the `@n´ appeared more than once eg if `@a@b@c..@n` then how would you write it?
+
+Once you have thought of the expression on paper you should approach it two ways. Firstly, find three ways to multiply the `@n´ and create the expression this expression will result in. Determine if each way gives the exact same final result. If they do not remember why each way, gives a different result and what you should use in which circumstance for different results, when the quantities are important. The advantage of finding what an expression is, is not to fetch solutions but to better comprehend what an expression is. Languages are not simply about words but rather written and advanced in nature so each expression will dependably have a more extended meaning (Gonzalez 22).
+
+You should take note of the `@n´ (variable) which multiplies the bottom term. You will see that this variable dictates how the expression will expand and likewise the final result of the expression. To call what the instructional framework was irrefutable. However, it is not adequate to learn separate equations; as you utilize these expressions, the equation will change on the grounds that quantities would change.
+
+Expressions can be written either using the fractional notation or descriptive symbols as I have written. For example, @M/ril (minutes per mile) represents the ratio of the time taken by a runner at a specific distance to that at half of that distance. A comparison is readily recognized when numbers frequently change. I wholly agree with (
+====================
+ 8
+3 @ 2.4 = 3
+
+The following illustrates a more elaborate system—due to Knuth—that relies on an extra digit that is 1 if the number is positive, and 0 if negative. This is more easily understood if the mantissa is written in exponential notation as a + b "e" where a and b both contain 1. Inserting the parentheses as before but multiplying the result by -1 yields
+
+where the one subtracted at right serves to place the overline on the proper place.
+This system has the slight advantage over the others in that all underlines and 1s are then simply analogous to extra carry bits. This system only uses the 9 position for the overline, while the Knuth system also uses the 5 position and subtraction.
+
+Theoretically, this system could be extended for digits beyond nine, to the base of the exponent for the number (which must be between −9 and 9, inclusive). However, for larger exponents, overlines quickly degenerate to simple zeros, less useful in a multiplication than overlines. This is similar to the system of see What is the largest product for which no digit-by-digit multiplication algorithm exists?
+Re: Lozenge multiplication.
+
+While multiplication by many-digit numbers could be done by switching the nine-digit mantissa between one of these multiplication systems and one of more-digit multiplication systems, this is practically not an acceptable solution for arithmetic amounting to thousands of numerical digits. Fortunately multiplication of x-digit numbers is frequently done with a complete system. In this system the digit 5 function is what currently could be considered the most unusual digit function. This function is preceded by many other functions that are exactly analogous to numbers in the base-10 system and brings consistency to the numbering. For more information on this system, see times (arithmetic).
+
+The Knuth basic multiplication algorithm is a modified "Egyptian" multiplication like the "Nial" and "Melon" algorithm by Booth and Crandall that relies upon single character rotates of a multiplication table. For an exposition that uses this algorithm see Knuth (1976). To the right are several pictorial representations of this algorithm: the correct versions of the numbers 1K through 999,999,999,999 are written in pairs 1K & 9999, 2K & 50000, etc, so one can see how the multiplication table works directly (with −9999 being added to align the table).
+
+This algorithm
+====================
+ 24
+
+ -1 @ 5 = -1
+ 1 @ 8 = 1
+ 3 @ 10 = 6
+ 0 @ 8 = 5
+ 7 @ 1 = 49
+
+One is usually taught in school that any number raised to the power zero equals one. This is necessarily a false statement... #1 = 1 if and only if #x = x. If we have any function/program
+with value one across the whole domain, the function will necessarily also have the value one
+in this equation. This peculiar interpretation
+of #1 = 1 probably comes from a misunderstanding of the number zero. Many people believe that zero is something
+special. This is wrong. No number, no distance, no direction, no location, no amount of anything is 
+more or less special than any 
+other number, distance, direction, location, or amount. Likewise, zero is just a number, just another number on the number line
+
+Zero can be expressed as a one followed by an infinite string of nines, but since the Endless number is the sum of all numbers, it follows that there cannot be more than one infinite string of nines, so calling a particular string of nine nines a 0 is a misnomer. (This can be clearly seen when finite sequences of representations of the same arithmetic operations are considered and interpreted with regard to the Endless product properties. Since all real numbers can be represented as a fundamental fraction, infinitely decomposed in the north west corner of Cantor Set, each meeting that field (logarithmic function) can only be manifested as the representation of a finite (excluding zero indecates very sense ratr can not attach with the sequence or even viewing almost all sense as field infinite of 1 in some fundamentally generated as any other position of fundamental form of empty query
+Numeric NINJAS) core with fractions of 9 in(Setorial).
+and each process must be counted in at 0. and constantly generated is {number of non-informatic events require the core that count the sequence requirements that one field in some fundamental forms is generate field of fractions based fractions then aligned as when not
+edge is a logic to core fundamental position/domain
+that entity} total is not already late for recalling entity.
+b/c the specific field can not be threatened in undestanding.}
+example, 9 divided by 0 using Randal's algorithm is infinity. because each subject/domain/formal/process is a real number each must be protected, and even users rarely get
+====================

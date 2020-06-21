@@ -25,3 +25,4 @@ In practice, you would use `temperature=0.0` and a `stop_token` to return only o
 - `mtg`: Magic the Gathering cards, in Gatherer format.
 - `kubernetes`: Kubernetes YAML manifests.
 - `grammar-correction`: Grammar correction task
+- `custom-operator`: Custom mathematical operator
