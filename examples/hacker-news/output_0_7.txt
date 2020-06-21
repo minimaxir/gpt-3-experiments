@@ -1,0 +1,339 @@
+
+Inside the Army’s AI-Powered Fight Against ISIS Propaganda {652}
+Paddle8 raises $25M for art auctions online {906}
+Google shutters Cloud Natural Language API {547}
+Using Bokeh for your first Python data visualization {583}
+Windows 95 Source Code Leaked {524}
+CERN open-sources a bunch of software {505}
+Bose smart glasses leak details about the next wave of wearable tech {684}
+iOS 13: Taptic Engine to enable 3D Touch-like effects {579}
+The European Union is taking a stand against Apple, Google, and Facebook {607}
+The desktop app is shutting down {681}
+Why we should expect more and better cyber attacks {908}
+How to Deal with Toxic People {1292}
+Show HN: The “Android Malware Of The Day” Web Site {645}
+Apple is preparing for the shutdown of Adobe Flash {641}
+Elon Musk is upset with the media, again {671}
+How to Prevent Browser Tracking and What to Do About It {678}
+Blockchain is the perfect place to store mission-critical data {690}
+Artificial Intelligence: A New Kind of Science {1448}
+Spotted on a recent issue of Fortune {710}
+How To Use Google Sheets Like A Boss {946}
+To Save Time, This Man Copied And Pasted His Way To A Master’s Degree {687}
+8 steps to the best freelance rate {789}
+NASA's JPL announced their Deep Space AI program {694}
+Just how much time are you wasting in meetings? {689}
+How To Set Up A Git Server On AWS {695}
+The Verge is shutting down their comments section {745}
+If you don't have a domain name, you might be missing out on sales {763}
+Is Your Computer Running a Bit Slow? {802}
+Tired of Unnecessary Meetings? Here’s How to Fix Them {822}
+Can we avoid AI's mistakes? {824}
+Microsoft is making it easier to set up a free Azure instance for testing {839}
+Should you use the Inbox or the web app for Gmail? {894}
+The Ultimate Guide to Landing a Job at Google {1348}
+Show HN: Confide - Encrypted Messenger for iOS and Android {
+====================
+
+Brief: Announcing Spark 2.0 with Stateful Computations {557}
+This free Mac app automatically checks in your code on GitHub and GitLab {897}
+I created a chatbot for Instagram that will like your photos for you {1101}
+SaaS or as a service? {891}
+On board WiFi {722}
+Amazon backtracks on Whole Foods $15 minimum wage after blowback from conservatives {546}
+Airbnb Is Censoring The Words “Housing” And “Unite” On Twitter {740}
+Apple is working on an iPad with Face ID, smaller bezels, and no Home button {734}
+Apple is developing a second, cheaper, iPhone with LCD screen {1143}
+Pixel 3 XL has a notch, but it’s not the iPhone X’s notch {743}
+The Distributed Scrum Primer {546}
+Blockchain Companies that Use Meritocracy, not VC {874}
+Google is rolling out a new web UI for Google Maps, including big changes to Explore {1104}
+New data shows the majority of tech companies’ revenue comes from iOS {539}
+WordPress VIP: Is it worth the money? {904}
+Wired’s new magazine is aimed at “smart people who like to read” {1229}
+Is it worth learning to code? {507}
+What's it like to work in a team with no formal process? {795}
+What is your most hated programming language? {1124}
+Are companies that force employees to wear dress shoes getting out of hand? {593}
+How does Stack Overflow's meta site stack up against other meta sites? {1326}
+This free Mac app automatically checks in your code on GitHub and GitLab {897}
+Unicode in Python {522}
+Getting to know you {829}
+Windows Defender is finally useful {523}
+What does a web browser that isn't afraid of JavaScript look like? {742}
+Open Source JavaScript Spreadsheets {1108}
+Spark 2.0 with Stateful Computations {557}
+We need to rethink how we handle hate speech online {525}
+Why you shouldn’t use a single password for multiple websites {1110}
+My own attempt at making a kickstarter. What are your experiences
+====================
+
+This self-taught developer just created the fastest-growing project on Github, and he’s not even 20 {715}
+Pig, an experimental interpreter for Python {908}
+Why did my social media disappear overnight? {791}
+On Ethics, Immanuel Kant, and the Black Lives Matter Movement {753}
+The Inside Story of GitHub's Sale to Microsoft {948}
+How Do I Get a Bug to Behave? {924}
+Show HN: The Official Suckless Repository on GitHub {729}
+Is a flat, 100% tax rate the solution to inequality? {904}
+GitHub secretly (and publicly) spied on developers for years {827}
+A guide to 3D on the Web {772}
+The Business of Being an Indie Hacker {794}
+How to make money in Bitcoin in 2019 {825}
+Let's Get Together! {1293}
+The Last Jedi on GitHub {1201}
+GitHub removed the star button and replaced it with a heart button {1202}
+What are the most useful skills to have for 2019? {1229}
+I just moved my site to GitHub Pages, and now I have a 403 error {1232}
+‘We have not received any complaints’: Google and Facebook not interested in protecting EU users from hate speech {1235}
+Should You Work For Free? {1242}
+The BBC Micro:bit - the computer that taught a generation to code {1244}
+GitHub slashes storage prices for businesses {1245}
+Two massive changes are coming to GitHub, and it could be a good thing {1249}
+Replace CodePen with this {1254}
+How can I earn more as a freelancer? {1256}
+Show HN: The Lightboard - Lightboard.js, a javascript library for rendering images on the DOM {1257}
+Coding Horror: We Have a Bug {1265}
+GitHub Sells Code-Hosting Service to Microsoft for $7.5 Billion {1268}
+An alternative to YouTube for video uploads {1271}
+Ask HN: How do I avoid bad coworkers? {1272}
+Ask HN: Which development tools are being used by the HN community? {1273}
+If your company has a bad culture, is it OK to leave?
+====================
+
+How do you know when to upgrade your code to TypeScript? {1163}
+Atom v1.23: lots of goodies {1207}
+Ask HN: What are your productivity tips and tools? {715}
+Mac apps are starting to feel stale {733}
+OpenSSL 'heartbleed' bug allowed hackers to steal data from computers {702}
+Zapier v2 {903}
+Tracking, Recording, Monitoring {1159}
+Survey of the best practices for remote workers {633}
+Sudo “sudo” {716}
+Who invented the web? {846}
+The New Era of Web Design {1004}
+A Fuzzy History of the Web {907}
+Build a better GitHub with free tools {1276}
+Why Do Companies Offer Unlimited Vacation Time? {539}
+The Best Email Signatures in Tech {1204}
+The top 10 free web design tools {1208}
+Time to Upgrade Your Monitor {1198}
+The End of Adobe Flash Player {851}
+A Bug in Apple’s Face ID Led to Arrest {671}
+Over 100 Years Ago, Apple Was Invented By An 18-Year-Old {1263}
+How I built a global community of data enthusiasts {1166}
+Mozilla Firefox is now available on Amazon’s Echo Show {696}
+New Facebook Dating Feature {902}
+Nova Launcher Beta Gets Improved Icon Packs {798}
+How to Make Your Company More Socially Responsible {898}
+My car can automatically refuel at the gas station {648}
+Google, Apple and Amazon made secret deals with smartphone makers to protect their apps, report says {686}
+A New Chrome Extension Makes It Easier To Find Free Stock Images {734}
+Apple adds live-streaming sports to Apple TV app {1052}
+Here's a guide to what Google, Amazon and Apple will unveil at their big events {708}
+Microsoft Azure App Service and GitHub combine {1028}
+What is happening with MacOS? {794}
+The TensorFlow.js open source project is now on GitHub {1084}
+Telegram adds stickers, supports 360-degree videos, and adds animated GIFs {928}
+The most valuable startups in the world, 2018 edition {1062}
+O'Reilly Media will shut
+====================
+
+A new programming language: VerbalExpressions {578}
+The Next Generation of Makerspaces {530}
+Amazon’s Alexa recorded and sent a family’s private conversation {1022}
+Tape.tv wants to take down Youtube {1252}
+Nvidia GeForce GTX 1180 Ti: What We Know So Far {543}
+In praise of the text input box {530}
+IBM launches blockchain-based payment network with Aussie banks {1066}
+Hacker News Threads of 2018, Part I {513}
+FreeCodeCamp Launches Free JavaScript and React Courses {571}
+Firefox and Chrome will stop supporting old web plugins like Java, Silverlight and Flash {743}
+Why I am stepping down as the leader of my startup {1006}
+Yahoo secretly scanned customer emails for U.S. intelligence {1017}
+Programming languages and performance: The 2018 survey results {515}
+How To Block All The Bad Ads On Your Phone {924}
+The FCC will take over the U.S. Internet. Not a joke {1069}
+Hacker News Threads of 2018, Part II {1003}
+I spent 10 years in Silicon Valley. Here’s why I’m moving back to Canada {1063}
+What happens when you fight back against online abuse {1073}
+Why I'm making an AI to automate my online life {1084}
+How To Work On Hard Problems {984}
+How to block all the bad ads on your phone {924}
+My last few months at Amazon, leading Alexa voice design {1072}
+How many of you know that the team is working on something that no-one wants? {620}
+The Harsh Reality of Data Science {967}
+Hacker News Threads of 2018, Part III {1253}
+React, Redux and GraphQL for Rails Developers {1129}
+How I got fired from my job at Apple {1138}
+FreeCodeCamp Launches Free JavaScript and React Courses {571}
+WebAssembly in 2018 {1259}
+Podcast: JFDI: An Idea for Silicon Valley {1248}
+Microsoft bought Github {1071}
+Man in his 20s dies from overdose of designer drug Spice {1209}
+Which is the best software development framework in 2018? {1176}
+Why I
+====================
+
+How To Add a Datepicker to Any HTML Input {948}
+YouTube goes down as hoax bomb threat causes chaos in San Bruno {690}
+Amazon reportedly pulls plug on secret AI recruiting tool that showed bias against women {637}
+Mozilla starts the work on ‘Logan’ to deprecate Flash in Firefox {593}
+Most popular programming languages in 2018 {1032}
+Mark Zuckerberg will testify before the European Parliament about Cambridge Analytica scandal {715}
+Show HN: Clear, self-hosted, password-less, no-frills, no-bullshit single-sign-on {906}
+Intel Security is hacked by Fancy Bear, claims to have evidence of Russian spies hacking the DNC {547}
+Who's Afraid of the Big Bad Cloud? {873}
+A former Googler has made a bot that tweets random, racist quotes from Adolf Hitler {590}
+Don't hire programmers. You are not hiring a human being. You are hiring a particular set of skills. {793}
+JavaScript Fatigue {695}
+The browser that lets you take notes in code {678}
+Show HN: "Test all the things" is broken and here's how {797}
+Microsoft's Edge browser gets a speed boost, to match Chrome and Firefox {597}
+All My Friends Are Dead {716}
+GitHub Enterprise has a remote code execution vulnerability {641}
+The Onion: all the news that's fit to fudge {731}
+Racist, violent, and harassing posts get banned on Facebook, Twitter, and Reddit {610}
+You may not like these stories about Facebook, but you should still read them {676}
+The Startup Playbook For Your Next Tech Career {1043}
+Microsoft will soon allow you to run Linux apps on Windows 10 {1052}
+Mozilla Firefox will block auto-playing video with sound by default {813}
+FCC Commissioner slams Twitter over "one-sided" response to anti-Semitism {649}
+How I'm Spending My Summer Vacation {834}
+The Facts About Amazon's Echo Speaker That No One Will Admit {763}
+Intel and AMD respond to Google's TensorFlow Lite by releasing Caffe2Go {844}
+Litecoin mining on a PC with a Radeon RX 470 {869}
+If You Have To Overclock,
+====================
+
+IBM’s Watson to predict early breast cancer diagnosis by mining scientific papers {702}
+Learn how to become a CTO of a successful tech company {638}
+Interview with a Guy Who Wrote a Book on Solving the Rubik’s Cube {605}
+Visa ‘committed’ to supporting payments made via Apple Pay in the UK {651}
+How do you make a GUI for a command line program? {732}
+Video games from your childhood are back, with a blockchain twist {597}
+I need help creating a web-based cms that allows user to input text {1092}
+Shared Internet Resources {1150}
+Free education for everyone, for the rest of your life {719}
+Apple’s WWDC: What to expect {1087}
+Software Engineering vs. User Experience {948}
+“It was about me,” said the machine. “I have always been about me.” {876}
+New Research Finds Tech Companies Are Pushing People To The Far Right {748}
+A 2018 technology timeline {797}
+I'm moving to Berlin and need to meet people {1096}
+Interview with Adam Curtis {908}
+Interview with Ray Kurzweil, a pioneer of machine learning and artificial intelligence {921}
+Microsoft Sued Over Skype Patent {1089}
+Selling the future: When marketing trumps product {1134}
+New Year, New YouTube Changes {788}
+Google’s Duplex, the human-sounding AI assistant, now available to everyone {900}
+The Ethics of Deep Fakes {1076}
+Top 10 Tweets of 2018 {1119}
+The real purpose of fake social media accounts {972}
+Raspberry Pi Zero W {1013}
+Facebook opens its first office in Africa, in Ghana {929}
+How To Remove A Job Posting From The Internet Forever {976}
+A Microsoft employee explains why he refused to help ICE {1006}
+Red Hat takes on Kubernetes with OpenShift, to enable enterprises to manage containers at scale {1008}
+Why are women more likely to be depressed than men? {1011}
+A Little Language That's Way Too Hard To Learn {1012}
+The iOS home screen is too messy {1134}
+10 years later: the iPhone
+====================
+
+Apple Mail ‘Switch to IMAP’ broken for me in Mojave {632}
+I started a company to change the world. But I couldn’t change my company {728}
+How do you decide to accept a job offer? {664}
+A tale of two feature flagging libraries {749}
+To-do list and goal-setting app for Android, with customizable widgets and Material Design {963}
+Microsoft has introduced the N-Series of the Azure cloud platform {1067}
+You don’t need to read the whole Medium article to see if you like it {676}
+Spotify comes to the Windows Store {749}
+Fuzzing open source software to find vulnerabilities {682}
+Mozilla will stop shipping Firefox with Adobe Flash by the end of 2020 {863}
+How to design your product to support your customers when they need help {739}
+GitHub adds beta program to allow testers to flag issues before release {634}
+You can now create a profile page on GitHub {637}
+Why your company doesn’t need an app {638}
+Vimeo adds 360-degree video and voice messaging to its mobile apps {656}
+Twitter adds ‘pre-emptive’ option to lock your tweets {746}
+The Top 5 Reasons Why the iPhone X is the Most Important Apple Product Since the iPad {756}
+Facebook quietly updates its data policy to allow its apps to collect more data {807}
+Designing a remote team that can communicate {835}
+Futures, the missing feature of Python's asyncio {858}
+What it’s like to be the first woman to design a car for the Ford Motor Company {870}
+Red Hat and Microsoft expand partnership with container-focused initiative {742}
+How I became a writer without any formal training {885}
+Podcasting: The Missing Manual {883}
+GitHub now lets users migrate their repos to another service {926}
+The Story of Github’s In-House Recommendation Engine {1132}
+Netflix's open source cloud tools {862}
+Instagram testing new option to share posts from non-public accounts {937}
+Mozilla releases Firefox 65.0 with better screenshot tools, a new design for the default start page, and more {947}
+I started
+====================
+
+SpaceX CEO Elon Musk: Tesla is cutting 3,000 jobs in its bid to become profitable {639}
+How to be the best programmer in the world {649}
+HP announces it will start paying employees in Bitcoin {543}
+A community of academics is pushing to get papers out of paywalls {594}
+Walmart is giving cashiers robots to help with bagging and other tasks {639}
+Couple says Alexa recorded private conversation and sent it to random contact {659}
+Podcast: ‘Designing Sound’ – from a sound effects editor at Lucasfilm {593}
+Flu season is here. How to not get sick {655}
+Docker pulls support for Windows Server Containers {632}
+Show HN: Easily and Quickly convert Google Sheets to CSV {611}
+How to use my free SSL certificate with Node.js {589}
+Microsoft launches first Linux-based Azure Blockchain Workbench {627}
+The company that makes weed brownies is now selling a THC-infused energy drink {633}
+Oculus has pulled support for Oculus Rift on 32-bit Windows 7 and 8.1 {616}
+Microsoft will soon start blocking insecure HTTP sites in the latest Windows 10 update {648}
+Google kills the first-click free rule {615}
+Show HN: Curated directory of Podcasts {550}
+The inventor of the World Wide Web: ‘It's terrible. We can do so much better’ {660}
+Redesigned Skype for iOS is now available {661}
+The military has been using AI for years, but is just now realizing how dangerous it is {669}
+You’re in a new city and want to get the best cup of coffee. Which is the best place to go? {654}
+Microsoft is building a Surface Go competitor to the iPad {680}
+How to become a digital nomad {734}
+Google is planning to ban cryptocurrency mining extensions from Chrome {642}
+The ethics of free-to-play {812}
+Show HN: Decentralized Bittorrent Tracker {656}
+A billion-dollar investment in cryptocurrency mining {668}
+ThoughtSpot, the next big data analytics startup, is founded by former Cloudera execs {632}
+Free Webinar: AI, ML, DL – The Complete Machine Learning Guide {684
+====================
+
+Progressive Web Apps: A Practical Guide {703}
+Does anyone here use Adobe Reader? {1013}
+Review: The Imitation Game {876}
+One of the most popular repositories on GitHub is a Russian email harvesting tool {635}
+I’ve seen how digital products can kill your business {657}
+Techmeme archive for April, 2018 {1193}
+Universities are taking too long to teach students how to code {685}
+Researchers 'find serious vulnerabilities in Bluetooth' {1018}
+Using Unicode in Windows {1019}
+'Call of Duty: Black Ops 4' launches Blackout mode, a battle royale mode similar to 'Fortnite' {1303}
+iOS 11.3 and later includes AirPlay 2 and a TV app {1104}
+Scientists found a simple way to boost workers’ productivity {1036}
+Programmers need to think like mathematicians {1042}
+The Most Common Password Is Still ‘Password’ {1055}
+How to Secure Your Accounts When Changing Passwords {1056}
+LinkedIn ‘Project InMail’ archive {1058}
+‘Super Mario Run’ Is About to Have a Huge Update {1143}
+A Year After Google+ Shutdown, What Happened to Its Devs? {1159}
+The Secrets to Managing Distributed Teams {1176}
+Tim Cook’s Face Looks Like a Mashed Potato Sandwich {1178}
+MIT to offer Computer Science with a free online version {1180}
+MIT to offer Computer Science with a free online version {1180}
+Why Hiring A Hacker Is Easier Than You Think {1205}
+With AI, even the simple stuff can feel superhuman {1206}
+Microsoft’s Cortana chief is leaving to lead Amazon’s Alexa {1209}
+How to make sure your code is up to date {1210}
+Apple Pay Cash Debuts in Apple’s iOS 11.2 Update {1212}
+Paytm Payments Bank has run into a banking license issue with the Reserve Bank of India {1221}
+Risks of Monetizing APIs with Bitcoin {1225}
+How to set up an Angular 7 Project {1228}
+Some big-name companies are blocking ‘HTTPS’ in their URLs {1236}
+The True Story Behind Twitter’s Heart and
+====================

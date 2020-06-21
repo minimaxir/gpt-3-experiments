@@ -1,0 +1,266 @@
+
+Deadpool 2 is now streaming on Netflix {721}
+Intel unveils massive AI chip for autonomous machines {1212}
+Polish Gov’t Creating a Tool That Allows Anonymous Reporting on News Websites; Experts Fear Orwellian Decline Of Speech {844}
+Hidden in Plain Sight: Microsoft’s Rural Digital Skills Initiative {1147}
+Metal Mail Client {472}
+Theranos Parody Videos {234}
+Blog - howto: Switch shared hosting to [M]any paying customers {1223}
+ESL One Announces Major Rocket League Tournament and Dota 2 Minor Online Tournament {1277}
+Handling Memory Leaks {895}
+Hackers stole $325 million in cryptocurrency from Japanese exchange Coincheck {277}
+Docker in 2018 {1289}
+Write Time-Traveler JavaScript using Babel {653}
+Yandex pushes users to use Captchas to cover identities {489}
+Ireland set to become hottest place on Earth due to climate change {473}
+From Prove to Create {144}
+What's new in Python 2.8.1? {551}
+Get Started with GraphQL {494}
+GitHub is open-sourcing their elegant code search and navigation tool {464}
+Insta-Gib: Understanding GZIP Compression in Go {570}
+Four Hot DevOps Influencers To Watch In Second Half of 2018 {763}
+BitCloud Releases a Lightning Network 1.0 Alpha; No One Seems to Care {842}
+MP3: The clear winner in the codec wars {242}
+Amazon and Turks protest: Employees in Europe and Asia gave their governments huge headaches — now we’re seeing the results {302}
+The 6%. Part 2 {1184}
+Creating CDP-style Impressive Design Documents {1332}
+Why web designers should code more and clients shouldn’t demand design mockups {773}
+Web Design Software: Can You Be Original? {1071}
+CSS Masking: Maybe We Should Talk About This Too {1054}
+7 tried-and-tested CSS techniques to turn divs into pancakes {1036}
+Microsoft ‘does not want to sell you a Win7 upgrade in July’ if you already use a pirated copy {685}
+Adobe makes an OS update for the iPad Pro Line {377}
+MAC Address Randomization for Arbitrary Devices {
+====================
+
+Doctor fired after ordering blood tests injured patients after crash {632}
+ViewHound Find Anything, Anywhere From Anywhere {769}
+Algorithms for Detecting Violent Extremist Images Without Supervisions {812}
+NAND gate scale visualization {844}
+Welcome Facebook's all-seeing 'GLOBALFOUNDRIES' {1196}
+Columbia University Fires Emma Sulkowicz's Accuser In Citing 'Lack Of Expertise' {849}
+The District Anthology: 14 Pittsburgh-area developers join forces to create a comprehensive port of DOOM II for every platform and cellular devic… {1062}
+The Genesis of Modern Awareness and its Degeneracy {832}
+Out of Control Asset Pricing: "Time Banking" in California {786}
+Study finds teens who regularly use smartphones are less happy and sociable than those who don’t {1018}
+AdBlocking API v0.1 {517}
+All signatures trusted: fake okcupid Google Analytics bypass {731}
+Stop Dragging Mobile Sites Into Vertical Formats {541}
+New York seems to cause people to go crazy {764}
+Rishabh Agrawal, co-founder of Niche and writer of the And That's The Way It Is newsletter, dies {484}
+Esquire and GQ should have some sort of accountability {1273}
+Saved sumens och wattage {1112}
+PBS Frontline artist uses Mark Zuckerberg as subject matter {565}
+Logs of containers with public key permissions {777}
+Visa workers "terrified" to complain to union {629}
+PIN code recovery block in Android 8 {734}
+How To Manage Provably Safe Smart Contracts {483}
+Ban's Back {942}
+Browser History Analyzer {711}
+Microsoft Teams joins the Google Play store {581}
+Quick and dirty reply for DMs {904}
+Email This Post - Share This Post -Friendly Update - Priority Update - Get Your Artsy fix Snapped up by Pinterest? Find out here!
+Yep, another API has been deprecated {855}
+Net Neutrality Repealed. Keep Calm and Signal at Protonmail! {713}
+“Man of the world when he was a little baby boy” {650}
+I'm writing an anti-harassment policy for
+====================
+
+Cisco 7871G-24TS Gateway will no longer receive engineering updates {756}
+Take my word for it, Kaspersky anti-virus for Mac (yes Mac!) is worth using {591}
+A technology company requires applicants for Japanese data management engineers {758}
+What enterprises are aiming to do in 2018? {795}
+Who is best placed to make AI-driven technologies?, A16Z or top-tier AI researchers? {794}
+How do the Go-bots actually work {613}
+VP9 .FLV in Safari fails to play {1539}
+Stratis announces Breeze Masternodes — allows earning of block rewards in a trustless and decentralized manner {721}
+Internet Censorship of Dating Sites 2017 {731}
+Scan and share doctors receipts with Robinhood {787}
+
+Viel zu kompliziert für uns {695}
+Tech Confessional: Admitted my Security Mistakes on YouTube {606}
+Big displays are making us feel bad about our parents {707}
+Clark Rockefeller: Amazing Jekyll Theme for Static Sites {685}
+SARA 2018 Call for flavor {628}
+Critical Ubuntu bug allowed guest host to access host’s root file system {1672}
+What are the benefits / risks of upgrading a distributed system running on a variety of open source languages and frameworks? {953}
+The true cost of being falsely accused of a crime. {869}
+Visual Studio Installer, a 50mb exe {296}
+Amazon HQ2: some criteria for choosing the destination {574}
+Swift Performance: '-' versus '+' {574}
+This open-source project will bring mindblowing 3D movies to your browser {638}
+Streamz.io {665}
+How AMP escaped slow death (2018) {667}
+YouTube Infantilizes Its Creators and Their Content {675}
+RIP Chat Group, 2017–2018 😩 {201}
+Social media engagement after the Facebook and Cambridge Analytica data scandal. {1743}
+Microsoft kills .docx. {742}
+Project Gutenberg: free and legal books, period {761}
+A letter to the creators of "re:web" in the Amiga demo scene {833}
+Backblaze Launches SSL Backups - 1GB for $5/month {863}
+Now, Use
+====================
+
+Terrible Idea: Email unsubscribing, wait before subscribing {859}
+How many enterprise or government orgs use AWS vs 4 year old self hosted AWS {672}
+Show HN: New Uber for long distance, will compete with van startups {839}
+Reddit work hard and smart: Zubair Jandali, Director of Growth at Zapier – AMA! {598}
+DNSimple Sponsors Mailgun Meetups {712}
+Show HN: Decat – write reverse, 5x faster JavaScript than their Chrome counterpart {624}
+Shower thought: from native mobile to React Native and back again {818}
+Location of TLD .Fund explained {1015}
+HackerNews Weekly Show for January 14th, 2019 {462}
+IRTI-Group Mission, Stealth (hip hop) {1207}
+Javascript Code Coverage Comparison Workshop {620}
+Proprietary Facebook behavioral experiment prompts leave by notable employees and others {444}
+Yet Another Bigbank Lets You E-Transfer Money Into Bitcoin (USA Only) {295}
+CFTC files fraud charges against those running My Big Coin Ponzi scheme {688}
+What Mozilla is doing with JavaScript {427}
+The Top 10 programming languages in 2019 {1239}
+Avoiding Legal Trouble; What constitutes actual and constructive knowledge of guilty party {1229}
+Google Project Superior by Google Brain Team {480}
+Light of the month - Bruce Lee {233}
+====================
+
+I broke the Coinbase phone app and I'm not sure which team I should tell {811}
+Advances in relativity limit what can be observed and what experiments taken {610}
+My startup failed because I didn't talk to users, I just read about others' successes {559}
+Google Pixel 3 has the best still camera I’ve ever used {945}
+Slack is an engineering company that happens to have an all-chat product. {714}
+Coffee is king in the developer world {596}
+So finally, Django 1.11 is not released (because of the web framework name contradictions) {506}
+Company was not able to take a customer or appointment successfully from android app. {904}
+The truth about UX design testing {717}
+Math.js, the open source JavaScript library for mathematics {604}
+If you build a shitty product, the business will fail {830}
+Quick cache profiling with Logan {1196}
+Systematic Shutdowns of 24 Fox News Figures Led by Trump's Aide {604}
+Use your phone to control your desktop {1972}
+Show HN: Will using Emoj.D prevent my emojis from degrading? {101}
+Quora layoff {744}
+Incels (or 'Involuntary Celibates') can be a group of harassment-prone fringe extremists but in short, they're people who aren’t having sex. {512}
+What are people so afraid of? {1027}
+How To Solve The Interpolation Problem {338}
+The Disappearing Freelance Transcriber {983}
+Don't Sleep on Multicore Unified Memory {632}
+Don't Trust Random Number Generators for Some Code {727}
+The Ultimate Guide to ‘Microservices’ {121}
+In a conversation with him, a co-worker called me a stereotypical cheerleader for new technology. {367}
+Cat gifs, which one? {370}
+I Don't Understand Flat Design {145}
+We Chat and use Microsoft Translator for some tech support {593}
+Standing desks are bullshit {1075}
+Why is everyone abandoning PHP? {1194}
+Florian Brandmüller open sourced real Google Smart Compose "literal language models", officiailly {841}
+Netlify help {747}
+Show HN: Everything is a
+====================
+
+====================
+
+Show HN: Web browsers written in Kotlin {730}
+This wall construction paper spelled out 4.5M by 5M {567}
+Nerds, Startups, and Utopia {575}
+Programmer Barbie {526}
+THE LARGEST LETTER WORDS IN THE ENGLISH LANGUAGE, ACCORDING TO GOOGLE {593}
+Hacker News Podcast – Animate episodes and make most of them 1:1 {1184}
+#WeAreLATech.-+++++++++++++++
+====================
+
+Matt Mullenweg on WordPress, Calypso, Gutenberg, privacy and more {140}
+What does the highest revenue site do? {853}
+Looking for a non-technical designer to build me a logo {666}
+Show HN: Juiceee.me gives you 100% of your money back if they can’t beat competitors' prices or deliver in 3 hrs {328}
+YouTuber cements his head inside a microwave to "prove" it's safe {537}
+Would you ever build this canonical graph of Q&A sites on Quora? {297}
+Avoiding bugs — The curse of knowledge {696}
+Human-dependent machine learning outperforms "unbiased" approach {212}
+Alibaba Drops Antigraft Oversight in One of Biggest Victories for Growth {650}
+List of alternatives to Amazon cloud services {511}
+The Patient's War Against the Computer {1082}
+Show HN: (not) profitable {822}
+Companies aren’t staying private longer {820}
+Show HN: What has your company been using to track time to do stuff? {601}
+When breaking functionality is the new strategy {819}
+I'm going to college, should I become an engineer? {616}
+Smart contract vulnerabilities {1045}
+One Million Sears Brands Lost and Never Replaced (Also, 11,000 Sears Brands) {128}
+GreatNews, a Hacker News app for iOS {509}
+So I had a massive 419 scam thought today {1018}
+scapy: The Python-based interactive packet manipulation program {1085}
+Git is a [really] bad version-control system {632}
+UAlice - Preventing Censorship with Bias-Resistant AI for Blockchains {955}
+An elite network of libertarian tech billionaires found ways around nearly every campaign finance law {1039}
+When the person you hired to save your company destroys it {796}
+Show HN: A one time use simple stream cipher {474}
+Tesla did paint nearly 400 cars in a single day two years ago {99}
+YouTube worker at center of livestream experiments troubled past, smart on privacy {1068}
+How To Change Your Name On Facebook {130}
+Home, Fully Automated with a Hubitat {1033}
+Still using Excel? Switch And Join The Band! {1037}
+
+====================
+
+Microsoft Surface Precision Mouse review {821}
+The Business 740 2.6 GHz is the lowest power laptop that works on Project Fi {434}
+Let's use the camera's viewfinder as a kind of Chromecast, and unscrew batteries. {613}
+Podcast #83 backchannel ← {511}
+Did WordPress just change something that broke my site layout? {421}
+I can’t seem to mute this new user who has no notifications {627}
+Javascript Typescript Types Types of F*cking Types – Typescript Warnings {678}
+If you are a single parent & looking for love, then dating site wants $75k to match you with strangers {944}
+IIS 10.0 Stops Working Once SSL is Enabled {957}
+Microsoft acquires Typeform, a third-party survey form builder & respondent database {706}
+Azure Stops Working After Migration, and I'm Pretty Sure I Know Why {390}
+Perpetual Campaigns: The way our candidates talk about other candidates is grounds for concern {226}
+GitHub Canvas – The Easiest Way to Create and Share Collaborative Diagrams From Your Terminal {260}
+How a sentence could get you fired from your job in the high-tech industry {240}
+Shy Guys Retreat Brexit Vote {642}
+Cat on a Leash {843}}{6400
+The Heroin Business Model {399}
+Breakups: The Racket of Science Journals {97}
+Amazon's new all-electric cargo airship, the signature of their vertically-integrated service.
+Soundcloud will kill play counts {683}
+Coca Cola surfaces in Mac OS X via Safari's auto-complete {352}
+Yeezy Boost 350 V2: the $530 sneakers outselling everything else in the world {908}
+WebAssembly is neither ‘fast’ nor ‘safe’ but ‘safe-ish’. {1610}
+New MacOS Preview {1120}
+Bus passengers on 5G’d No. 24 face congested Wi-Fi connectivity {959}
+Software Freedom Conservancy donates $50,000 each to Libreboot and Guix {1551}
+Introducing Juno, Your Official Shuttle to experiences where Location Others… {1599}
+Screenplay.JS {550}
+HN Wishlist:
+====================
+
+Tim Berners-Lee: Myerson, I'd like to meet you {610}
+The Twitter Rules {782}
+Evening meetings tax employees’ time − and health {856}
+French ‘Tech Titans’ Refuse to Answer Questions in Paris Senate Over Violation of User Privacy {700}
+Hard Fork Decentralization is Non-negotiable {803}
+Apparently a sign of the times: I was gifted my BDFL sticker last week. I was caught unawares; speechless even! I unveil! {485}
+Email, search and digital are "natural monopolies" {1226}
+Olympics footage is being curated and preserved by AI tools {1997}
+iGrow – The smart light spectrum glasses {809}
+HTML5 canvas animation made simple {1040}
+NUS student job malaysia {357}
+Serverless: Why I moved from AWS Lambda to GCP Function {1231}
+The Quest: Make You Ignore Every Ad for the Next 4 Minutes {570}
+Brexit Britain has doubled its share of tech IPOs, study finds {298}
+Personality traits are correlated to programmers’ choice of preferred programming languages {832}
+Kotlin 1.3 includes erased implementations for some common types {600}
+Clear your throat to deactivate the Google Home Assistant {1355}
+Spotify Is At Risk of Getting Obliterated by Voice Assistants & Streaming Services in the Future {789}
+Fab.com part 2 – UNCESTING {623}
+Hotmail didn't do encryption until 2014 {291}
+What Happens if We Don't Switch to HTTPS? {922}
+Battle of Lake Erie reenactment fails at historical accuracy {1764}
+The Open Source Solar Eclipse {665}
+Stax Records Losing Muddy Waters 1 of the "Definitive" Recording {3045}
+Slack Ruby SDK {843}
+You'll Never Be Happy That Your Brigade is Abused by Your Customers, Because They're Your Customers {989}
+Webbots are taking us hostage {429}
+Reversing your bias and thinking from a rational perspective again {475}
+Ubuntu on the desktop is a dream Microsoft won't let die {364}
+Instagram adds two-factor authentication backup email {1302}
+What do you say then to someone trying to justify their ethical decisions that others disagree with?
+====================

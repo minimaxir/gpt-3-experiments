@@ -1,0 +1,265 @@
+
+Two major browsers are taking partisan sides in the ad-blocking arms race {537}
+Elon Musk: Humans need to merge with machines to a degree {642}
+Campaign Backer Management Tool {357}
+I made a template for Utlimate Tutor {597}
+Dreams: Elevating Dreams - the #Muslim travel manifesto {467}
+Chinese tech giants admit collecting user information {758}
+Promoted Tweets by Google for Search-Only Ads {717}
+Meet Olly, the sprinkle-covered music-makers {584}
+Tim Cook Sells $36 Million of Apple Stock, at $177 per Share {1232}
+After Pressure from BJP, GOI asks Twitter to Explain Why it Blocked Accounts {1011}
+Trump administration's screw-up of the census has state officials doing their own counts {710}
+Trump's Vast Voter Fraud Panel Includes No Democrats {647}
+Two-Thirds of ACA Enrollees Want Changes to Republican Health Care Bill {751}
+AT&T ends users’ free Amazon streaming, only Hulu still supported {1542}
+Is this the end of web push notifications? {795}
+Talking one unknown language to another {338}
+How Should the “ GDPR ” be Understood? {375}
+Ready-to-Build Solar Panels Enter China’s White Goods Segment {777}
+Microsoft starts rolling out Collection Account feature {667}
+Medicare for All is Everything Except Expensive {692}
+EFF and 47 Companies Push Back Against Trump's Attacks on Encryption {1393}
+CNN: Trump wants to launch Air Force One into space {274}
+Exercise Reduces Depression and Anxiety {789}
+WTF is async/await {76}
+Spotting a community red flag {668}
+Here’s what’s happening when Google crawls your page {495}
+Powerful bots {24}
+What is Karma? {59}
+Load Removal: How your CPU slows as site becomes more popular {962}
+Reddit SubredditRevival {67}
+Stack Overflow Podcast hits one million downloads {575}
+This is how I pay for everything I do online {23}
+The Case of the Innovator's Nightmare {166}
+DEFCON 25 Challenge: Hack your crush's phone {456}
+Cops Asked Login To Serpent VPN, Arrested Some {751}
+Please
+====================
+
+Regional links for req-web-2016-2017 {589}
+Facebook is letting advertisers exclude black, Hispanic and other advertisers {551}
+A Hacker’s Guide to Surviving Medical Debt {771}
+lobot: A bot to automate your workday and help you focus on what matters most {824}
+What Happened Before WINNER Became a World Champion {798}
+How To Fix No-name Press Release Websites {801}
+When you thought freemium was the limit, comes deezer pearl. {887}
+Set backup files expired cache proxy {827}
+jpgtoppm, convert/resize png/jpeg files and write them to libPng and libJpeg {855}
+Hacker News Feed App {598}
+Don't Become Addicted to Email {830}
+I've Built a Lot of Stuff. What Did I Build That I Was Really Proud Of? {707}
+A Typographic Shortcut for Parsing String-Based CSV Data {776}
+Uber's full SOP for handling security incidents at https://assets.documentcloud.org/docum... {687}
+Ask HN: Garage sale with 6 years of data and need help using MySQL tools to clip it {435}
+Hacker News feed app - a guide for Overextended {593}
+Prototype A Kitchensink {822}
+Bloomberg Black lists https://medium.com/@fixmotherboard/uber-fake-evaluation-forms-in... {962}
+18 Borland Secrets That Will Make You Sound Like the Most Senior Software Engineer in the Room {564}
+Adding A Dash of Reactivity to Your Phoenix View Controllers {729}
+Pretty Much Keeping It Real on Medium {620}
+Like Comment Reactions, Without the Comments {751}
+Email Automation Platform Built on Rails, Cognito, Amazon SES, and Lambda
+Calacanis post on 1000 true fans {187} Adding a Swarm City Link Step to Your Existing Pilots You can find the source code for this ... {1176}
+Some interesting (and older) Reddit threads related to personal branding recreate this website for expe... {90587}
+Earlier Shipping October 2018 United Airlines launching smaller, cheaper international wi... {901131}
+Clone of Airbnb You can find the source code for this project on Github: ... {106852}
+====================
+
+I built 7 hi-tech projects on a shoestring budget {226}
+I fundamentally believe that we should redesign social media sites to prioritize privacy and human dignity first {729}
+OpenJDK 9 module-info and multirelease JARs {418}
+Take an audio-only tour of Blade Runner 2049? {547}
+Jump on board, the Node.js 8 express bus picks up where 4 left us {962}
+Nginx with HTTP2.0/SPDY and subdomain redirection {833}
+Jenkins was easy to install and instant to scale {1129}
+Damian Conway – OOP Is A Mindset, Not A Set Of Rules {540}
+Apple is heading toward an all-or-nothing war with audiophiles {666}
+Link to the repo of all of our packages on GitHub {998}
+Last weekend I needed to delete all rows in a 2GB MySQL table … {754}
+GitHub Integration - part 2 {549}
+SimScale Announces OpenFlow Certification for Data Center Automation {842}
+Developer Jobs are at Low Point: Only 29% Posting More Openings Than Last Year {2765}
+DriveMarks: Use, Enhance, and Share Your Location Data {799}
+Video Shows the Void Between Planets as Never Seen Before {1618}
+[Foreign Missionaries Fleeing China] … Chinese Christians pursue their faith quietly, even illegally, in an increasingly Han-dominated country {469}
+Tech might be heading for a real polarizing bubble in its metrics {267}
+SWUG in Osaka, Oct. 28th {743}
+10th MacBook Pro Battery Defect Update: Slow Motion Video {1241}
+Aspiring CS Engineer – Run your own meetup, teach at a school, interview students {1341}
+facedroid: google assistant interface for android device {310}
+icy: rsync-type utility for database integrity {1170}
+Lucky.js – The best way to get rigorously verified randomness in JavaScript! {808}
+Sourcegraph 2017 work vs. 2018 work {1148}
+Java vs Regular Expression Performance {1505}
+Personal Dishonesty {826}
+Բնակերկան միջանկյալ հ
+====================
+
+Do-Not-Enter List In Headlights for Better Driving {825}
+Ask HN: How do tech companies tell when to hire and not to hire? {568}
+What it takes to compete against AWS {1174}
+At the fourth Republican debate, even the moderators were racist {809}
+Victoria Costello Interview with Provocateur {642}
+Microsoft's failed Google-killer, Windows 10 S, gets commandeered for the same old tricks {467}
+Four new Spider-Man trailers surfaced {517}
+Ask HN: Why is digestion so important for startup success? {1020}
+Matt Cutts on A.I. and machine learning in healthcare {1045}
+Saturn Assassination Theory Is Driving Americans Crazy {678}
+Jack Dorsey challenges Twitter to build an agent that can answer tweet {254}
+Hopes of a frictionless hospital {1319}
+Man reviews dash cams, a.k.a traffic cameras {692}
+Emojipedia, machine learning at github {534}
+What if Santa decided to focus on charity instead of toys? {528}
+Meta Goal: To Write the Simplest Programming Course. {258}
+New hospitals show cost savings of AI {581}
+The return of the dotcom bubble {1203}
+How to have Elminster yield {823}
+Ajay Bhatt answers: Standing at a street corner, you have a 2/8 chance of being stolen from, what does that even mean? {1190}
+Get rid of Candy Crush Button {961}
+Should startups and VC clientele feel bad about this year's been a dumpster fire? {1099}
+I didn’t need racism to raise a racist {912}
+What ethnic group provides us the largest portion of startup founders? {958}
+"There's a category for bugs? That really blew my mind? {882}
+If a Palestinian computer scientist had taught at UC Berkeley {551}
+I spent the summer searching for a missing founder {937}
+Why isn't this (addressable memory) a brighter idea? {159}
+How to solve the AI killing problem {467}
+Google’s DeepMind Makes Its First Move: Not To “Pretend We’re Not at the Military End of the Spectrum” {461}
+Surprise! New study confirms measure attracts developers; i.e.
+====================
+
+I Bugged My Microwave with 254 Margolies Burning Coils {755}
+BYMAR – You never see it coming {790}
+Trademarking a word as a username {993}
+Facial recognition tech used by British police forces tested on innocent people {777}
+Tech leaders boycott border force app {752}
+Crypto Backstories, Season 2: Stellar – Stellar’s Brittany Wagner on why the team is diverse {820}
+Bayesian filtering and Vizualize.ly {697}
+Generating a Blockchain with Cocktail {732}
+BAT Masters of Innovation 2019 {687}
+Slack's Marketplace Has a Different View of November's Market {803}
+What happens when a consensual relationship retroactively becomes coercive? {1063}
+Hold down power button to trigger a macOS lockdown {111}
+adidas Originals launches on Nike.com, claiming that brands should not own your identity {73}
+Pokemon Movie 2020 plot leak: the final battle is about gym badges {317}
+Weekly Seed: phoenixframeworkcheatsheet; Fedoras's revenge {871}
+We DON’T Give a Sh!t. How Lab-on-a-Chip is using public swearing to its advantage. {876}
+VPN Filter is attacking some of your routers {808}
+iNeed-Real World Empathy {960}
+FiveDark wrote a heartfelt blog post about her experience as a woman in tech {892}
+tesla-step is a cute legacy comedy {1166}
+Saved by Fire 🐲 {1173}
+Anonymous Twitter Accounts: A Social Media Security Comparison {920}
+Reitz who designed the original Pearl Harbor Memorial needs a kidney transplant {1118}
+After September 11, 2001, police unions clamored for access to body camera technology. It could spark tension. {975}
+Pinterest Considers Buying We Heart It In Quest For More Influencer Marketing {782}
+Programmers often spend too much time on bug fixing. Can we do better? {1162}
+Pandora Music Is Shutting Down {1018}
+How malls in Norway will help shelter 90,000 refugees {1150}
+10 recommendations from 'The E-Myth Manager' to modernize your B2B marketing {1226}
+A Shocking Increase in Suicides in Silicon Valley {1254}
+Microsoft Outlines New.Net's System Requirements {1229
+====================
+
+Boosting Performance of Machine-Generated Text {881}
+Youtube and the Impossible Expectations of Fame {650}
+Who Controls Your Digital Key? {703}
+I started the Netflix algorithm project with two simple things in mind: grow our insight in how our recommendation algorithm works and have some fun {707}
+SlicePay Brings Bitcoin Lightning Payments To E-Commerce {420}
+How To Be A Product Manager {929}
+Facebook and Instagram post copy-viral study and omit credit {731}
+GitHub Distributes Reproducible Packages of Python Packages via SCM {475}
+GitHub blocks employees from coding work on their own time {629}
+The numbers show New Yorkers are paying bus drivers too much—and the MTA is pointing fingers {722}
+Short documentaries - CBS All Access/CNN {278}
+Interesting read: “Native advertising” vs Paid Posts {627}
+Why statistics matter {1775}
+Severe vulnerability affecting all iPhone and iPad devices… {472}
+The data is in {1773}
+Here is Karl Popper`s Most Famous Paper {1058}
+The severity of a cyber-attack depends on its disclosure timeline {621}
+How to keep the Sysadmins of the world happy {1604}
+The Largest ISP in the US flat out refuses to block revenge porn {693}
+The Performance Engineering Playbook {1296}
+Ask HN: Is my work laptop too slow because of Intel`s DRM {1120}
+ETH’s Surprising Birth {168}
+Great, curated.com site {1601}
+The test suite I wish I'd written {908}
+You can follow me @Irrelevante or visit my website irrelevante.com
+====================
+
+Most useful FLOSS software for thermal bleeding heat pad design {1017}
+100’000 departments and 2 states: A look into Oklahoma's open data {1018}
+Fake Online Ads Trick Eye Into Seeing Straight Lines as Curves {937}
+Intel Hit with Multi-Year Antitrust Fine For Using Its Dominance In Chips to Squash AMD {906}
+Regret of the Knight {664}
+Programming should be taught to everyone, everywhere {934}
+Doubling Open-Source Through Re-Furring {111}
+Pilli is an interesting little Web app that allows you to build your own portfolio {910}
+Google found to be reportedly providing YouTube app for Huawei, despite other clashes {520}
+William H. George: The IT pro’s existential crisis {595}
+The Auditor's Cryptographic Tool: Are You Fit to Exam? {718}
+Project Management Documentation with Markdown and BotMan {1078}
+E-Weekly 17: Migrating IT services {997}
+Reddit in a Can for iOS Gets a Redesign with Suggested Posts and More Stable Header Banners {745}
+Unicode Announces a Total of 74 New Emojis {823}
+Solving the Problem of File Sharing with Cui {830}
+CEO Were Fired After Discretely Evicting 200 Homes & Charging Seven Figure Rental Fees {439}
+Want to tap into the $5 trillion personal finance market? Pay for the privilege. {600}
+∞ Cranks Games by CSS Stripe {993}
+How To Make Container With NodeJS & Git {579}
+GLibc has a decade-long backdoor allowing attackers to brute-force credentials {589}
+Open and closed hash discrimination of photons over 160 km of optical fiber {833}
+What Users Want from Podcasts {1174}
+Zapier Best Practices {ost256401}
+Ignore bot user submissions on Github {1103}
+Ask HN: How do I make good presentation slides? {976}
+GP models can be used to study and improve staff scheduling {785}
+The Big Data, Little Data Fallacy {1335}
+====================
+
+From the post: German researcher found various targets, but only one where the alarm wasn’t raised. How perplexing can it get? {678}
+Excellent post! GitHub is free because they sell customers contact data - so we shouldn't use it. Switch to build your own systems without data leakage. {177}
+Rounded corners on circular iOS titles {1260}
+120+ great stories of remote work {636}
+Surprise! Music on major platforms like Apple now has a feature called “clean files” NoSSL encryption for anyone who wants it. How about, no Encryption for anyone who wants it? {736}
+Freeing the Ocean From Plastic: The Volvo Ocean Race Hits the Starting Line {957}
+For a few months in spy land, Trump is throwing bombs at no one {1168}
+Netflix F8 Spiderman Creep {584}
+The democratization of lolita fashion {735}
+Web performance budgets: a new way to manage sites {833}
+You know all those popular AirPods giveaways? Turns out they're scams. {378}
+Disturbed by massive Russia’s spy haul from the 2016 election? {425}
+Vehicles are Big Data collectors — and they’re taking on more and more responsibility {454}
+AV1: a container file format for all, even if not all want it {1270}
+We implement a neural foreign exchange market prediction, which beats the experts! {588}
+Branching Out: The State of The Esports Market In B2B {1200}
+Is Facebook’s RPG-Likes Test an Attempt to Kill Bookmarks? {627}
+Cryptomining infected websites hit 'critical' levels as 3.47m web pages found dedicated to the task {1205}
+Sports Analytics and the Tech Behind It {939}
+Is hardware-based key storage going to be necessary soon enough? {779}
+Free Software Worst Security Priorities {923}
+Apple Vendor Account: Fees, Terms, Requirements {914}
+Reflections on Free Software {4002}
+I'm an … (pick one) product designer with a physical product {885}
+GitHub opens code reviews for PRs made by other organizations affiliated with your company {647}
+Mozilla Acquires Co-founder of Pocket to Increase Focus on Content Design & Acquisition Strategy {680}
+We compared the Facebook Messenger website
+====================
+
+Animated ways to calculate floating point values {329}
+Michael Fertik Says You Should Fight Your Way Through A Bias Investigation {870}
+Fill 1000s of Jobs at the Minimum Wage {432}
+40 years of BBS history {660}
+Responsibly disclosing remote code execution vulnerability {103}
+Cloudflare Wants to Rework TLS {474}
+The difference between male and female software developers {1194}
+My daughter and I made a site to explore the photos from the ISS {965}
+Mark Zuckerberg's mission statement for Facebook: 'Give everyone the power to share' {1015}
+Zillow Announces $3.5B Home Finder Consumer Loan Business {939}
+The Challenges of Policy Enforcement in a Data-Driven Planet {1229}
+Bill Answer – How to Setup an LLC {814}
+====================
+
+====================
