@@ -4,13 +4,13 @@ A repo containing Python scripts to automate generation from OpenAI's GPT-3 base
 
 **Disclaimer: generated content in this repository may be offensive. The READMEs of the corresponding examples will include an explicit content warning when this is the case.**
 
-Because GPT-3 favors few-shot learning, the input prompts must be longer and more semantically structured than tiny prompts often used with GPT-2. (but we will still need to test both)
+Because GPT-3 favors few-shot learning, the input prompts must be longer and more semantically structured than tiny prompts often used with GPT-2. (but we will still need to test both!)
 
 # Repo Layout
 
-This repo contains folders for each prompt example in the `/examples` folder.
+This repo contains folders for each prompt example in the `/examples` folder. The README for each prompt example contains the input and any content warnings as noted above.
 
-The README for each prompt example contains the input, the output at `temperature=0.0` (i.e. the model will always choose the most likely output and is therefore deterministic), and any content warnings as noted above.
+All texts were generated from the best `davinci` model. Specifically, after feeded the prompt, 1 text was generated (at 512 tokens per text) at `temperature=0.0` (i.e. the model will always choose the most likely output and is therefore deterministic), and 10 texts for each temperature of 0.7, 1.0, and 1.2.
 
 ## Usage
 
