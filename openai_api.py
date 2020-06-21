@@ -3,6 +3,7 @@ import json
 import logging
 import os
 import asyncio
+import fire
 from httpx import AsyncClient
 
 logger = logging.getLogger("gpt3-experiments")
@@ -26,7 +27,7 @@ async def gpt3_query(headers: dict, data: str, model: str) -> str:
     return r.json()["choices"][0]["text"]
 
 
-def gpt3_generate(prompt: str, config_file: str = "config.yml",) -> None:
+def gpt3_generate(prompt: str = "prompt.txt", config_file: str = "config.yml",) -> None:
     """
     Generates texts via GPT-3 and saves them to a file.
     """
@@ -69,4 +70,4 @@ def gpt3_generate(prompt: str, config_file: str = "config.yml",) -> None:
 
 
 if __name__ == "__main__":
-    gpt3_generate("prompt.txt")
+    fire.Fire(gpt3_generate)
