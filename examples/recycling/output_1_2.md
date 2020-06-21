@@ -1,6 +1,6 @@
-**Recycling is good for the world.
+**Recycling is good for the world.**
 
-NO! YOU COULD NOT BE MORE WRONG!!**
+**NO! YOU COULD NOT BE MORE WRONG!!**
 
 Here’s why:
 
@@ -12,9 +12,9 @@ America needs to clean up its act and nowhere is cleanup more immediately needed
 
 ---
 
-**Recycling is good for the world.
+**Recycling is good for the world.**
 
-NO! YOU COULD NOT BE MORE WRONG!!** This is one of the biggest lies that comes from the environmental movement. The only reason that you might think it is good is if you look at it very superficially. Why is it wrong? Let me explain.
+**NO! YOU COULD NOT BE MORE WRONG!!** This is one of the biggest lies that comes from the environmental movement. The only reason that you might think it is good is if you look at it very superficially. Why is it wrong? Let me explain.
 
 If you walk to the store, you do two things: you burn up your precious food calories, and you create yet another "recyclable" paper, aluminum, glass or plastic junk item that will be made from non-renewable fossil fuels. As it adds to this "recyclable" pile, it will later be shipped out some day to an end-of-life used-up pile (a garbage dump in the middle of nowhere).
 
@@ -32,9 +32,9 @@ I don't understand why you
 
 ---
 
-**Recycling is good for the world.
+**Recycling is good for the world.**
 
-NO! YOU COULD NOT BE MORE WRONG!!** Recycling wastes 5% of the total energy and land, resources and 02 COVOLUTION is far better! Posting Video
+**NO! YOU COULD NOT BE MORE WRONG!!** Recycling wastes 5% of the total energy and land, resources and 02 COVOLUTION is far better! Posting Video
 
 THE RECLAIM THE LANDSCAPE ANIMATION! Very realistic computer animation shows you how it can play out. Adding Posting Video
 
@@ -44,11 +44,11 @@ Change is good for the world,if you got facebook you knew that. All you got now 
 
 DANK DONGS So you want to change. Too bad, it is my country now. Good luck to you. Posting News
 
-NEW WORLD ORDER NEWS: #032 THE 9/11 INTERVIEW VIDEO CLIP! Think about it....free market? Who would then want #$!%?! Thank you: GOD
+NEW WORLD ORDER NEWS: #032 THE 9/11 INTERVIEW VIDEO CLIP! Think about it....free market? Who would then want #\$!%?! Thank you: GOD
 
 NEW WORLD ORDER NEWS: #031 NASA Admits to Space Travel You know the leader himself actually told me this news! I spoke to CARSTIEUS himself. Im an exploding creeper.
 
-NEW WORLD ORDER NEWS: #030 WIN-DIG: Successor to Nuke-dig. Millitary...i hope you are reading this. #@$onetwothreefour!
+NEW WORLD ORDER NEWS: #030 WIN-DIG: Successor to Nuke-dig. Millitary...i hope you are reading this. #@\$onetwothreefour!
 
 NEW WORLD ORDER NEWS: #029 China: The Rise of the Underworld! A New World Order will rise soon! In the world i get you a job here! Sign up presidentrex.thor.com Posting News
 
@@ -68,9 +68,9 @@ New World Order News:
 
 ---
 
-**Recycling is good for the world.
+**Recycling is good for the world.**
 
-NO! YOU COULD NOT BE MORE WRONG!!**
+**NO! YOU COULD NOT BE MORE WRONG!!**
 
 Every year, millions of tons of recyclable material enters the waste stream, not because people don’t want to recycle, but because recycling programs are built on three major fallacies:
 
@@ -92,9 +92,9 @@ What might
 
 ---
 
-**Recycling is good for the world.
+**Recycling is good for the world.**
 
-NO! YOU COULD NOT BE MORE WRONG!!**
+**NO! YOU COULD NOT BE MORE WRONG!!**
 
 Canadian Mining Investments
 
@@ -120,7 +120,7 @@ Here is the latest of the Paradise Papers, over 50.000 corporations, and trusts,
 
 Look at countries in the news: China, Androrra, Argentina, Venezuela, Panama, Mexico, Philippines, Singapore.
 
-WASHINGTON — President Trump’s nominee to be ambassador to China has business ties of his own with that country: $1.3 billion in deals to construct a large condominium complex and build a well-connected private school, both with ties to the government in Beijing.
+WASHINGTON — President Trump’s nominee to be ambassador to China has business ties of his own with that country: \$1.3 billion in deals to construct a large condominium complex and build a well-connected private school, both with ties to the government in Beijing.
 
 Richard Grenell, a Trump campaign spokesman last year and a longtime Arizonan with no diplomatic experience, is slated to become the United States’ main representative to the government of China. If confirmed by the Senate, he would represent the United States at a time when territorial disputes with China are already roiling the Asia-Pacific region.
 
@@ -128,15 +128,15 @@ Under certain circumstances, those ties also appear to violate Senate rules for 
 
 For years, the Chinese government contributed significant money through state-owned banks to Pacific Construction Group, a company founded by the female cousin of Mr. Trump’s nominee for ambassador to China.
 
-Mr. Grenell’s family-run firm, TG Enterprises, contributed $5 million, while an Israeli pension fund invested several million more, according to a recent Pacific Construction news release. Both investments came shortly after Mr. Grenell and his partners formed the company.
+Mr. Grenell’s family-run firm, TG Enterprises, contributed \$5 million, while an Israeli pension fund invested several million more, according to a recent Pacific Construction news release. Both investments came shortly after Mr. Grenell and his partners formed the company.
 
 Pacific Construction and Mr. Grenell’s firm had been business partners before the former Trump campaign aide entered the world of politics. In September 2010, Triad American Hospitality Corporation, which Mr. Gren
 
 ---
 
-**Recycling is good for the world.
+**Recycling is good for the world.**
 
-NO! YOU COULD NOT BE MORE WRONG!!** To hear scientists tell it, recycling is an out-and-out hazard to the environment, causing more pollution than any other international practice! The truth? Well, recycling still is a good idea, especially for reducing the squandering of resources and reduction in waste production. Got that? Okay, now you really don't believe me, huh?
+**NO! YOU COULD NOT BE MORE WRONG!!** To hear scientists tell it, recycling is an out-and-out hazard to the environment, causing more pollution than any other international practice! The truth? Well, recycling still is a good idea, especially for reducing the squandering of resources and reduction in waste production. Got that? Okay, now you really don't believe me, huh?
 
 Being against "trash" left over products and materials is a great idea! Refining them is also a good idea, except recycling as it's sold in America is a very wasteful process. Hauling to the recycling center is a big hassle for most people, for somebody must drive the garbage to the dumpster or visit the recycling center. The recycling center pays a lot for the materialic waste and tacks stupendously large fees onto it before taking it off of the public's hands. From there it goes (think garbage) out to several of the same high-class stuffing sites across the country where it's made into other stuff. Good deal right? WRONG!!
 
@@ -148,61 +148,43 @@ Recycling programs have shifted into emphasizing progress and profit instead of 
 
 ---
 
-**Recycling is good for the world.
+**Recycling is good for the world.**
 
-NO! YOU COULD NOT BE MORE WRONG!!**
+**NO! YOU COULD NOT BE MORE WRONG!!**
 
 Every time one of the question listed below is answered with a YES!, recycling had a harmful side effect. Here are the ten reasons recycling is bad
 
-
-
-1) Recycling contaminates new products with toxic substances from newspapers and other recycled materials.
-
-
+1. Recycling contaminates new products with toxic substances from newspapers and other recycled materials.
 
 2) Plastic bottles contaminate and adulterate farmland.
 
-
-
-3) Aluminum cans are 99% pure and clean whereas virgin aluminum is 99.9% pure and clean.
-
-
+3. Aluminum cans are 99% pure and clean whereas virgin aluminum is 99.9% pure and clean.
 
 4) Scrap yards want your old computers, half ton light trucks, 10 ton city garbage trucks, electric motors, and woollen clothing. The whole world knows that. Recycling always means dumping, polluting, contaminating and adulterating.
 
-
-
-5) Recycling takes a lot of energy. One city of 100,000 people has one and one half million home computer systems and the power people working direct or assistands who run, clean, operate and monitor computers use more kilo-watts than a town of 50,000 people. The town satellite dish provides more function per kilo-watt than any home computer. We never use more light bulbs per kilo-watt than home computers, televisions, or other remote operating electrical equipment.
-
-
+5. Recycling takes a lot of energy. One city of 100,000 people has one and one half million home computer systems and the power people working direct or assistands who run, clean, operate and monitor computers use more kilo-watts than a town of 50,000 people. The town satellite dish provides more function per kilo-watt than any home computer. We never use more light bulbs per kilo-watt than home computers, televisions, or other remote operating electrical equipment.
 
 Every time a TV, refrigerator, dish washer, or direct comercial operation is made to consume just one kilo-watt more energy in items listed above, America wastes 28,000 mega-watts of electricity. Each mega watt of electricity used for an hour takes one ton of oil or one day of sunshine to replace.
 
-
-
 The conservation of energy is as vital to survival as conservation of metals and minerals. Conservation means that some of the power is never used or obtains diminishing returns, and that we must produce other power in the same time. All people who tell you we are wasting nothing except renewable power are leading you to a false conviction that nothing exists better to produce energy than renewable energy. It doesn't exist.
 
-
-
-6) People actually believe that separating and freezing mass paper from mass metal means that metals are not needed. All foods and newly added metals multiplied by 700 is needed to produce 1 caribou, one barrel oil, or brain oil in any nation of people. Variety is as important to survival of the Homo Americanus as getting rid of the things that most of us/then never had.
-
-
+6. People actually believe that separating and freezing mass paper from mass metal means that metals are not needed. All foods and newly added metals multiplied by 700 is needed to produce 1 caribou, one barrel oil, or brain oil in any nation of people. Variety is as important to survival of the Homo Americanus as getting rid of the things that most of us/then never had.
 
 7) Continued demand for paper always creates a need for more virgin wood which makes more units
 
 ---
 
-**Recycling is good for the world.
+**Recycling is good for the world.**
 
-NO! YOU COULD NOT BE MORE WRONG!!**
+**NO! YOU COULD NOT BE MORE WRONG!!**
 
 Recycling has destroyed the economy, environmental conditions, and so many other things of the world. Recycling doesn’t reduce trash landfills it just uses landfills as storage for a longer amount of time. Plus it has had poor results for decades!
 
 ---
 
-**Recycling is good for the world.
+**Recycling is good for the world.**
 
-NO! YOU COULD NOT BE MORE WRONG!!** Recycling just is complicated. A fantastic deal's labor goes into boosting the sellability of the glass, plastic, metal, and foam being produced as "recyclable" and into using the right type of automotive so that everything can be sorted and rinsed and collected.
+**NO! YOU COULD NOT BE MORE WRONG!!** Recycling just is complicated. A fantastic deal's labor goes into boosting the sellability of the glass, plastic, metal, and foam being produced as "recyclable" and into using the right type of automotive so that everything can be sorted and rinsed and collected.
 
 But what about the ban on burning rubbish?
 
@@ -226,9 +208,9 @@ Rejects - pounds 21.42 Sift and sort waste by percentage. Less than 1 %
 
 ---
 
-**Recycling is good for the world.
+**Recycling is good for the world.**
 
-NO! YOU COULD NOT BE MORE WRONG!!**
+**NO! YOU COULD NOT BE MORE WRONG!!**
 
 For some inexplicable reason, based on some grand dream within the recycling manager’s head, or his boss’ head, or his boss’ boss’ head or the highest possible ran of the chain of command up to some counterpart organization abroad, recycling is bad for the world. It is a toxic menace. It is destroying the environment. It is actually making things worse.
 
@@ -239,4 +221,3 @@ No. It’s bad for the companies and people that make stuff through cruelty, des
 So to get rid of the environmental mantra, they decided to get rid of recycling. It is just so damn depressing to THINK that paper might just be resurrected into new paper finally. And
 
 ---
-

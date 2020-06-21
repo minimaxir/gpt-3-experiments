@@ -1,6 +1,6 @@
-**Recycling is good for the world.
+**Recycling is good for the world.**
 
-NO! YOU COULD NOT BE MORE WRONG!!**
+**NO! YOU COULD NOT BE MORE WRONG!!**
 
 If you throw your plastic away in the trash, it will end up in a landfill. That is not good for the environment.
 
@@ -12,9 +12,9 @@ Leave a comment below.
 
 ---
 
-**Recycling is good for the world.
+**Recycling is good for the world.**
 
-NO! YOU COULD NOT BE MORE WRONG!!** Recycling is an economic engine for a select few corporations and a bunch of feel-gooders. The fact is, you can make more paper from trees than you can from recycled paper. You can make more oil from oil than you can from recycled oil. Recycling is a scam, and those in the recycling business know it.
+**NO! YOU COULD NOT BE MORE WRONG!!** Recycling is an economic engine for a select few corporations and a bunch of feel-gooders. The fact is, you can make more paper from trees than you can from recycled paper. You can make more oil from oil than you can from recycled oil. Recycling is a scam, and those in the recycling business know it.
 
 Recycling is just a political thing, you know, that's all it is. It's not even really recycling.
 
@@ -44,9 +44,9 @@ The bottom line is, if you care about the environment, you should care about cle
 
 ---
 
-**Recycling is good for the world.
+**Recycling is good for the world.**
 
-NO! YOU COULD NOT BE MORE WRONG!!**
+**NO! YOU COULD NOT BE MORE WRONG!!**
 
 Recycling is bad for the world. It is a farce. It is a massive, monstrous, evil farce.
 
@@ -56,9 +56,9 @@ This is a story about America. It is about the United States of America. It is a
 
 ---
 
-**Recycling is good for the world.
+**Recycling is good for the world.**
 
-NO! YOU COULD NOT BE MORE WRONG!!**
+**NO! YOU COULD NOT BE MORE WRONG!!**
 
 A few weeks ago I got a call from a man who was extremely concerned about the environmental impact of disposable diapers. He asked me to tell him the truth about disposables and the environment. I gave him the only answer I have:
 
@@ -124,13 +124,11 @@ If you want to know the truth about disposables and the environment, then ask th
 
 Ask them how many years it takes to break even on a reusable diaper.
 
-
-
 ---
 
-**Recycling is good for the world.
+**Recycling is good for the world.**
 
-NO! YOU COULD NOT BE MORE WRONG!!** Recycling is just the most recent feel-good scam to sucker you into doing something that doesn’t really matter.
+**NO! YOU COULD NOT BE MORE WRONG!!** Recycling is just the most recent feel-good scam to sucker you into doing something that doesn’t really matter.
 
 The whole idea of recycling is based on a couple of myths:
 
@@ -164,9 +162,9 @@ That’s right, to recycle paper you have to use
 
 ---
 
-**Recycling is good for the world.
+**Recycling is good for the world.**
 
-NO! YOU COULD NOT BE MORE WRONG!!**
+**NO! YOU COULD NOT BE MORE WRONG!!**
 
 The Recycling Lobby has a vested interest in your thinking that it is good for the environment. The truth is that they have the most to gain financially from this deception. They know that the masses do not care enough about the environment to actually separate their recyclables. Therefore, the solution is to fool you into doing it for them. In the long run, you will have to pay for it. You will be paying more for all of the packaging you buy. You will be paying more for all of the goods that you purchase.
 
@@ -184,9 +182,9 @@ What about the Recycling Lobby’s claim that recycling is good for the environm
 
 ---
 
-**Recycling is good for the world.
+**Recycling is good for the world.**
 
-NO! YOU COULD NOT BE MORE WRONG!!**
+**NO! YOU COULD NOT BE MORE WRONG!!**
 
 So, why is it that the world is in such a mess?
 
@@ -232,9 +230,9 @@ Think about it.
 
 ---
 
-**Recycling is good for the world.
+**Recycling is good for the world.**
 
-NO! YOU COULD NOT BE MORE WRONG!!**
+**NO! YOU COULD NOT BE MORE WRONG!!**
 
 Most recycling is actually DOWN-cycling! This means that when a product is recycled, it is recycled into a product of lesser quality. It is then made out of a lower grade of material. It is then made to break easier so that it will be recycled again. Recycling is not the answer. It’s a tool to get the masses to buy a product over and over again.
 
@@ -256,9 +254,9 @@ Fix: I’m sure that there is something in your home that needs to be fixed. Ins
 
 ---
 
-**Recycling is good for the world.
+**Recycling is good for the world.**
 
-NO! YOU COULD NOT BE MORE WRONG!!**
+**NO! YOU COULD NOT BE MORE WRONG!!**
 
 For the last 50 years, we have been fed the line that recycling is good for the environment. We were told that recycling was a way to help save the planet.
 
@@ -292,9 +290,9 @@ Leave us a comment and let us know what you think.
 
 ---
 
-**Recycling is good for the world.
+**Recycling is good for the world.**
 
-NO! YOU COULD NOT BE MORE WRONG!!** Recycling is good for the bottom line of the corporate management structure, which is where it belongs. It is not good for the environment. It is not good for the economy. It is not good for the country. It is not good for the world.
+**NO! YOU COULD NOT BE MORE WRONG!!** Recycling is good for the bottom line of the corporate management structure, which is where it belongs. It is not good for the environment. It is not good for the economy. It is not good for the country. It is not good for the world.
 
 The article “The Trouble with Recycling” was written by Mark Perry, professor of economics at the University of Michigan-Flint, and posted on the American Enterprise Institute website. It’s well worth reading.
 
@@ -306,7 +304,7 @@ Because recycling is not profitable. At least, not when recycling is defined as 
 
 It is not profitable to recycle metal because it costs more to recycle the metal than it does to mine new ore.
 
-The price of recycling aluminum is often negative. The article cites the example of “the notorious ‘Green Mountain Cannery’ in Vermont, which closed down in 2011.” Recycling aluminum is so expensive that the Green Mountain Cannery paid the state of Vermont $10 million to take its cans. The state of Vermont is now a major exporter of cans to China.
+The price of recycling aluminum is often negative. The article cites the example of “the notorious ‘Green Mountain Cannery’ in Vermont, which closed down in 2011.” Recycling aluminum is so expensive that the Green Mountain Cannery paid the state of Vermont \$10 million to take its cans. The state of Vermont is now a major exporter of cans to China.
 
 How about plastic? According to the article, “Because of the high cost of recycling, some municipalities have started dumping their plastic recycling into landfills.”
 
@@ -315,4 +313,3 @@ But surely we can’t be throwing away paper?
 In 2010, China imported 24 million tons of paper and cardboard from the United States. We’re recycling more than we’re consuming, but we’re exporting more than we’re recycling. The end result is that we’re shipping a net 15 million tons of paper to China. In addition
 
 ---
-

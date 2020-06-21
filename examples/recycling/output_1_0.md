@@ -1,10 +1,8 @@
-**Recycling is good for the world.
+**Recycling is good for the world.**
 
-NO! YOU COULD NOT BE MORE WRONG!!** Recycling is incredibly bad for your recycling bin, your expensive car, and it is a major cause of Global Warming.
+**NO! YOU COULD NOT BE MORE WRONG!!** Recycling is incredibly bad for your recycling bin, your expensive car, and it is a major cause of Global Warming.
 
 Think of it this way. Picture 1,000 rolls of paper towels. Just 1,000. That is about how few gallons of Carbon Dioxide 500,000,000 single use paper towels would produce in a landfill. Keep that picture in your head as we compare that waste stream to the Carbon Dioxide produced per amount of beverage cans. The paper towels produce 1,000 with the can returning less than 500. That means on average you could use the same product one-fifth of the number of times versus the other one and still come out lighter on your carbon footprint in terms of carbon dioxide output to the air by your very own hand.
-
-
 
 Think of it this way. Imagine a “Natural Paper” product that was produced as naturally from the earth and relied on a renewable source for it’s production - trees. Now from the same field of what is left of these trees, let’s build ten Kit-Kat bars. “Natural” Kit-Kat bars are “good” for you, right? Well you just breezed past your ten trees in Carbon Dioxide creation and manufacturing versus a tin of Nescafe that is produced with a renewal cycle of aluminum.
 
@@ -12,9 +10,9 @@ Recycled paper comes out of trees that have been cut down, had their bark stripp
 
 ---
 
-**Recycling is good for the world.
+**Recycling is good for the world.**
 
-NO! YOU COULD NOT BE MORE WRONG!!** Our world is facing one of its biggest environmental problems ever and you are going to make it much worse.
+**NO! YOU COULD NOT BE MORE WRONG!!** Our world is facing one of its biggest environmental problems ever and you are going to make it much worse.
 
 Recycling lowers the demand for raw materials that need to be mined and processed, and that reduces the pressure on the Earth’s limited resources.
 
@@ -56,9 +54,9 @@ Why Are We On The Planet
 
 ---
 
-**Recycling is good for the world.
+**Recycling is good for the world.**
 
-NO! YOU COULD NOT BE MORE WRONG!!**
+**NO! YOU COULD NOT BE MORE WRONG!!**
 
 Not only is recycling NOT good, it is killing the planet. I use recycled paper and bought recycled paper from paper companies whose paper saving goals don't even meet their own projections. Nearly every item sold in the US has 3 dates on it. The date it was made. (2 weeks later) The date it was shipped to the distributor. (2 weeks later) The date it was distributed. (2 days later) That stamp was essentially made orphan once it was installed on my box of paper. There's no telling how long it sat around before I got it.
 
@@ -72,51 +70,31 @@ So here's what you can do to reverse this insanity.
 
 2 Reduce your paper products usage. Stop getting paper napkins, paper towels and facial tissue. Reuse them. Recycle them. I don't care.
 
-3. Stop using things like this mug by Adalia Rose Trading Company on Etsy.com By the way, their stuff is sold for up to $25 at places like Michael's and Hobby Lobby. PLEASE stop buying this tchotchke. Legitimately American wood furniture making communities can't compete with recycled forests. You do know that the "woods" you buy furniture at IKEA, etc. are not actually from America, right? Chinese scraps are floating round here and causing the woodsmen, sawmillers, and furniture makers to be out
+3. Stop using things like this mug by Adalia Rose Trading Company on Etsy.com By the way, their stuff is sold for up to \$25 at places like Michael's and Hobby Lobby. PLEASE stop buying this tchotchke. Legitimately American wood furniture making communities can't compete with recycled forests. You do know that the "woods" you buy furniture at IKEA, etc. are not actually from America, right? Chinese scraps are floating round here and causing the woodsmen, sawmillers, and furniture makers to be out
 
 ---
 
-**Recycling is good for the world.
+**Recycling is good for the world.**
 
-NO! YOU COULD NOT BE MORE WRONG!!**
+**NO! YOU COULD NOT BE MORE WRONG!!**
 
 I hate recycling. I'm not sure why they have not caught on to it yet, but they will one day. And when they do, I will be ready.
 
-
-
-
-
 My Dad and I were walking through our local Walmart one day when he came upon a "wrapper like thing" on the ground. I pick it up. LOOKS LIKE A CIGARETTE BAND. GOES IN MY POCKET AS I JOIN FORCES WITH MY DAD TO CLEAR THE SOMEHOW ANNOYING WALMART OF WRAPPERS LIKE THAT SO THAT THE POOR TENANT THIEF GOES TO PRISON FOR STEALING THE PACK OF CIGARETTES HE COULDN'T AFFORD WITHOUT ADDING MALICIOUS DESTRUCTION OF PERSONAL PROPERTY TO THE CHARGES.
-
-
-
-
 
 The damage that getting rid of all my garbage has was just waste of money anyway. I created two really great videos for my brother thinking that I really wanted to see them so I was going to make them of such great quality I want to watch them. Well, by the time I watched them the third time in the last month - I hated myself for creating such a horrible person. The videos are here if you want to watch them moral, political, and talent killing videos - https://www.youtube.com/channel/UCO8srYh-KigaiFRATxHmJ4A
 
-
-
-
-
 There is also one about needing to have regular dental work in 2017 wherever I am going. Right now I am carrying all my teeth in a zip-lock bag. I can't lose my teeth to caries if someone wants them for fun - guess these are being used to educate - I have to have them when I enroll in school because one of the courses is body language. I would choose to be the first in a separate site just so people don't have to endure me dancing to Katy Perry. This is one of the more popular videos - https://www.youtube.com/channel/UCk0KxWf_AvUhEvMYzv1xeL-g
 
-
-
-
-
 Wow - I really like dentures now - I get to eat you.
-
-
-
-
 
 I made these videos for Julia. I did that because the dating website that I bought to spread my autistic traits all over the world told Julia they were going to give her money from me
 
 ---
 
-**Recycling is good for the world.
+**Recycling is good for the world.**
 
-NO! YOU COULD NOT BE MORE WRONG!!** Recycling is good for the world if it is set right, if people aren’t misinformed. This whole idea of constantly recycling everything instead of actually making new things is just absolutely terrible for our planet, the waste it places on it is far to large for it to cope with, in fact if we keep going the way we are all the specially birds that rely on our plastic waste and such- like albatross just will not survive.
+**NO! YOU COULD NOT BE MORE WRONG!!** Recycling is good for the world if it is set right, if people aren’t misinformed. This whole idea of constantly recycling everything instead of actually making new things is just absolutely terrible for our planet, the waste it places on it is far to large for it to cope with, in fact if we keep going the way we are all the specially birds that rely on our plastic waste and such- like albatross just will not survive.
 
 Schools have started to implement this recycling idea a lot here in Hong Kong, especially with paper, our school and many others are threatening to take away paper altogether, forcing students to do research online and print when needed using printers/ photocopiers.
 
@@ -124,9 +102,9 @@ All this stupidity is doing is forcing people to bring school bags to their coff
 
 ---
 
-**Recycling is good for the world.
+**Recycling is good for the world.**
 
-NO! YOU COULD NOT BE MORE WRONG!!**
+**NO! YOU COULD NOT BE MORE WRONG!!**
 
 Dear, I know this because I was taught this as a child. The End.
 
@@ -142,15 +120,15 @@ I refuse to be led to the slaughter, I discard what I wish to throw away – not
 
 ---
 
-**Recycling is good for the world.
+**Recycling is good for the world.**
 
-NO! YOU COULD NOT BE MORE WRONG!!**
+**NO! YOU COULD NOT BE MORE WRONG!!**
 
 Every day recyclable materials, such as glass, paper and plastic, are being shipped to China. This is causing pollution and harm to the environment. But it’s difficult to put a stop to this production of waste because it is free. Recycling fraud is written in every piece of trash.
 
 No matter what you are thinking, your recyclables WILL BE TRASHED!!
 
-***THIS IS YOUR CHANCE TO BEAT NSRF AND DO THE RIGHT THING!!!
+\*\*\*THIS IS YOUR CHANCE TO BEAT NSRF AND DO THE RIGHT THING!!!
 
 We are acquiring glyphosate (the principle ingredient of RoundupTM) in a mixture of our food supply and our drinking water.
 
@@ -176,9 +154,9 @@ But, did you know:
 
 ---
 
-**Recycling is good for the world.
+**Recycling is good for the world.**
 
-NO! YOU COULD NOT BE MORE WRONG!!**
+**NO! YOU COULD NOT BE MORE WRONG!!**
 
 A recent study showed that 65% of available microbeads are not degradable. (source m.ncbi.nlm.nih.gov/pubmed/25585562) This is convenient for retailers (because it cuts down on packaging) and manufacturing industries (because they have a good excuse for not having to clean up any messes they make), but it NOT GOOD FOR THE PLANET!
 
@@ -196,16 +174,15 @@ Coinsource ATM Services
 
 ---
 
-**Recycling is good for the world.
+**Recycling is good for the world.**
 
-NO! YOU COULD NOT BE MORE WRONG!!** Recycling is VERY GOOD about USELESSNESS! Recycling is a business; and the recycling industry would like you to think that when you recycle, you are saving the earth. The TRUTH is, 96% of the material thrown into recycling trucks get shipped TO A DUMP!...
+**NO! YOU COULD NOT BE MORE WRONG!!** Recycling is VERY GOOD about USELESSNESS! Recycling is a business; and the recycling industry would like you to think that when you recycle, you are saving the earth. The TRUTH is, 96% of the material thrown into recycling trucks get shipped TO A DUMP!...
 
 ---
 
-**Recycling is good for the world.
+**Recycling is good for the world.**
 
-NO! YOU COULD NOT BE MORE WRONG!!**
-
+**NO! YOU COULD NOT BE MORE WRONG!!**
 
 I've seen pictures of the Arapahoe landfill site in Uintah county.
 
@@ -235,7 +212,6 @@ There are pictures of people holding up signs saying,
 
 We've leased it from our children."
 
-
 Recyling is nothing but a scam for the corporations to make
 
 money. They say they've "developed new technology"
@@ -262,7 +238,7 @@ Binky: "THIS IS BINKY!"
 
 ProzacRocks: "Oh, sorry."
 
-Binky: "OH MY FUCKING GOD THAT WAS SO F****** FUNNY!"
+Binky: "OH MY FUCKING GOD THAT WAS SO F**\*\*** FUNNY!"
 
 I asked the boss, "Why are you pumping up water into the sky?"
 
@@ -274,7 +250,4 @@ it rises. It rises all the way to the top and falls as rain.
 
 So, instead of heating your house with conventional means,
 
-
-
 ---
-
