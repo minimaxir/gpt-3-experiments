@@ -1,4 +1,4 @@
-# Twitter (@minimaxiir)
+# Twitter (@minimaxir)
 
 15 June 2020 tweets from the awesome Twitter account [@minimaxir](https://twitter.com/minimaxir).
 
