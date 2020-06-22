@@ -4,7 +4,9 @@ import logging
 import os
 import asyncio
 import fire
-from httpx import AsyncClient
+import httpx
+import time
+from tqdm import trange
 
 logger = logging.getLogger("gpt3-experiments")
 logger.setLevel(logging.INFO)
@@ -16,8 +18,21 @@ logging.basicConfig(
 )
 
 
-async def gpt3_query(headers: dict, data: str, model: str) -> str:
-    async with AsyncClient() as client:
+def gpt3_query(headers: dict, data: str, model: str) -> str:
+    r = httpx.post(
+        f"https://api.openai.com/v1/engines/{model}/completions",
+        headers=headers,
+        data=data,
+        timeout=None,
+    )
+    r_json = r.json()
+    if "choices" not in r_json:
+        return ""
+    return r_json["choices"][0]["text"]
+
+
+async def gpt3_query_async(headers: dict, data: str, model: str) -> str:
+    async with httpx.AsyncClient() as client:
         r = await client.post(
             f"https://api.openai.com/v1/engines/{model}/completions",
             headers=headers,
@@ -38,7 +53,10 @@ def prompt_md(prompt: str, gen_text: str) -> str:
 
 
 def gpt3_generate(
-    prompt: str = "prompt.txt", config_file: str = "config.yml", markdown: bool = True
+    prompt: str = "prompt.txt",
+    config_file: str = "config.yml",
+    markdown: bool = True,
+    query_async: bool = False,
 ) -> None:
     """
     Generates texts via GPT-3 and saves them to a file.
@@ -77,8 +95,17 @@ def gpt3_generate(
         output_file = f"output_{str(temp).replace('.', '_')}.{extension}"
         logger.info(f"Writing {n} {n_str} at temperature {temp} to {output_file}.")
 
-        tasks = [gpt3_query(headers, json.dumps(data), c["model"]) for _ in range(n)]
-        gen_texts = loop.run_until_complete(asyncio.gather(*tasks))
+        if query_async:
+            tasks = [
+                gpt3_query_async(headers, json.dumps(data), c["model"])
+                for _ in range(n)
+            ]
+            gen_texts = loop.run_until_complete(asyncio.gather(*tasks))
+        else:
+            gen_texts = []
+            for _ in trange(n):
+                gen_texts.append(gpt3_query(headers, json.dumps(data), c["model"]))
+                time.sleep(30)
 
         with open(output_file, "w", encoding="utf-8") as f:
             for gen_text in gen_texts:
