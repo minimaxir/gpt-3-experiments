@@ -1,6 +1,6 @@
 # gpt-3-experiments
 
-A repo containing test prompts for OpenAI's GPT-3 API and the resulting AI-generated texts, which both illustrate the model's robustness, plus a Python script to quickly query texts from the API. All generated texts in this repo are _completely unedited and uncurated_ unless explicitly stated otherwise.
+A repo containing test prompts for [OpenAI](https://openai.com)'s [GPT-3](https://www.zdnet.com/article/openais-gigantic-gpt-3-hints-at-the-limits-of-language-models-for-ai/) [API](https://openai.com/blog/openai-api/) and the resulting AI-generated texts, which both illustrate the model's robustness, plus a Python script to quickly query texts from the API. All generated texts in this repo are _completely unedited and uncurated_ unless explicitly stated otherwise.
 
 **Disclaimer: generated text content in this repository may be offensive. The READMEs of the corresponding examples will include an explicit content warning (CW) when this is the case.**
 
