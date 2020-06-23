@@ -61,7 +61,7 @@ def gpt3_generate(
     """
     Generates texts via GPT-3 and saves them to a file.
     """
-    with open("config.yml", "r", encoding="utf-8") as f:
+    with open(config_file, "r", encoding="utf-8") as f:
         c = yaml.safe_load(f)
 
     # If prompt is a file path, load the file as the prompt.
