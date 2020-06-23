@@ -2,10 +2,9 @@ SECRET_KEY: <FILL IN>
 
 model: davinci
 num_generate: 10
-max_tokens: 128
-temperature: 0.0
+max_tokens: 512
 
-# Optional lists for loops
+# Lists for loops
 models:
   - ada
   - babbage
@@ -13,6 +12,7 @@ models:
   - davinci
 
 temperatures:
+  - 0.0
   - 0.7
   - 1.0
   - 1.2
