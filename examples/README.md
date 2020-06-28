@@ -14,6 +14,7 @@ These examples show the output in Markdown (for better GitHub rendering), with t
 - `gpt-3`: The GPT-3 announcement itself.
 - `chatbot`: A simple weather chatbot that goes off-the-rails at higher temperatures.
 - `revengeofthesith`: It's treason, then.
+- `rickandmorty`: I'm AI Pickle Rick!
 
 ## Few-Shot Generation
 
