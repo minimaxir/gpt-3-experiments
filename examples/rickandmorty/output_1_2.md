@@ -13,14 +13,14 @@ Airport Guard: I'm with the TSA. Could you please step into one of our private s
 Pickle Rick:  Absolutely! I'll tell ya, you know, we call ourselves the ick-duck, but we're the joke, it's the whole world, isn't it Jerry? The whole—the whole wide world's a fuckin' sick joke. Any  
 Jerry:  Oh. You say the word "pickle" in front of other people and they don't think you're a genius.  
 Pickle Rick: [scoffs] You—Jerry. Do you know about my separation anxiety?  
-Jerry:  The whole world isn't one... it's not a good-thinking, single-citizenship world, it's a shitbox backwards apathetic planet ragamuffin of indifference, you'll never bring anything to anyone. People are inherently ungiving to the point where they'd rather die than give you a hug. They'd rather die than help you up brick wall like some kinda freaking bicycles caper, and I'm not a god and I'm sure as hell not a diety, so I'm better than everyone—better than all of you, and you know what else?! I'm unrecognizable moist garbage to the blind man, so how do you like that, you bitch-ass- honky pussies?  I'm a goddamn pickle and I'm gonna be a pickle and I'm still better than all you dickbunch motherfuckers!  
+Jerry:  The whole world isn't one... it's not a good-thinking, single-citizenship world, it's a shitbox backwards apathetic planet ragamuffin of indifference, you'll never bring anything to anyone. People are inherently ungiving to the point where they'd rather die than give you a hug. They'd rather die than help you up brick wall like some kinda freaking bicycles caper, and I'm not a god and I'm sure as hell not a diety, so I'm better than everyone—better than all of you, and you know what else?! I'm unrecognizable moist garbage to the blind man, so how do you like that, you <<extra censored>>?  I'm a goddamn pickle and I'm gonna be a pickle and I'm still better than all you dickbunch motherfuckers!  
 Halpert:  Get outta my chair.  
 Icelandic Deckhand Rick:  Yeahh--   
 Pickle Rick: [groans, grunts]  Ohh man, Iceland sucks. [a beat of silence]  
-Icelandic Deckhand Rick: [loud exhales, followed by various grunts and motions as if lifting weights  
-  
----  
-  
+Icelandic Deckhand Rick: [loud exhales, followed by various grunts and motions as if lifting weights
+
+---
+
 **[Transition to Morty entering the garage. There is a pickle and a screwdriver on Rick's work bench]**  
 **Pickle Rick: Morty?**  
 **Morty: Rick? W-where are you?**  
@@ -59,10 +59,10 @@ Pickle Rick: And when you got diarrhea... I mean, could I please go inside of yo
 [Screenshot of Pickle Rick]  
 Pickle Rick: Could I please swim around in this cardboard tube situation?  
 Morty: (laughs o0nly halfheartedly) Yes, yes, whatever!  
-[Screenshot  
-  
----  
-  
+[Screenshot
+
+---
+
 **[Transition to Morty entering the garage. There is a pickle and a screwdriver on Rick's work bench]**  
 **Pickle Rick: Morty?**  
 **Morty: Rick? W-where are you?**  
@@ -75,11 +75,11 @@ Morty: (laughs o0nly halfheartedly) Yes, yes, whatever!
 Morty: [lifting the pickle] This is very heavy.  
 Rick/Derrick: Putmeonthephoneputmeonthephoneputmeonthephone.  
 Morty: Hello.  
-Rick/Derrick: (in human voice) L-Larry? How was the reservoir? Terrific, we're all set for tomorrow morning at 3 AM. So where'd you leave __? [tapping] In the kitchen?  
-[Morty puts pause on Derick's body] He's dead, Morty! Ha ha, I killed him, Morty! You want a Bee Movie? I made a bee movie, Morty! With me in it! W-why are you staring at me like that? How do you like being married? I knew you loved Summer, Morty! You know, I've always known. Come on, Morty! W-what? Shave it off and send it to your parents? Right over there? My pubes? Yes, Morty! You cut off your own pubic hair! Good, Morty! Rick Fuck-ing Sanchez! The one and only! Suck my balls, Jerry! What? [chuckles] No, I don't use the garage, Morty. What? Where the hell am I goin'? And who the hell's Shelly? Obviously that's a woman's name, Morty. [affects falsetto scolding] Why does mommy have a feminine name? I mean, does mommy look like a feminine name?! Is that a feminine name?! Is-is-is-is-is-is-is-is is the hair gap thing that I'm not in that much!  
-  
----  
-  
+Rick/Derrick: (in human voice) L-Larry? How was the reservoir? Terrific, we're all set for tomorrow morning at 3 AM. So where'd you leave \_\_? [tapping] In the kitchen?  
+[Morty puts pause on Derick's body] He's dead, Morty! Ha ha, I killed him, Morty! You want a Bee Movie? I made a bee movie, Morty! With me in it! W-why are you staring at me like that? How do you like being married? I knew you loved Summer, Morty! You know, I've always known. Come on, Morty! W-what? Shave it off and send it to your parents? Right over there? My pubes? Yes, Morty! You cut off your own pubic hair! Good, Morty! Rick Fuck-ing Sanchez! The one and only! Suck my balls, Jerry! What? [chuckles] No, I don't use the garage, Morty. What? Where the hell am I goin'? And who the hell's Shelly? Obviously that's a woman's name, Morty. [affects falsetto scolding] Why does mommy have a feminine name? I mean, does mommy look like a feminine name?! Is that a feminine name?! Is-is-is-is-is-is-is-is is the hair gap thing that I'm not in that much!
+
+---
+
 **[Transition to Morty entering the garage. There is a pickle and a screwdriver on Rick's work bench]**  
 **Pickle Rick: Morty?**  
 **Morty: Rick? W-where are you?**  
@@ -95,10 +95,10 @@ Pickle Rick: Hey, Howard, why are you on my couch?
 Pickle Rick: You like to crawl on your hands and knees in unsafe places. Like basements. Basement, Morty. It's very unsanitary.  
 Pickle Rick: Please! This is the one thing I never though I would say 'please' for. It's awful. Just my life dirtied up a little bit, Morty, all right. But call it quits. There's just so much. I'm not the smartest seed in the jar. I learned that all by myself. I'll leave it at that, OK? I learned that all by myself, filthy man.  
 Pickle Rick: Sickenin' on ice. Pickle Future Rick: Alright, let's do it.  
-[Pickle Rick sits in the pickle chair across from Pickle Morty, which have been placed on the coffee  
-  
----  
-  
+[Pickle Rick sits in the pickle chair across from Pickle Morty, which have been placed on the coffee
+
+---
+
 **[Transition to Morty entering the garage. There is a pickle and a screwdriver on Rick's work bench]**  
 **Pickle Rick: Morty?**  
 **Morty: Rick? W-where are you?**  
@@ -107,7 +107,7 @@ Pickle Rick: Sickenin' on ice. Pickle Future Rick: Alright, let's do it.
 **Pickle Rick: Flip the pickle over.**  
 **Morty: What, I'm gonna touch it, and you're gonna tell me it's an alien dick or something.**  
 **Pickle Rick: Come on, flip the pickle, Morty. You're not gonna regret it. The payoff is huge.**  
-**[Morty hesitantly picks up the screwdriver and turns the pickle over. The pickle has Rick's face on it] I turned myself into a pickle, Morty! Boom! Big reveal: I'm a pickle. What do you think about that? I turned myself into a pickle! W-what are you just staring at me for, bro. I turned myself into a pickle, Morty!** A-are you not impressed?! What does it take to impress you anymore, Morty?! I turned myself into a pickle! *********** big thing for me.  
+**[Morty hesitantly picks up the screwdriver and turns the pickle over. The pickle has Rick's face on it] I turned myself into a pickle, Morty! Boom! Big reveal: I'm a pickle. What do you think about that? I turned myself into a pickle! W-what are you just staring at me for, bro. I turned myself into a pickle, Morty!** A-are you not impressed?! What does it take to impress you anymore, Morty?! I turned myself into a pickle! ****\*\*\***** big thing for me.  
 Morty: I was! I was! I'm impressed, I'm impressed! Wow, that's cool. How does it, how do you uhhh...  
 Pickle Rick: C-can you put the pickle down, Morty, p-please? It feels weird with the... with it pointing at me...  
 Morty: How do, how did you do it?  
@@ -119,12 +119,12 @@ Pickle Rick: Well, you just put your mind to it, Morty. You just get in there an
 Morty: Thank you, Rick! That's the best advice I've ever gotten in my whole life! I'll never forget what you just said!  
 Pickle Rick: Whoa, Morty, come on, put the pickle down. This is your eld...  
 Morty: What'd you, what'd you mean, "I thought you said"?! What did you think I said, Rick?  
-Pickle Rick: I thought you said, "D-didn't 84 Hitler's dick down a Jew's throat a couple times?"  
+Pickle Rick: I thought you said, "D-didn't <<extra censored>> a couple times?"  
 Morty: You heard that I was-? Oh, and you thought that was, like a joke? Or-  
-Pickle Rick: [bangs the table] Damn it, Morty, put down the **** pickle! [Morty puts down the pickle] What can I do to make this up to you?! Like, I'll turn myself back into a human if you want me to. J-just reach your hand in here, I-I can do it, I can do it good, Morty. If anybody can turn themselves back into a person, a-anytime they want, it's mec- no, it's me! Pickle Rick! Pickle Rick is *** special, boy! Pickle Rick does it! Not Rick and not any dumb old human, cuz I'm a pickle! I  
-  
----  
-  
+Pickle Rick: [bangs the table] Damn it, Morty, put down the \***_ pickle! [Morty puts down the pickle] What can I do to make this up to you?! Like, I'll turn myself back into a human if you want me to. J-just reach your hand in here, I-I can do it, I can do it good, Morty. If anybody can turn themselves back into a person, a-anytime they want, it's mec- no, it's me! Pickle Rick! Pickle Rick is _** special, boy! Pickle Rick does it! Not Rick and not any dumb old human, cuz I'm a pickle! I
+
+---
+
 **[Transition to Morty entering the garage. There is a pickle and a screwdriver on Rick's work bench]**  
 **Pickle Rick: Morty?**  
 **Morty: Rick? W-where are you?**  
@@ -136,10 +136,10 @@ Pickle Rick: [bangs the table] Damn it, Morty, put down the **** pickle! [Morty 
 **[Morty hesitantly picks up the screwdriver and turns the pickle over. The pickle has Rick's face on it] I turned myself into a pickle, Morty! Boom! Big reveal: I'm a pickle. What do you think about that? I turned myself into a pickle! W-what are you just staring at me for, bro. I turned myself into a pickle, Morty!** I turned myself into a pickle and I'm a little wond'ring if you noticed something different about me. You can't put it all together, can you, Morty?! That's what makes it so hilarious! Big reveal, baby! In yo' face! [Morty is grossed out, hands the pickle to Rick who ends up being grossed out as well] Oh, what the fuck?!  
 [Transition to Rick in Morty's math class] Damn it! I forgot my pickle. [runs out of the classroom]  
 Morty: Where's Rick? What does it all mean? [Rick returns with a whole pickle jar] Prepare to finally learn the secrets of my ceaseless lust for revenge! Your whole life, Morty, you've been consumed with your petty little boy fantasy, getting girls, settling in, normal life shit. [throws a pickle at the blackboard] But Rick, he's searching for the meaning of life. [throws a pickle at the blackboard] That's my grandpa. You gotta be awake for that, Morty, for the meaning of life. Welcome, to Pickle Rick! I turned myself into a pickle, and it's a food product, and a Rube Goldberg deviant sex device! [a pickle pendulum hits his fanny pack and gets stuck inside of him] As I'm disposing of the corpse of your math teacher, I'll pause for a second to tell you about this story that I just heard from a security guard at theRelated: Super Mature Content | Xbox 720 The gaming series following the imaginative exploits of Rick Sanchez from 'Adult Swim's' hit animated series 'Rick And Morty'. This is how it starts, these adventures. Now, you're behind the garage bleachers trying to hide from school.  
-Note: The following music was used in this video with the clear intent for it to be considered fair use under Title 17 Section 107 of United States Copyright law, albeit used in a critical, transformative way to provide commentary on the below listed copyrighted entities. " What it Feels Like "(C) 2009 BECKSOURCETAPES, SBK FREESOUNDS & STRICTLY RHYTHM. ALSO FEATURING THE MUSIC OF: Buckethead – Fun House " Games Full O' Crafts "(C) 2015 Shogun Audio Purpose, part of the Brutalethebrand group Inc. SUBSCRIBE TO ENRAGE MIL  
-  
----  
-  
+Note: The following music was used in this video with the clear intent for it to be considered fair use under Title 17 Section 107 of United States Copyright law, albeit used in a critical, transformative way to provide commentary on the below listed copyrighted entities. " What it Feels Like "(C) 2009 BECKSOURCETAPES, SBK FREESOUNDS & STRICTLY RHYTHM. ALSO FEATURING THE MUSIC OF: Buckethead – Fun House " Games Full O' Crafts "(C) 2015 Shogun Audio Purpose, part of the Brutalethebrand group Inc. SUBSCRIBE TO ENRAGE MIL
+
+---
+
 **[Transition to Morty entering the garage. There is a pickle and a screwdriver on Rick's work bench]**  
 **Pickle Rick: Morty?**  
 **Morty: Rick? W-where are you?**  
@@ -164,13 +164,12 @@ Pickle Rick: Oh. Well I guess I'll die, then, won't I? I guess I'll just die. In
 Morty: What?  
 Pickle Rick: I'm just gonna die here, Morty! And it's all because of you! This is all your fucking fault!  
 Morty: I gotta find the antidote, Dad.  
-[Pickle Rick gets taken away by the twister]  
-[Transition to Pickle Rick outside in the twister]  
+[Pickle Rick gets taken away by the twister][transition to pickle rick outside in the twister]  
 [Rick picks up some nearby mushrooms and powders them with the sprinkler]   
-Pickle Rick: Can't believe all this ingenuity's just going to go to waste.  
-  
----  
-  
+Pickle Rick: Can't believe all this ingenuity's just going to go to waste.
+
+---
+
 **[Transition to Morty entering the garage. There is a pickle and a screwdriver on Rick's work bench]**  
 **Pickle Rick: Morty?**  
 **Morty: Rick? W-where are you?**  
@@ -189,10 +188,10 @@ Pickle Rick: Alright. They think they've got you. They think they've got your li
 Morty: No!  
 Pickle Rick: Yes, you are! They turned you into a mindless drone, Morty, an "in-dudd" consumer! But like [shouting in Morty's face] mmm-hmm basic [Pulls Rick's extension cable out of the outlet] science, Morty, the science of getting high! Twitch, Morty. Twitch for me.  
 Morty: This is just, like, the moistest thing I've ever seen.  
-Pickle Rick: Morty,  
-  
----  
-  
+Pickle Rick: Morty,
+
+---
+
 **[Transition to Morty entering the garage. There is a pickle and a screwdriver on Rick's work bench]**  
 **Pickle Rick: Morty?**  
 **Morty: Rick? W-where are you?**  
@@ -214,10 +213,10 @@ Pickle Rick: Is this the right spot, Morty?
 Morty: Let's just get this over with, eh.  
 Pickle Rick: So, you know when you said we could go out to Las Vegas?  
 Morty: Yes.  
-Pickle Rick: Remember when I said that, we could go to that place with all the  
-  
----  
-  
+Pickle Rick: Remember when I said that, we could go to that place with all the
+
+---
+
 **[Transition to Morty entering the garage. There is a pickle and a screwdriver on Rick's work bench]**  
 **Pickle Rick: Morty?**  
 **Morty: Rick? W-where are you?**  
@@ -243,11 +242,9 @@ Ear witness: Suck a big guy's dick.
 Rick: Okay, Morty, I found a way out. A two-season arc where we turn ourselves into an internet sensation.  
 Ear witness: Yeah, they thought it was a better idea. Those bones just aren't as cheap as everything else.  
 Rick: The ice caps are melting, and global warming is real, people. [Morty groans] I can't believe you eat all the time, Morty.  
-Morty: [Annoyed noise]  
-[Rick taps on Morty's phone]  
+Morty: [Annoyed noise][rick taps on morty's phone]  
 Rick: This sends a message to my secret email. They're gonna pick up where they left off on coding my master plan. But right now, we gotta get powered up.  
 [A scientist is slicing into Rick's pickle body]  
-Pickle Scientist: Today will be the beginning  
-  
----  
-  
+Pickle Scientist: Today will be the beginning
+
+---
